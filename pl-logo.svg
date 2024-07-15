@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="1020 1051 1000 1000" width="1000" height="1000">
+	<title>logo</title>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: #0bdeb3 } 
+	</style>
+	<g id="Layer 1">
+		<path id="&lt;Path&gt;" class="s0" d="m2020 2051h-1000v-1000h1000z"/>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" fill-rule="evenodd" class="s1" d="m1231.8 1784.8l109.6-181.2h-109.6z"/>
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" fill-rule="evenodd" class="s1" d="m1341.4 1603.6l-109.6 46v-46z"/>
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" fill-rule="evenodd" class="s1" d="m1758.9 1398.7l49.3-81.5h-101.9-289.6l-107.4 166.3h97l54.8-84.8h194.5l-76.7 123.4h-294.5l-52.6 81.5h403.2l100.6-166.3 23.3-38.6z"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<map id="plParticleInitializer_RandomColor" name="plParticleInitializer_RandomColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,379,167,421"/>
+<area shape="rect" id="Node000002" href="$dc/dba/classpl_particle_initializer.htm" title="Base class for stream spawners that are used by plParticleEmitter&#39;s." alt="" coords="41,304,167,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,346,107,378,101,378,101,346"/>
+<area shape="rect" id="Node000003" href="$dc/d21/classpl_particle_module.htm" title=" " alt="" coords="45,229,163,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,272,107,304,101,304,101,272"/>
+<area shape="rect" id="Node000004" href="$d9/d4a/classpl_processing_stream_processor.htm" title="Base class for all stream processor implementations." alt="" coords="5,155,203,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,197,107,229,101,229,101,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="45,80,163,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="107,122,107,154,101,154,101,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="65,5,143,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="107,48,107,80,101,80,101,48"/>
+</map>

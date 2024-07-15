@@ -1,0 +1,9 @@
+<map id="plQtPropertyEditorAngleWidget" name="plQtPropertyEditorAngleWidget">
+<area shape="rect" id="Node000001" title="*** ANGLE SPINBOX ***" alt="" coords="5,229,208,256"/>
+<area shape="rect" id="Node000002" href="$d7/dd1/classpl_qt_standard_property_widget.htm" title="Base class for most &#39;simple&#39; property type widgets. Implements some of the standard functionality." alt="" coords="13,155,200,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,197,109,229,104,229,104,197"/>
+<area shape="rect" id="Node000003" href="$d2/d2e/classpl_qt_property_widget.htm" title="Base class for all property widgets." alt="" coords="39,80,174,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,122,109,154,104,154,104,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="70,5,143,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,48,109,80,104,80,104,48"/>
+</map>

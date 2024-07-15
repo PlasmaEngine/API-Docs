@@ -1,0 +1,7 @@
+<map id="plFileWriter" name="plFileWriter">
+<area shape="rect" id="Node000001" title="The default class to use to write data to a file, implements the plStreamWriter interface." alt="" coords="20,155,108,181"/>
+<area shape="rect" id="Node000002" href="$dc/d02/classpl_file_writer_base.htm" title=" " alt="" coords="5,80,123,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,122,67,154,61,154,61,122"/>
+<area shape="rect" id="Node000003" href="$d6/d90/classpl_stream_writer.htm" title="Interface for binary out (write) streams." alt="" coords="10,5,118,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,48,67,80,61,80,61,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="plXRInterface" name="plXRInterface">
+<area shape="rect" id="Node000001" title="XR singleton interface. Needs to be initialized to be used for VR or AR purposes." alt="" coords="58,5,154,32"/>
+<area shape="rect" id="Node000002" href="$d2/d2a/classpl_dummy_x_r.htm" title=" " alt="" coords="5,80,98,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,46,63,81,59,78,85,43"/>
+<area shape="rect" id="Node000003" href="$dd/df3/classpl_open_x_r.htm" title=" " alt="" coords="122,80,200,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,43,154,78,149,81,123,46"/>
+</map>

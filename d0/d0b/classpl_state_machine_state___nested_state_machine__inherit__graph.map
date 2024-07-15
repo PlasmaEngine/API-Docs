@@ -1,0 +1,9 @@
+<map id="plStateMachineState_NestedStateMachine" name="plStateMachineState_NestedStateMachine">
+<area shape="rect" id="Node000001" title="A state machine state implementation that represents another state machine nested within this state...." alt="" coords="5,229,155,272"/>
+<area shape="rect" id="Node000002" href="$da/d36/classpl_state_machine_state.htm" title="Base class for a state in a state machine." alt="" coords="9,155,151,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,197,83,229,77,229,77,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="21,80,139,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,122,83,154,77,154,77,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="41,5,119,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,48,83,80,77,80,77,48"/>
+</map>

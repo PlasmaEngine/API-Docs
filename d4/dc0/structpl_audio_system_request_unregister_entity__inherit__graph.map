@@ -1,0 +1,5 @@
+<map id="plAudioSystemRequestUnregisterEntity" name="plAudioSystemRequestUnregisterEntity">
+<area shape="rect" id="Node000001" title="Audio request to unregister an entity from the audio system." alt="" coords="5,80,222,123"/>
+<area shape="rect" id="Node000002" href="$d4/de5/structpl_audio_system_request.htm" title="Base class for all audio system requests." alt="" coords="35,5,192,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,48,116,80,111,80,111,48"/>
+</map>

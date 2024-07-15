@@ -1,0 +1,5 @@
+<map id="plHashStreamWriter32" name="plHashStreamWriter32">
+<area shape="rect" id="Node000001" title="A stream writer that hashes the data written to it." alt="" coords="5,80,158,107"/>
+<area shape="rect" id="Node000002" href="$d6/d90/classpl_stream_writer.htm" title="Interface for binary out (write) streams." alt="" coords="27,5,136,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,48,84,80,79,80,79,48"/>
+</map>

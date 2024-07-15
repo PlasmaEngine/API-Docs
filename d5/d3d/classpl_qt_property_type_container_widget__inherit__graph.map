@@ -1,0 +1,9 @@
+<map id="plQtPropertyTypeContainerWidget" name="plQtPropertyTypeContainerWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,229,189,272"/>
+<area shape="rect" id="Node000002" href="$d3/d0b/classpl_qt_property_container_widget.htm" title="Base class for all container properties." alt="" coords="5,155,196,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,197,103,229,98,229,98,197"/>
+<area shape="rect" id="Node000003" href="$d2/d2e/classpl_qt_property_widget.htm" title="Base class for all property widgets." alt="" coords="33,80,168,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,122,103,154,98,154,98,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="64,5,137,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,48,103,80,98,80,98,48"/>
+</map>

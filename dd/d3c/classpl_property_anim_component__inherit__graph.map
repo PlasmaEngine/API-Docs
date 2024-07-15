@@ -1,0 +1,9 @@
+<map id="plPropertyAnimComponent" name="plPropertyAnimComponent">
+<area shape="rect" id="Node000001" title="Animates properties on other objects and components according to the property animation resource." alt="" coords="5,229,182,256"/>
+<area shape="rect" id="Node000002" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="45,155,142,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,197,96,229,91,229,91,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="34,80,153,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,122,96,154,91,154,91,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="55,5,132,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,48,96,80,91,80,91,48"/>
+</map>

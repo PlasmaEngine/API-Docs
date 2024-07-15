@@ -1,0 +1,21 @@
+<map id="plSliderAction" name="plSliderAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="571,107,672,133"/>
+<area shape="rect" id="Node000006" href="$d0/d22/classpl_audio_system_slider_action.htm" title=" " alt="" coords="722,5,901,32"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="646,94,679,67,719,42,747,30,749,35,721,46,682,71,649,98"/>
+<area shape="rect" id="Node000007" href="$d0/da8/classpl_camera_speed_slider_action.htm" title=" " alt="" coords="720,56,903,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="686,100,758,81,760,86,688,105"/>
+<area shape="rect" id="Node000008" href="$dd/de6/classpl_fmod_slider_action.htm" title=" " alt="" coords="744,107,879,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="687,117,744,117,744,123,687,123"/>
+<area shape="rect" id="Node000009" href="$de/ddf/classpl_texture_lod_slider_action.htm" title=" " alt="" coords="729,157,894,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="688,135,760,154,758,159,686,140"/>
+<area shape="rect" id="Node000010" href="$de/d38/classpl_view_light_slider_action.htm" title=" " alt="" coords="733,208,890,235"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="649,142,682,169,721,194,749,205,747,210,719,198,679,173,646,146"/>
+<area shape="rect" id="Node000002" href="$d8/dfa/classpl_named_action.htm" title=" " alt="" coords="413,107,523,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,117,570,117,570,123,538,123"/>
+<area shape="rect" id="Node000003" href="$d4/d17/classpl_action.htm" title=" " alt="" coords="297,107,365,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,117,413,117,413,123,381,123"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,107,249,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,117,296,117,296,123,265,123"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,107,83,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="99,117,130,117,130,123,99,123"/>
+</map>

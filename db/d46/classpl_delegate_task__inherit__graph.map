@@ -1,0 +1,9 @@
+<map id="plDelegateTask&lt; T &gt;" name="plDelegateTask&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A simple task implementation that calls a delegate function." alt="" coords="5,229,147,256"/>
+<area shape="rect" id="Node000002" href="$d9/db9/classpl_task.htm" title="Base class for custom tasks." alt="" coords="46,155,106,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,197,79,229,73,229,73,197"/>
+<area shape="rect" id="Node000003" href="$d2/df5/classpl_ref_counted.htm" title="Base class for reference counted objects." alt="" coords="27,80,125,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,122,79,154,73,154,73,122"/>
+<area shape="rect" id="Node000004" href="$de/da6/classpl_ref_counting_impl.htm" title=" " alt="" coords="13,5,139,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="79,48,79,80,73,80,73,48"/>
+</map>

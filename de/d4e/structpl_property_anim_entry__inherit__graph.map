@@ -1,0 +1,7 @@
+<map id="plPropertyAnimEntry" name="plPropertyAnimEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="118,5,259,32"/>
+<area shape="rect" id="Node000002" href="$db/ded/structpl_color_property_anim_entry.htm" title=" " alt="" coords="5,80,177,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,44,109,82,106,77,158,39"/>
+<area shape="rect" id="Node000003" href="$d1/db2/structpl_float_property_anim_entry.htm" title=" " alt="" coords="200,80,371,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,39,270,77,267,82,216,44"/>
+</map>

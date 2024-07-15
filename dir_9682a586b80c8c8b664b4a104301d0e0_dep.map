@@ -1,0 +1,18 @@
+<map id="Code/Engine/GameEngine" name="Code/Engine/GameEngine">
+<area shape="rect" id="node2" href="dir_a089eeb7349c86baa8fb1f4d6c043fee.htm" title="AI" alt="" coords="158,64,197,91"/>
+<area shape="rect" id="node3" href="dir_5fd01b6b49567b6bad083339ac06576e.htm" title="Animation" alt="" coords="220,64,300,91"/>
+<area shape="rect" id="node4" href="dir_35591a6cb6c5385116d606b244662fb2.htm" title="Configuration" alt="" coords="324,64,420,91"/>
+<area shape="rect" id="node5" href="dir_2082a9fe4b6974b257e30caab2e31218.htm" title="DearImgui" alt="" coords="444,64,524,91"/>
+<area shape="rect" id="node6" href="dir_ad8e162425aa9c070ab6683b80587c8f.htm" title="Effects" alt="" coords="548,64,609,91"/>
+<area shape="rect" id="node7" href="dir_cb1aa59fb04355e96dbc741dbc6c0a2c.htm" title="GameApplication" alt="" coords="633,64,754,91"/>
+<area shape="rect" id="node8" href="dir_1d6752e51da2db8970ec7e8c9619dbab.htm" title="Gameplay" alt="" coords="777,64,858,91"/>
+<area shape="rect" id="node9" href="dir_89e641fd8c469291684bc3dbb9cb42e7.htm" title="GameState" alt="" coords="882,64,969,91"/>
+<area shape="rect" id="node10" href="dir_c2373243d372b572af0e2a93528029cb.htm" title="Messages" alt="" coords="993,64,1074,91"/>
+<area shape="rect" id="node11" href="dir_35e90f93fd4c03a8845597794be0a160.htm" title="Physics" alt="" coords="1098,64,1166,91"/>
+<area shape="rect" id="node12" href="dir_2dcb0941180c4e7cfabbd5d7743c2ae6.htm" title="StateMachine" alt="" coords="1191,64,1292,91"/>
+<area shape="rect" id="node13" href="dir_dcaeb977f57dba9020f01a3398926054.htm" title="Utils" alt="" coords="1316,64,1364,91"/>
+<area shape="rect" id="node14" href="dir_8100aa007f119b274eedacf0ae36e58a.htm" title="Volumes" alt="" coords="1388,64,1460,91"/>
+<area shape="rect" id="node15" href="dir_5ca3b5b743328bfa87287dcec0d62e80.htm" title="XR" alt="" coords="1485,64,1523,91"/>
+<area shape="rect" id="clust2" href="dir_9682a586b80c8c8b664b4a104301d0e0.htm" alt="" coords="27,53,1533,101"/>
+<area shape="rect" id="clust1" href="dir_035128dd2074b3ffa643fb93d2ba646f.htm" title="Engine" alt="" coords="16,16,1544,112"/>
+</map>

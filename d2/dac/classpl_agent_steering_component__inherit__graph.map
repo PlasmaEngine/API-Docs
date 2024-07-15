@@ -1,0 +1,13 @@
+<map id="plAgentSteeringComponent" name="plAgentSteeringComponent">
+<area shape="rect" id="Node000001" title="Base class for components that implement &#39;agent steering&#39; behavior. If, moving from point A to point ..." alt="" coords="118,229,298,256"/>
+<area shape="rect" id="Node000005" href="$dc/d2d/classpl_detour_crowd_agent_component.htm" title="Implements navigation, path following and obstacle avoidance. Requires Recast navmesh." alt="" coords="5,304,211,331"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,267,127,306,124,301,177,263"/>
+<area shape="rect" id="Node000006" href="$da/d62/classpl_rc_agent_component.htm" title=" " alt="" coords="234,304,382,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="239,263,292,301,289,306,236,267"/>
+<area shape="rect" id="Node000002" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="159,155,257,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,197,211,229,205,229,205,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="149,80,267,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,122,211,154,205,154,205,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="169,5,247,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,48,211,80,205,80,205,48"/>
+</map>

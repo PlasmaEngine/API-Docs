@@ -1,0 +1,45 @@
+<map id="plEditorInputContext" name="plEditorInputContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,360,435,387"/>
+<area shape="rect" id="Node000004" href="$db/db7/classpl_camera_move_context.htm" title=" " alt="" coords="483,259,635,285"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="396,348,436,321,482,295,510,283,512,288,485,300,439,326,399,353"/>
+<area shape="rect" id="Node000005" href="$db/d90/classpl_gizmo.htm" title=" " alt="" coords="524,309,594,336"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="434,353,523,329,525,334,435,358"/>
+<area shape="rect" id="Node000019" href="$db/d8b/classpl_orbit_camera_context.htm" title="A simple orbit camera. Use LMB to rotate, wheel to zoom, Alt to slow down." alt="" coords="484,360,634,387"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="451,371,484,371,484,376,451,376"/>
+<area shape="rect" id="Node000020" href="$d2/db8/classpl_ortho_gizmo_context.htm" title=" " alt="" coords="486,411,632,437"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="435,389,506,407,505,413,434,394"/>
+<area shape="rect" id="Node000021" href="$dc/d6b/classpl_selection_context.htm" title=" " alt="" coords="494,537,624,564"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="395,395,545,535,541,539,391,399"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,360,249,387"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,371,297,371,297,376,265,376"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,360,83,387"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,371,130,371,130,376,99,376"/>
+<area shape="rect" id="Node000006" href="$d9/d3c/classpl_box_gizmo.htm" title=" " alt="" coords="720,5,812,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="607,312,621,305,633,296,653,264,660,233,660,202,656,171,651,139,651,107,659,75,681,42,698,29,719,21,720,26,701,34,685,46,664,77,656,108,656,139,661,170,665,201,666,234,658,266,637,299,624,310,610,317"/>
+<area shape="rect" id="Node000007" href="$d1/d55/classpl_capsule_gizmo.htm" title=" " alt="" coords="708,56,824,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="607,312,633,295,650,271,657,246,658,221,656,196,653,170,655,145,663,119,681,93,706,76,709,81,685,97,667,121,660,146,659,170,661,195,663,221,662,247,654,273,637,299,610,316"/>
+<area shape="rect" id="Node000008" href="$d0/db1/classpl_click_gizmo.htm" title="The click gizmo displays a simple shape that can be clicked." alt="" coords="717,107,816,133"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="607,311,633,295,647,277,653,259,656,221,658,182,666,163,681,143,697,132,716,124,718,129,700,136,685,147,671,165,664,184,661,221,659,260,651,280,636,299,610,316"/>
+<area shape="rect" id="Node000009" href="$d2/d97/classpl_cone_angle_gizmo.htm" title=" " alt="" coords="700,157,832,184"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="607,310,633,295,644,283,650,271,656,246,662,220,669,207,681,194,699,182,702,187,684,198,673,210,667,222,661,247,655,273,648,286,636,299,610,315"/>
+<area shape="rect" id="Node000010" href="$de/d75/classpl_cone_length_gizmo.htm" title=" " alt="" coords="697,208,836,235"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="607,308,633,295,648,283,656,270,666,257,681,244,705,233,707,238,684,249,670,261,661,273,651,286,636,300,609,313"/>
+<area shape="rect" id="Node000011" href="$dc/d79/classpl_drag_to_position_gizmo.htm" title=" " alt="" coords="688,259,845,285"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="608,308,708,283,709,289,610,313"/>
+<area shape="rect" id="Node000012" href="$d4/d8f/classpl_draw_box_gizmo.htm" title=" " alt="" coords="706,309,827,336"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="609,320,705,320,705,325,609,325"/>
+<area shape="rect" id="Node000013" href="$db/d01/classpl_non_uniform_box_gizmo.htm" title=" " alt="" coords="687,360,846,387"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="610,332,709,357,708,362,608,337"/>
+<area shape="rect" id="Node000014" href="$d5/dca/classpl_rotate_gizmo.htm" title=" " alt="" coords="713,411,820,437"/>
+<area shape="poly" id="edge13_Node000005_Node000014" title=" " alt="" coords="609,333,636,346,651,359,661,372,670,384,684,396,713,410,711,415,681,401,666,388,656,375,648,362,633,350,607,338"/>
+<area shape="rect" id="Node000015" href="$d6/d86/classpl_scale_gizmo.htm" title=" " alt="" coords="715,461,818,488"/>
+<area shape="poly" id="edge14_Node000005_Node000015" title=" " alt="" coords="610,330,636,346,648,359,655,372,661,398,667,423,673,435,684,447,716,464,713,469,681,451,669,439,662,425,656,399,650,374,644,362,633,350,607,335"/>
+<area shape="rect" id="Node000017" href="$d8/dd9/classpl_sphere_gizmo.htm" title=" " alt="" coords="711,512,822,539"/>
+<area shape="poly" id="edge16_Node000005_Node000017" title=" " alt="" coords="610,330,636,346,651,366,659,386,661,424,664,462,671,480,684,498,712,515,709,519,681,502,666,483,658,463,656,424,653,387,647,368,633,350,607,334"/>
+<area shape="rect" id="Node000018" href="$dc/d5a/classpl_translate_gizmo.htm" title=" " alt="" coords="705,563,828,589"/>
+<area shape="poly" id="edge17_Node000005_Node000018" title=" " alt="" coords="610,329,637,346,654,372,662,399,663,424,661,450,659,475,660,500,667,524,685,549,706,564,703,568,681,553,663,527,655,501,653,475,656,449,658,424,657,400,650,375,633,350,607,334"/>
+<area shape="rect" id="Node000016" href="$d7/d8d/classpl_manipulator_scale_gizmo.htm" title="Scale gizmo version that only uses boxes that can be composited with rotate and translate gizmos with..." alt="" coords="898,461,1067,488"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="833,472,898,472,898,477,833,477"/>
+<area shape="rect" id="Node000022" href="$d4/d05/classpl_scene_selection_context.htm" title="Custom selection context for the scene to allow switching the active layer if an object is clicked th..." alt="" coords="683,613,850,640"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="606,568,684,599,718,610,716,615,682,604,604,573"/>
+</map>

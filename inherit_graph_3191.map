@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,107,126,133"/>
+<area shape="rect" id="Node000001" href="$d2/d2c/classpl_qt_image_scene.htm" title=" " alt="" coords="174,81,291,108"/>
+<area shape="poly" id="edge4107_Node000000_Node000001" title=" " alt="" coords="141,106,173,101,174,106,142,111"/>
+<area shape="rect" id="Node000002" href="$d1/df6/classpl_qt_node_scene.htm" title=" " alt="" coords="176,132,288,159"/>
+<area shape="poly" id="edge4108_Node000000_Node000002" title=" " alt="" coords="142,129,176,134,175,139,141,134"/>
+<area shape="rect" id="Node000003" href="$d9/dd3/classpl_qt_animation_graph_asset_scene.htm" title=" " alt="" coords="339,5,548,32"/>
+<area shape="poly" id="edge4109_Node000002_Node000003" title=" " alt="" coords="284,122,289,118,304,99,312,80,320,61,337,42,359,30,361,35,341,46,324,64,317,82,309,102,293,122,287,126"/>
+<area shape="rect" id="Node000004" href="$d5/dee/classpl_qt_proc_gen_scene.htm" title=" " alt="" coords="377,56,510,83"/>
+<area shape="poly" id="edge4110_Node000002_Node000004" title=" " alt="" coords="279,123,290,118,313,104,338,92,376,80,377,85,340,97,316,109,292,122,281,128"/>
+<area shape="rect" id="Node000005" href="$d0/db1/classpl_qt_render_pipeline_asset_scene.htm" title=" " alt="" coords="342,107,545,133"/>
+<area shape="poly" id="edge4111_Node000002_Node000005" title=" " alt="" coords="304,134,341,130,342,135,304,139"/>
+<area shape="rect" id="Node000006" href="$d4/d63/classpl_qt_state_machine_asset_scene.htm" title=" " alt="" coords="346,157,542,184"/>
+<area shape="poly" id="edge4112_Node000002_Node000006" title=" " alt="" coords="304,151,345,156,345,162,304,157"/>
+<area shape="rect" id="Node000007" href="$d5/d72/classpl_qt_visual_script_node_scene.htm" title=" " alt="" coords="352,208,535,235"/>
+<area shape="poly" id="edge4113_Node000002_Node000007" title=" " alt="" coords="273,164,340,194,377,205,376,210,338,198,271,169"/>
+<area shape="rect" id="Node000008" href="$d9/d35/classpl_qt_visual_shader_scene.htm" title=" " alt="" coords="364,259,523,285"/>
+<area shape="poly" id="edge4114_Node000002_Node000008" title=" " alt="" coords="255,169,292,208,315,228,340,244,367,256,364,260,338,249,312,232,289,212,251,173"/>
+</map>

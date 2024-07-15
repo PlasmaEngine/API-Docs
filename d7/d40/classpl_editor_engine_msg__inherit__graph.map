@@ -1,0 +1,47 @@
+<map id="plEditorEngineMsg" name="plEditorEngineMsg">
+<area shape="rect" id="Node000001" title="Base class for all messages between editor and engine that are not bound to any document." alt="" coords="477,477,608,504"/>
+<area shape="rect" id="Node000005" href="$d0/d02/classpl_c_var_msg_to_editor.htm" title=" " alt="" coords="697,5,830,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="545,462,558,367,580,241,595,178,612,121,632,74,654,42,673,28,695,20,697,25,676,33,658,46,636,77,617,123,600,180,585,242,563,368,550,462"/>
+<area shape="rect" id="Node000006" href="$d9/d1c/classpl_change_c_var_msg_to_engine.htm" title=" " alt="" coords="672,56,855,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="540,462,543,388,557,288,571,235,591,183,618,135,654,93,670,81,673,85,657,97,623,138,596,186,576,237,562,290,548,388,545,462"/>
+<area shape="rect" id="Node000007" href="$d1/da3/classpl_console_cmd_msg_to_engine.htm" title=" " alt="" coords="671,107,856,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="542,462,547,396,563,311,578,265,597,221,622,179,654,143,670,132,674,136,657,147,626,183,602,223,583,267,568,312,552,397,547,462"/>
+<area shape="rect" id="Node000008" href="$d6/d98/classpl_console_cmd_result_msg_to_editor.htm" title=" " alt="" coords="656,157,871,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="543,461,552,404,570,332,585,294,603,258,626,224,654,194,671,182,674,187,657,198,630,227,608,260,590,297,576,334,557,405,549,462"/>
+<area shape="rect" id="Node000009" href="$db/d17/classpl_dynamic_string_enum_msg_to_editor.htm" title=" " alt="" coords="669,208,858,251"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="547,462,560,418,581,364,612,308,632,283,654,261,671,249,674,253,657,265,636,287,617,311,586,366,565,419,553,463"/>
+<area shape="rect" id="Node000010" href="$d2/d27/classpl_global_settings_msg_to_engine.htm" title=" " alt="" coords="666,275,861,301"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="551,462,566,427,588,386,617,345,654,311,676,299,678,304,657,315,621,349,593,389,571,429,556,464"/>
+<area shape="rect" id="Node000011" href="$d3/ddf/classpl_log_msg_to_editor.htm" title=" " alt="" coords="701,325,826,352"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="558,462,597,411,624,384,654,362,676,351,700,344,701,349,678,356,657,366,628,388,601,414,562,466"/>
+<area shape="rect" id="Node000012" href="$d9/d2b/classpl_long_op_progress_msg.htm" title=" " alt="" coords="687,376,840,403"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="570,465,609,438,655,412,687,401,689,406,657,417,612,442,573,470"/>
+<area shape="rect" id="Node000013" href="$df/da5/classpl_long_op_replication_msg.htm" title=" " alt="" coords="681,427,846,453"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="618,471,701,451,703,457,619,476"/>
+<area shape="rect" id="Node000014" href="$db/dfa/classpl_long_op_result_msg.htm" title=" " alt="" coords="694,477,832,504"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="623,488,694,488,694,493,623,493"/>
+<area shape="rect" id="Node000015" href="$de/d5e/classpl_project_ready_msg_to_editor.htm" title=" " alt="" coords="672,528,854,555"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="619,505,703,525,701,530,618,511"/>
+<area shape="rect" id="Node000016" href="$d9/ded/classpl_reload_resource_msg_to_engine.htm" title=" " alt="" coords="661,579,866,605"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="573,512,612,539,657,564,689,576,687,581,655,569,609,544,570,516"/>
+<area shape="rect" id="Node000017" href="$d3/d6b/classpl_resource_update_msg_to_engine.htm" title=" " alt="" coords="660,629,866,656"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="562,516,601,567,628,593,657,615,682,626,679,631,654,620,624,597,597,571,558,519"/>
+<area shape="rect" id="Node000018" href="$dc/dde/classpl_restore_resource_msg_to_engine.htm" title=" " alt="" coords="658,680,868,707"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="556,518,571,552,593,593,621,632,657,666,678,677,676,682,654,670,617,636,588,595,566,555,551,520"/>
+<area shape="rect" id="Node000019" href="$d9/d05/classpl_save_profiling_response_to_editor.htm" title=" " alt="" coords="675,731,852,773"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="553,518,565,562,586,616,617,670,636,695,657,717,676,729,673,733,654,721,632,698,612,673,581,618,560,564,547,520"/>
+<area shape="rect" id="Node000020" href="$d3/dc2/classpl_setup_project_msg_to_engine.htm" title=" " alt="" coords="671,797,856,824"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="549,519,557,576,576,647,590,685,608,721,630,754,657,783,674,794,671,799,654,787,626,758,603,724,585,687,570,649,552,577,543,520"/>
+<area shape="rect" id="Node000021" href="$d9/dbb/classpl_shutdown_process_msg_to_engine.htm" title="Sent to remote processes to shut them down. Local processes are simply killed through QProcess::close..." alt="" coords="656,848,871,875"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="547,519,552,584,568,669,583,714,602,758,626,799,657,834,674,845,670,850,654,838,622,802,597,761,578,716,563,671,547,585,542,519"/>
+<area shape="rect" id="Node000022" href="$d7/d77/classpl_simple_config_msg_to_engine.htm" title=" " alt="" coords="670,899,856,925"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="545,519,548,593,562,692,576,744,596,796,623,843,657,885,673,896,670,900,654,889,618,846,591,798,571,746,557,693,543,593,540,520"/>
+<area shape="rect" id="Node000023" href="$df/dda/classpl_update_reflection_type_msg_to_editor.htm" title=" " alt="" coords="672,949,854,992"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="550,519,563,613,586,738,618,858,637,904,658,936,674,948,670,952,654,939,632,906,613,859,581,739,558,614,545,520"/>
+<area shape="rect" id="Node000002" href="$d9/d2b/classpl_process_message.htm" title="Base class for IPC messages transmitted by plIpcChannel." alt="" coords="297,477,429,504"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="445,488,477,488,477,493,445,493"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,477,249,504"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,488,297,488,297,493,264,493"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,477,83,504"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,488,130,488,130,493,99,493"/>
+</map>

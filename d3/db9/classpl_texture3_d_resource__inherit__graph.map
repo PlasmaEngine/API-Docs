@@ -1,0 +1,9 @@
+<map id="plTexture3DResource" name="plTexture3DResource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,151,256"/>
+<area shape="rect" id="Node000002" href="$d8/d1c/classpl_resource.htm" title="The base class for all resources." alt="" coords="35,155,121,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,197,81,229,75,229,75,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="19,80,137,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,122,81,154,75,154,75,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="39,5,117,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="81,48,81,80,75,80,75,48"/>
+</map>

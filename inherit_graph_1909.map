@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d5/d6c/classpl_log_interface.htm" title="Base class for all logging classes." alt="" coords="5,107,107,133"/>
+<area shape="rect" id="Node000001" href="$d6/de3/classpl_asset_processor_log.htm" title="Log for all background processing results." alt="" coords="155,5,300,32"/>
+<area shape="poly" id="edge3546_Node000000_Node000001" title=" " alt="" coords="81,95,114,67,153,42,179,30,181,35,156,46,117,72,84,99"/>
+<area shape="rect" id="Node000002" href="$d1/d7b/classpl_global_log.htm" title="This is the standard log system that plLog sends all messages to." alt="" coords="183,56,272,83"/>
+<area shape="poly" id="edge3547_Node000000_Node000002" title=" " alt="" coords="117,99,182,80,183,85,119,104"/>
+<area shape="rect" id="Node000003" href="$d3/dd7/classpl_log_entry_delegate.htm" title="A log interface implementation that converts a log event into a plLogEntry and calls a delegate with ..." alt="" coords="160,107,294,133"/>
+<area shape="poly" id="edge3548_Node000000_Node000003" title=" " alt="" coords="122,117,160,117,160,123,122,123"/>
+<area shape="rect" id="Node000004" href="$d6/d70/classpl_log_system_to_buffer.htm" title="A simple log interface implementation that gathers all messages in a string buffer." alt="" coords="155,157,300,184"/>
+<area shape="poly" id="edge3549_Node000000_Node000004" title=" " alt="" coords="119,136,180,154,179,159,117,141"/>
+<area shape="rect" id="Node000005" href="$d0/dec/classpl_mute_log.htm" title="Used to ignore all log messages." alt="" coords="187,208,268,235"/>
+<area shape="poly" id="edge3550_Node000000_Node000005" title=" " alt="" coords="84,141,117,168,156,194,187,207,185,212,153,198,114,173,81,145"/>
+</map>

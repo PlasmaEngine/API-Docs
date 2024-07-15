@@ -1,0 +1,23 @@
+<map id="plResourceTypeLoader" name="plResourceTypeLoader">
+<area shape="rect" id="Node000001" title="Base class for all resource loaders." alt="" coords="5,224,159,251"/>
+<area shape="rect" id="Node000002" href="$d0/d15/classpl_config_file_resource_loader.htm" title=" " alt="" coords="228,5,410,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,208,107,170,132,125,164,80,205,42,227,30,229,35,208,46,168,83,136,128,112,172,96,210"/>
+<area shape="rect" id="Node000003" href="$d8/d46/classpl_decal_resource_loader.htm" title=" " alt="" coords="240,56,398,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,209,140,149,171,118,205,92,239,78,241,83,208,97,174,122,144,153,101,212"/>
+<area shape="rect" id="Node000004" href="$dc/d35/classpl_fmod_sound_bank_resource_loader.htm" title=" " alt="" coords="207,107,432,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,211,151,176,206,143,237,131,239,136,208,148,154,180,110,215"/>
+<area shape="rect" id="Node000005" href="$dd/d74/classpl_fmod_sound_event_resource_loader.htm" title=" " alt="" coords="225,157,414,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,217,230,198,231,203,154,222"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="241,224,398,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="174,235,241,235,241,240,174,240"/>
+<area shape="rect" id="Node000007" href="$d1/df8/classpl_resource_loader_from_file.htm" title="A default implementation of plResourceTypeLoader for standard file loading." alt="" coords="231,275,408,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="163,252,254,271,253,277,162,257"/>
+<area shape="rect" id="Node000009" href="$d0/dc2/classpl_resource_loader_from_memory.htm" title="A resource loader that is mainly used to update a resource on the fly with custom data,..." alt="" coords="218,325,420,352"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="115,258,158,286,208,311,242,322,241,327,206,316,155,290,112,262"/>
+<area shape="rect" id="Node000010" href="$db/d5d/classpl_shader_permutation_resource_loader.htm" title=" " alt="" coords="221,376,418,419"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="104,261,148,313,177,339,208,362,230,373,228,378,205,366,173,343,144,316,100,265"/>
+<area shape="rect" id="Node000011" href="$d9/d05/classpl_texture_resource_loader.htm" title=" " alt="" coords="235,443,404,469"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="96,264,112,302,136,347,168,391,208,428,236,442,233,447,205,433,164,395,132,350,107,305,91,267"/>
+<area shape="rect" id="Node000008" href="$d1/d11/classpl_rml_ui_resource_loader.htm" title=" " alt="" coords="480,275,640,301"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="423,285,479,285,479,291,423,291"/>
+</map>

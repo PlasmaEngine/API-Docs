@@ -1,0 +1,5 @@
+<map id="plTranslatorPassThrough" name="plTranslatorPassThrough">
+<area shape="rect" id="Node000001" title="Just returns the same string that is passed into it. Can be used to display the actually untranslated..." alt="" coords="5,80,170,107"/>
+<area shape="rect" id="Node000002" href="$db/db5/classpl_translator.htm" title="Base class to translate one string into another." alt="" coords="43,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,48,90,80,85,80,85,48"/>
+</map>

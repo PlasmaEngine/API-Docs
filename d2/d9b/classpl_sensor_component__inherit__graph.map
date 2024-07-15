@@ -1,0 +1,15 @@
+<map id="plSensorComponent" name="plSensorComponent">
+<area shape="rect" id="Node000001" title="Base class for sensor components that can be used for AI perception like vision or hearing." alt="" coords="222,229,360,256"/>
+<area shape="rect" id="Node000005" href="$da/ddb/classpl_sensor_cone_component.htm" title=" " alt="" coords="5,304,174,331"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="242,264,126,306,124,301,241,259"/>
+<area shape="rect" id="Node000006" href="$d7/d45/classpl_sensor_cylinder_component.htm" title=" " alt="" coords="198,304,384,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="294,272,294,304,288,304,288,272"/>
+<area shape="rect" id="Node000007" href="$df/d17/classpl_sensor_sphere_component.htm" title=" " alt="" coords="408,304,587,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="342,259,462,301,460,306,340,264"/>
+<area shape="rect" id="Node000002" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="242,155,340,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,197,294,229,288,229,288,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="232,80,350,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,122,294,154,288,154,288,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="252,5,330,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="294,48,294,80,288,80,288,48"/>
+</map>

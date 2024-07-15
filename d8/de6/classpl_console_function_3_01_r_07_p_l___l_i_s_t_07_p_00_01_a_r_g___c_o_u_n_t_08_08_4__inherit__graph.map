@@ -1,0 +1,9 @@
+<map id="plConsoleFunction&lt; R(PL_LIST(P, ARG_COUNT))&gt;" name="plConsoleFunction&lt; R(PL_LIST(P, ARG_COUNT))&gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,245,217,288"/>
+<area shape="rect" id="Node000002" href="$d4/db0/classpl_console_function_base.htm" title="Base class for all types of plConsoleFunction, represents functions to be exposed to plConsole." alt="" coords="36,171,194,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,213,118,245,112,245,112,213"/>
+<area shape="rect" id="Node000003" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="5,80,225,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,139,118,170,112,170,112,139"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="76,5,154,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,48,118,80,112,80,112,48"/>
+</map>

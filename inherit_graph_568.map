@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d4/dc8/classpl_array_base.htm" title=" " alt="" coords="5,65,161,124"/>
+<area shape="rect" id="Node000001" href="$d7/d89/classpl_dynamic_array_base.htm" title=" " alt="" coords="209,73,352,116"/>
+<area shape="poly" id="edge1232_Node000000_Node000001" title=" " alt="" coords="176,92,208,92,208,97,176,97"/>
+<area shape="rect" id="Node000002" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="403,23,587,49"/>
+<area shape="poly" id="edge1233_Node000001_Node000002" title=" " alt="" coords="366,68,399,59,441,47,442,53,401,64,368,73"/>
+<area shape="rect" id="Node000003" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="402,73,589,116"/>
+<area shape="poly" id="edge1234_Node000001_Node000003" title=" " alt="" coords="368,92,401,92,401,97,368,97"/>
+<area shape="rect" id="Node000008" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="400,140,590,183"/>
+<area shape="poly" id="edge1239_Node000001_Node000008" title=" " alt="" coords="366,119,425,137,423,142,365,124"/>
+<area shape="rect" id="Node000004" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="638,5,824,32"/>
+<area shape="poly" id="edge1235_Node000003_Node000004" title=" " alt="" coords="571,65,589,59,638,41,676,30,678,35,639,47,591,64,573,70"/>
+<area shape="rect" id="Node000005" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="638,56,824,83"/>
+<area shape="poly" id="edge1236_Node000003_Node000005" title=" " alt="" coords="604,80,638,77,638,82,605,86"/>
+<area shape="rect" id="Node000006" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="638,107,824,133"/>
+<area shape="poly" id="edge1237_Node000003_Node000006" title=" " alt="" coords="605,104,638,107,638,113,604,109"/>
+<area shape="rect" id="Node000007" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="650,157,812,200"/>
+<area shape="poly" id="edge1238_Node000003_Node000007" title=" " alt="" coords="573,119,591,125,671,154,669,159,589,131,572,124"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="plGALTexture" name="plGALTexture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="178,320,279,347"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/classpl_g_a_l_proxy_texture.htm" title=" " alt="" coords="5,395,140,421"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,356,101,396,99,392,187,351"/>
+<area shape="rect" id="Node000007" href="$d1/d0e/classpl_g_a_l_texture_d_x11.htm" title=" " alt="" coords="163,395,294,421"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="231,362,231,394,226,394,226,362"/>
+<area shape="rect" id="Node000009" href="$d6/dcc/classpl_g_a_l_texture_vulkan.htm" title=" " alt="" coords="338,395,479,421"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="275,350,378,392,376,397,273,355"/>
+<area shape="rect" id="Node000002" href="$da/d33/classpl_g_a_l_resource.htm" title=" " alt="" coords="127,229,330,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,288,231,319,226,319,226,288"/>
+<area shape="rect" id="Node000003" href="$d5/d2f/classpl_g_a_l_resource_base.htm" title=" " alt="" coords="157,155,300,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,197,231,229,226,229,226,197"/>
+<area shape="rect" id="Node000004" href="$d2/df5/classpl_ref_counted.htm" title="Base class for reference counted objects." alt="" coords="179,80,278,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,122,231,154,226,154,226,122"/>
+<area shape="rect" id="Node000005" href="$de/da6/classpl_ref_counting_impl.htm" title=" " alt="" coords="166,5,291,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,48,231,80,226,80,226,48"/>
+<area shape="rect" id="Node000008" href="$d8/d0f/classpl_g_a_l_shared_texture_d_x11.htm" title=" " alt="" coords="132,469,304,496"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="227,437,222,469,217,469,222,436"/>
+<area shape="rect" id="Node000010" href="$d8/dc8/classpl_g_a_l_shared_texture_vulkan.htm" title=" " alt="" coords="327,469,508,496"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="415,436,419,469,414,469,409,437"/>
+</map>

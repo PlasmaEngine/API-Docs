@@ -1,0 +1,9 @@
+<map id="plEngineProcessGameApplication" name="plEngineProcessGameApplication">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,224,256"/>
+<area shape="rect" id="Node000002" href="$db/d17/classpl_game_application.htm" title="The base class for all typical game applications made with plEngine." alt="" coords="49,155,180,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,197,117,229,112,229,112,197"/>
+<area shape="rect" id="Node000003" href="$d5/d48/classpl_game_application_base.htm" title=" " alt="" coords="34,80,195,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,122,117,154,112,154,112,122"/>
+<area shape="rect" id="Node000004" href="$dd/d30/classpl_application.htm" title="Base class to be used by applications based on plEngine." alt="" coords="67,5,162,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,48,117,80,112,80,112,48"/>
+</map>

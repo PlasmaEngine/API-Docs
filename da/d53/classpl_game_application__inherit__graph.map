@@ -1,0 +1,13 @@
+<map id="plGameApplication" name="plGameApplication">
+<area shape="rect" id="Node000001" title="The base class for all typical game applications made with plEngine." alt="" coords="249,155,380,181"/>
+<area shape="rect" id="Node000004" href="$d8/d4a/classpl_engine_process_game_application.htm" title=" " alt="" coords="5,229,224,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,189,151,231,149,226,265,184"/>
+<area shape="rect" id="Node000005" href="$d1/dea/classpl_player_application.htm" title=" " alt="" coords="248,229,381,256"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="317,197,317,229,312,229,312,197"/>
+<area shape="rect" id="Node000006" href="$d3/d66/classpl_shader_compiler_application.htm" title=" " alt="" coords="405,229,592,256"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="362,185,467,226,465,231,360,190"/>
+<area shape="rect" id="Node000002" href="$d5/d48/classpl_game_application_base.htm" title=" " alt="" coords="234,80,395,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="317,122,317,154,312,154,312,122"/>
+<area shape="rect" id="Node000003" href="$dd/d30/classpl_application.htm" title="Base class to be used by applications based on plEngine." alt="" coords="267,5,362,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,48,317,80,312,80,312,48"/>
+</map>

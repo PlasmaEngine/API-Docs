@@ -1,0 +1,15 @@
+<map id="plLightRenderData" name="plLightRenderData">
+<area shape="rect" id="Node000001" title="Base class for light render data objects." alt="" coords="233,229,360,256"/>
+<area shape="rect" id="Node000005" href="$d5/dee/classpl_directional_light_render_data.htm" title="The render data object for directional lights." alt="" coords="5,304,194,331"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="249,264,135,306,133,301,247,259"/>
+<area shape="rect" id="Node000006" href="$d9/d0e/classpl_point_light_render_data.htm" title="The render data object for point lights." alt="" coords="218,304,376,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="300,272,300,304,294,304,294,272"/>
+<area shape="rect" id="Node000007" href="$db/d6a/classpl_spot_light_render_data.htm" title="The render data object for spot lights." alt="" coords="400,304,554,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="343,260,446,301,444,306,341,265"/>
+<area shape="rect" id="Node000002" href="$df/df1/classpl_render_data.htm" title="Base class for all render data. Render data must contain all information that is needed to render the..." alt="" coords="247,155,346,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,197,300,229,294,229,294,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="238,80,356,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,122,300,154,294,154,294,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="258,5,336,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,48,300,80,294,80,294,48"/>
+</map>

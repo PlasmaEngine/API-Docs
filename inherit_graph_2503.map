@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d2/dad/classpl_script_coroutine.htm" title="Base class of script coroutines." alt="" coords="5,219,126,245"/>
+<area shape="rect" id="Node000001" href="$d4/dae/classpl_typed_script_coroutine.htm" title=" " alt="" coords="203,5,446,80"/>
+<area shape="poly" id="edge3831_Node000000_Node000001" title=" " alt="" coords="79,204,116,146,142,116,172,90,201,73,204,78,175,94,146,120,120,150,83,206"/>
+<area shape="rect" id="Node000003" href="$d4/dae/classpl_typed_script_coroutine.htm" title=" " alt="" coords="174,104,476,179"/>
+<area shape="poly" id="edge3833_Node000000_Node000003" title=" " alt="" coords="114,210,173,188,205,177,207,182,175,193,116,215"/>
+<area shape="rect" id="Node000005" href="$d4/dae/classpl_typed_script_coroutine.htm" title=" " alt="" coords="240,203,410,261"/>
+<area shape="poly" id="edge3835_Node000000_Node000005" title=" " alt="" coords="141,229,239,229,239,235,141,235"/>
+<area shape="rect" id="Node000007" href="$d4/dae/classpl_typed_script_coroutine.htm" title="Base class of coroutines which are implemented in C++ to allow automatic unpacking of the arguments f..." alt="" coords="247,285,402,328"/>
+<area shape="poly" id="edge3837_Node000000_Node000007" title=" " alt="" coords="114,249,174,271,247,289,246,294,173,276,112,254"/>
+<area shape="rect" id="Node000008" href="$d8/d50/classpl_visual_script_coroutine.htm" title=" " alt="" coords="247,352,403,379"/>
+<area shape="poly" id="edge3838_Node000000_Node000008" title=" " alt="" coords="87,257,124,299,148,320,175,338,210,351,247,359,246,364,208,356,172,342,145,325,121,303,83,260"/>
+<area shape="rect" id="Node000002" href="$d6/d46/classpl_script_coroutine___move_to.htm" title=" " alt="" coords="545,29,716,56"/>
+<area shape="poly" id="edge3832_Node000001_Node000002" title=" " alt="" coords="462,40,545,40,545,45,462,45"/>
+<area shape="rect" id="Node000004" href="$de/df9/classpl_script_coroutine___tween_property.htm" title=" " alt="" coords="524,128,737,155"/>
+<area shape="poly" id="edge3834_Node000003_Node000004" title=" " alt="" coords="492,139,524,139,524,144,492,144"/>
+<area shape="rect" id="Node000006" href="$d7/d90/classpl_script_coroutine___wait.htm" title=" " alt="" coords="554,219,708,245"/>
+<area shape="poly" id="edge3836_Node000005_Node000006" title=" " alt="" coords="426,229,553,229,553,235,426,235"/>
+</map>

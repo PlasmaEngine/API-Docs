@@ -1,0 +1,7 @@
+<map id="plRmlUiResourceLoader" name="plRmlUiResourceLoader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,155,174,181"/>
+<area shape="rect" id="Node000002" href="$d1/df8/classpl_resource_loader_from_file.htm" title="A default implementation of plResourceTypeLoader for standard file loading." alt="" coords="5,80,182,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,122,96,154,91,154,91,122"/>
+<area shape="rect" id="Node000003" href="$da/d6b/classpl_resource_type_loader.htm" title="Base class for all resource loaders." alt="" coords="17,5,170,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,48,96,80,91,80,91,48"/>
+</map>

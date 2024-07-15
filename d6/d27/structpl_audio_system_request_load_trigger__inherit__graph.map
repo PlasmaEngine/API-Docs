@@ -1,0 +1,5 @@
+<map id="plAudioSystemRequestLoadTrigger" name="plAudioSystemRequestLoadTrigger">
+<area shape="rect" id="Node000001" title="Audio request to load data needed to activate a trigger." alt="" coords="5,80,191,123"/>
+<area shape="rect" id="Node000002" href="$d4/de5/structpl_audio_system_request.htm" title="Base class for all audio system requests." alt="" coords="19,5,177,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,48,101,80,95,80,95,48"/>
+</map>

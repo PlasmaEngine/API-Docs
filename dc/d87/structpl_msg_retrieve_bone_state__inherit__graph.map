@@ -1,0 +1,9 @@
+<map id="plMsgRetrieveBoneState" name="plMsgRetrieveBoneState">
+<area shape="rect" id="Node000001" title="Queries the local transforms of each bone in an object with a skeleton." alt="" coords="5,229,169,256"/>
+<area shape="rect" id="Node000002" href="$d0/dde/classpl_message.htm" title="Base class for all message types. Each message type has it&#39;s own id which is used to dispatch message..." alt="" coords="45,155,129,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,197,90,229,84,229,84,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="28,80,146,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,122,90,154,84,154,84,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="48,5,126,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="90,48,90,80,84,80,84,48"/>
+</map>

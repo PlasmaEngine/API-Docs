@@ -1,0 +1,9 @@
+<map id="plAudioWorldModule" name="plAudioWorldModule">
+<area shape="rect" id="Node000001" title="World Module allowing to access audio system features, query environments and environment amounts,..." alt="" coords="5,229,146,256"/>
+<area shape="rect" id="Node000002" href="$df/df2/classpl_world_module.htm" title=" " alt="" coords="22,155,129,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,197,78,229,73,229,73,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="16,80,135,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,122,78,154,73,154,73,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="37,5,114,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="78,48,78,80,73,80,73,48"/>
+</map>

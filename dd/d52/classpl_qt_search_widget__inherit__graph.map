@@ -1,0 +1,5 @@
+<map id="plQtSearchWidget" name="plQtSearchWidget">
+<area shape="rect" id="Node000001" title="A widget that contains a line edit for a search text and a button to clear the search text." alt="" coords="5,80,133,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="33,5,105,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,48,72,80,66,80,66,48"/>
+</map>

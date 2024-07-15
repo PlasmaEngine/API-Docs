@@ -1,0 +1,9 @@
+<map id="plQtJoltCollisionMeshAssetDocumentWindow" name="plQtJoltCollisionMeshAssetDocumentWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="10,229,191,272"/>
+<area shape="rect" id="Node000002" href="$d2/d28/classpl_qt_engine_document_window.htm" title="Base class for all document windows that need a connection to the engine process, and might want to r..." alt="" coords="5,155,196,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,197,103,229,98,229,98,197"/>
+<area shape="rect" id="Node000003" href="$dc/de7/classpl_qt_document_window.htm" title="Base class for all document windows. Handles the most basic document window management." alt="" coords="25,80,176,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,122,103,154,98,154,98,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="48,5,153,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,48,103,80,98,80,98,48"/>
+</map>

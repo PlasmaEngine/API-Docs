@@ -1,0 +1,13 @@
+<map id="plComponentManagerSimple&lt; ComponentType, UpdateType, StorageType &gt;" name="plComponentManagerSimple&lt; ComponentType, UpdateType, StorageType &gt;">
+<area shape="rect" id="Node000001" title="Simple component manager implementation that calls an update method on all components every frame." alt="" coords="13,411,221,469"/>
+<area shape="rect" id="Node000002" href="$db/d70/classpl_component_manager.htm" title=" " alt="" coords="5,304,229,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,378,120,410,114,410,114,378"/>
+<area shape="rect" id="Node000003" href="$d2/db6/classpl_component_manager_base.htm" title="Base class for all component managers. Do not derive directly from this class, but derive from plComp..." alt="" coords="28,229,206,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,272,120,303,114,303,114,272"/>
+<area shape="rect" id="Node000004" href="$df/df2/classpl_world_module.htm" title=" " alt="" coords="63,155,171,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,197,120,229,114,229,114,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="58,80,176,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="120,122,120,154,114,154,114,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="78,5,156,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="120,48,120,80,114,80,114,48"/>
+</map>

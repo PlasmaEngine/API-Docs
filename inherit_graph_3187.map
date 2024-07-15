@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,81,108,108"/>
+<area shape="rect" id="Node000001" href="$d6/d11/classpl_qt_document_panel.htm" title=" " alt="" coords="156,81,293,108"/>
+<area shape="poly" id="edge4086_Node000000_Node000001" title=" " alt="" coords="123,92,155,92,155,97,123,97"/>
+<area shape="rect" id="Node000002" href="$d9/d6b/classpl_qt_game_object_panel.htm" title=" " alt="" coords="341,5,492,32"/>
+<area shape="poly" id="edge4087_Node000001_Node000002" title=" " alt="" coords="268,72,340,42,371,30,373,35,342,46,270,77"/>
+<area shape="rect" id="Node000003" href="$d9/dfc/classpl_qt_layer_panel.htm" title=" " alt="" coords="362,56,472,83"/>
+<area shape="poly" id="edge4088_Node000001_Node000003" title=" " alt="" coords="308,81,361,74,361,79,309,86"/>
+<area shape="rect" id="Node000004" href="$d8/d8a/classpl_qt_scenegraph_panel.htm" title=" " alt="" coords="343,107,490,133"/>
+<area shape="poly" id="edge4089_Node000001_Node000004" title=" " alt="" coords="309,103,343,108,342,113,308,108"/>
+<area shape="rect" id="Node000005" href="$da/da2/classpl_qt_skeleton_panel.htm" title=" " alt="" coords="352,157,481,184"/>
+<area shape="poly" id="edge4090_Node000001_Node000005" title=" " alt="" coords="270,112,342,143,373,154,371,159,340,148,268,117"/>
+</map>

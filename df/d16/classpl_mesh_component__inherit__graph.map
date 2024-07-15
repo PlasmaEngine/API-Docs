@@ -1,0 +1,17 @@
+<map id="plMeshComponent" name="plMeshComponent">
+<area shape="rect" id="Node000001" title="Renders a single instance of a static mesh." alt="" coords="102,379,231,405"/>
+<area shape="rect" id="Node000007" href="$de/d49/classpl_gizmo_component.htm" title="Used by the editor to render gizmo meshes." alt="" coords="5,453,141,480"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="140,417,91,455,87,451,136,413"/>
+<area shape="rect" id="Node000008" href="$d1/dab/classpl_proc_vertex_color_component.htm" title=" " alt="" coords="165,453,357,480"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="197,413,246,451,243,455,193,417"/>
+<area shape="rect" id="Node000002" href="$dc/d4a/classpl_mesh_component_base.htm" title="Base class for components that render static or animated meshes." alt="" coords="87,304,246,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,346,169,378,164,378,164,346"/>
+<area shape="rect" id="Node000003" href="$d4/d24/classpl_render_component.htm" title="Base class for objects that should be rendered." alt="" coords="97,229,236,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,272,169,304,164,304,164,272"/>
+<area shape="rect" id="Node000004" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="118,155,215,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,197,169,229,164,229,164,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="107,80,226,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,122,169,154,164,154,164,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="128,5,205,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="169,48,169,80,164,80,164,48"/>
+</map>

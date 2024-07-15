@@ -1,0 +1,9 @@
+<map id="plParticleEmitterFactory_Burst" name="plParticleEmitterFactory_Burst">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,167,272"/>
+<area shape="rect" id="Node000002" href="$d0/d3f/classpl_particle_emitter_factory.htm" title="Base class for all particle emitters." alt="" coords="5,155,167,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,197,89,229,83,229,83,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="27,80,145,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,122,89,154,83,154,83,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="47,5,125,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,48,89,80,83,80,83,48"/>
+</map>

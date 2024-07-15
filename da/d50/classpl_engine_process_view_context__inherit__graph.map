@@ -1,0 +1,31 @@
+<map id="plEngineProcessViewContext" name="plEngineProcessViewContext">
+<area shape="rect" id="Node000001" title="Represents the view/window on the engine process side, holds all data necessary for rendering." alt="" coords="5,335,198,361"/>
+<area shape="rect" id="Node000002" href="$d2/db7/classpl_animated_mesh_view_context.htm" title=" " alt="" coords="253,5,444,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,319,119,261,145,186,164,146,186,108,213,73,244,42,263,30,266,35,247,46,217,76,190,111,168,149,150,188,124,262,110,320"/>
+<area shape="rect" id="Node000003" href="$d0/d33/classpl_animation_clip_view_context.htm" title=" " alt="" coords="256,56,440,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,319,125,270,153,208,192,146,216,117,244,93,264,81,267,85,247,97,220,121,196,149,157,211,130,272,113,321"/>
+<area shape="rect" id="Node000004" href="$df/d77/classpl_decal_view_context.htm" title=" " alt="" coords="280,107,417,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,319,132,279,161,232,198,184,244,143,278,127,280,132,247,148,202,187,165,235,137,282,117,322"/>
+<area shape="rect" id="Node000005" href="$da/dd1/classpl_jolt_collision_mesh_view_context.htm" title=" " alt="" coords="246,157,451,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="118,320,170,256,205,222,244,194,270,182,272,187,247,198,208,226,174,260,122,323"/>
+<area shape="rect" id="Node000006" href="$d8/d0b/classpl_kraut_tree_view_context.htm" title=" " alt="" coords="268,208,428,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="128,322,180,282,245,244,276,233,278,238,247,249,183,287,131,326"/>
+<area shape="rect" id="Node000007" href="$de/def/classpl_material_view_context.htm" title=" " alt="" coords="273,259,424,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="152,326,245,295,287,283,288,288,246,300,154,331"/>
+<area shape="rect" id="Node000008" href="$d9/d10/classpl_mesh_view_context.htm" title=" " alt="" coords="280,309,416,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="213,334,279,327,280,332,213,339"/>
+<area shape="rect" id="Node000009" href="$d2/db3/classpl_particle_view_context.htm" title=" " alt="" coords="274,360,422,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="213,357,274,363,273,368,213,362"/>
+<area shape="rect" id="Node000010" href="$d9/d82/classpl_remote_engine_process_view_context.htm" title=" " alt="" coords="252,411,444,453"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="156,364,247,396,281,408,279,413,245,401,154,369"/>
+<area shape="rect" id="Node000011" href="$da/da9/classpl_rml_ui_view_context.htm" title=" " alt="" coords="279,477,418,504"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="128,371,180,418,212,442,247,463,279,475,278,480,245,468,209,447,176,422,124,375"/>
+<area shape="rect" id="Node000012" href="$d0/dc7/classpl_scene_view_context.htm" title=" " alt="" coords="278,528,419,555"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="120,373,171,444,206,482,247,514,278,528,276,532,244,518,203,486,166,447,116,376"/>
+<area shape="rect" id="Node000013" href="$d8/dc7/classpl_skeleton_view_context.htm" title=" " alt="" coords="271,579,426,605"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="116,375,134,417,163,469,200,521,223,544,247,564,271,577,269,582,244,569,219,548,196,524,158,472,130,420,111,377"/>
+<area shape="rect" id="Node000014" href="$d0/dad/classpl_texture_cube_view_context.htm" title=" " alt="" coords="260,629,437,656"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="112,376,128,427,155,493,194,559,219,589,247,615,266,626,264,631,244,619,215,593,190,562,150,495,123,429,107,377"/>
+<area shape="rect" id="Node000015" href="$dd/d97/classpl_texture_view_context.htm" title=" " alt="" coords="275,680,422,707"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="110,376,123,437,148,516,166,557,189,597,216,634,247,666,276,681,273,686,244,670,211,637,184,600,161,559,143,518,118,439,104,377"/>
+</map>

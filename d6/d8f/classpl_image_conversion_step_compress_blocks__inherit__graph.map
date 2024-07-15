@@ -1,0 +1,13 @@
+<map id="plImageConversionStepCompressBlocks" name="plImageConversionStepCompressBlocks">
+<area shape="rect" id="Node000001" title="Interface for a single image conversion step where the source format is uncompressed and the target f..." alt="" coords="129,245,344,288"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,336,226,363"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="194,299,136,338,133,333,191,295"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="249,336,470,363"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="283,295,342,333,339,338,280,299"/>
+<area shape="rect" id="Node000002" href="$d7/d4c/classpl_image_conversion_step.htm" title="Interface for a single image conversion step." alt="" coords="159,171,315,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,213,240,245,234,245,234,213"/>
+<area shape="rect" id="Node000003" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="127,80,347,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,139,240,170,234,170,234,139"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="198,5,276,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="240,48,240,80,234,80,234,48"/>
+</map>

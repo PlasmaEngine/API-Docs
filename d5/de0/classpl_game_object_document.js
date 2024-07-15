@@ -1,0 +1,25 @@
+var classpl_game_object_document =
+[
+    [ "GameModeData", "d7/d3d/structpl_game_object_document_1_1_game_mode_data.htm", null ],
+    [ "ComputeGlobalTransform", "d5/de0/classpl_game_object_document.htm#a91df7c516a100d5141fcd5fee632928b", null ],
+    [ "ComputeObjectTransformation", "d5/de0/classpl_game_object_document.htm#a6972a166e693417ed0079b7941ba3e6e", null ],
+    [ "ComputeTopLevelSelectedGameObjects", "d5/de0/classpl_game_object_document.htm#a33245fb7cdd7d6ecef102d89db927d73", null ],
+    [ "CreateGameObjectHere", "d5/de0/classpl_game_object_document.htm#a07ce123f741d50ba9c05b82cd85f5dbb", null ],
+    [ "DetermineNodeName", "d5/de0/classpl_game_object_document.htm#ad56bd89c84fce9ede5aec6bd3e0360f3", null ],
+    [ "GenerateFullDisplayName", "d5/de0/classpl_game_object_document.htm#a4fadbe480c4e41979a90105c63af2c52", null ],
+    [ "GetActiveEditTool", "d5/de0/classpl_game_object_document.htm#af48ea0541c053a3119b89af27b36d4c3", null ],
+    [ "GetEditorInputContextOverride", "d5/de0/classpl_game_object_document.htm#a875a729325d99e835cb351b3d0e3af4c", null ],
+    [ "GetGlobalTransform", "d5/de0/classpl_game_object_document.htm#aa2c119854e51923418ff4bcc6ad44487", null ],
+    [ "HandleEngineMessage", "d5/de0/classpl_game_object_document.htm#acb20e893ad9e62305d8c881c4b206181", null ],
+    [ "InvalidateGlobalTransformValue", "d5/de0/classpl_game_object_document.htm#a212c355aabbe60236fdc33530c7f5793", null ],
+    [ "IsActiveEditTool", "d5/de0/classpl_game_object_document.htm#a503ced254b745cd0c0e60ad23cff5257", null ],
+    [ "MoveCameraHere", "d5/de0/classpl_game_object_document.htm#a4c0a31dbf31a4b1b4b5d67b3432f91b5", null ],
+    [ "QueryCachedNodeName", "d5/de0/classpl_game_object_document.htm#a86448153cc7c66401d936e35f76d9620", null ],
+    [ "SendGameWorldToEngine", "d5/de0/classpl_game_object_document.htm#a887a897b78d5d5f56b7ffd47b1d45923", null ],
+    [ "SendObjectSelection", "d5/de0/classpl_game_object_document.htm#a02342f5bc585c0e763a95728519e1325", null ],
+    [ "SetActiveEditTool", "d5/de0/classpl_game_object_document.htm#a9f6f07eaee93f745e01c94050fc9fa15", null ],
+    [ "SetEditToolConfigDelegate", "d5/de0/classpl_game_object_document.htm#a2629fbb4412c81030f05747c973123c8", null ],
+    [ "SetGlobalTransform", "d5/de0/classpl_game_object_document.htm#a25756d5ac55e4ae1a91a28ba3c8a85dd", null ],
+    [ "SetGlobalTransformParentOnly", "d5/de0/classpl_game_object_document.htm#a121e500d5ce5eb7e01e66edec7a6288a", null ],
+    [ "SnapCameraToObject", "d5/de0/classpl_game_object_document.htm#a0d941d42a5e253e3f95501d0f09a6b3f", null ]
+];

@@ -1,0 +1,5 @@
+<map id="plWindowOutputTargetGAL" name="plWindowOutputTargetGAL">
+<area shape="rect" id="Node000001" title="Creates a swapchain and keeps it up to date with the window." alt="" coords="7,80,186,107"/>
+<area shape="rect" id="Node000002" href="$d8/d3d/classpl_window_output_target_base.htm" title="Base class for window output targets." alt="" coords="5,5,188,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,48,99,80,94,80,94,48"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="plImageConversionStepDecompressBlocks" name="plImageConversionStepDecompressBlocks">
+<area shape="rect" id="Node000001" title="Interface for a single image conversion step where the source format is compressed and the target for..." alt="" coords="603,149,833,192"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="881,5,1086,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="750,136,807,87,842,63,880,42,909,30,911,35,882,46,845,67,811,92,753,141"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="881,56,1086,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="773,139,824,115,880,92,917,81,919,86,882,97,826,120,775,144"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="881,107,1086,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="847,143,909,131,910,137,848,149"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="895,157,1072,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="848,168,894,168,894,173,848,173"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="890,208,1077,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="848,193,910,205,909,210,847,198"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="885,259,1082,285"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="775,197,826,222,882,244,919,256,917,261,880,249,824,226,773,202"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="881,309,1086,336"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="753,201,811,250,845,274,882,295,911,306,909,311,880,300,842,279,807,254,750,205"/>
+<area shape="rect" id="Node000002" href="$d7/d4c/classpl_image_conversion_step.htm" title="Interface for a single image conversion step." alt="" coords="399,157,555,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="571,168,603,168,603,173,571,173"/>
+<area shape="rect" id="Node000003" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="131,149,351,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,168,399,168,399,173,367,173"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,157,83,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="98,168,130,168,130,173,98,173"/>
+</map>

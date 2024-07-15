@@ -1,0 +1,7 @@
+<map id="plVisualScriptNodeManager" name="plVisualScriptNodeManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,187,181"/>
+<area shape="rect" id="Node000002" href="$d1/d53/classpl_document_node_manager.htm" title=" " alt="" coords="11,80,181,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,122,99,154,93,154,93,122"/>
+<area shape="rect" id="Node000003" href="$d3/da8/classpl_document_object_manager.htm" title="Represents to content of a document. Every document has exactly one root object under which all objec..." alt="" coords="7,5,185,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,48,99,80,93,80,93,48"/>
+</map>

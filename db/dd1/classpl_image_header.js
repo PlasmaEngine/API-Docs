@@ -1,0 +1,27 @@
+var classpl_image_header =
+[
+    [ "plImageHeader", "db/dd1/classpl_image_header.htm#a4a25a5b3cea32291c2c222c2df5024a2", null ],
+    [ "Clear", "db/dd1/classpl_image_header.htm#aff0bab44b7e6150377c98bb72127f3dc", null ],
+    [ "ComputeDataSize", "db/dd1/classpl_image_header.htm#a3ce988b5dbe466981cde6a96dc663288", null ],
+    [ "ComputeNumberOfMipMaps", "db/dd1/classpl_image_header.htm#aa7be310039c18dab7842536ffede501f", null ],
+    [ "GetDepth", "db/dd1/classpl_image_header.htm#aa17ada6373b2f54d5cee62f39e039d21", null ],
+    [ "GetDepthPitch", "db/dd1/classpl_image_header.htm#ae3c42cd8fc737c2bba8e4d10d5283baf", null ],
+    [ "GetHeight", "db/dd1/classpl_image_header.htm#a74af7c631f37708e12aa86f1900b335d", null ],
+    [ "GetImageFormat", "db/dd1/classpl_image_header.htm#ab4325162d5cf9f3102e4e9584a0003ae", null ],
+    [ "GetNumArrayIndices", "db/dd1/classpl_image_header.htm#a93d871a5cbe22e79119be513212979c3", null ],
+    [ "GetNumBlocksX", "db/dd1/classpl_image_header.htm#ac6609839d75d5880dbd57e4c371c02cc", null ],
+    [ "GetNumBlocksY", "db/dd1/classpl_image_header.htm#abab280a598b20728e253a773b8b7383b", null ],
+    [ "GetNumBlocksZ", "db/dd1/classpl_image_header.htm#a20134a21e7c8d9a407c979a1cf733be2", null ],
+    [ "GetNumFaces", "db/dd1/classpl_image_header.htm#a9a03d36acae3072ad89fe62d970dba5f", null ],
+    [ "GetNumMipLevels", "db/dd1/classpl_image_header.htm#ad4e281aaff389f45d68d0ad56970e52d", null ],
+    [ "GetPlaneCount", "db/dd1/classpl_image_header.htm#a83f39f5f1e1a313f81e12cf4dc2a5925", null ],
+    [ "GetRowPitch", "db/dd1/classpl_image_header.htm#aac8dbdd0e443b1b4720950aa010d2e08", null ],
+    [ "GetWidth", "db/dd1/classpl_image_header.htm#ad9fd35e190a64325fc48bf904296e57b", null ],
+    [ "SetDepth", "db/dd1/classpl_image_header.htm#af1e82747e36ca527670635f87f83243e", null ],
+    [ "SetHeight", "db/dd1/classpl_image_header.htm#a42e676a0675da37d555a6944c68e4cdc", null ],
+    [ "SetImageFormat", "db/dd1/classpl_image_header.htm#a5e969442cd3a4448e0e561610dae919e", null ],
+    [ "SetNumArrayIndices", "db/dd1/classpl_image_header.htm#add2e91aa0a877955da820b9a7847a2a4", null ],
+    [ "SetNumFaces", "db/dd1/classpl_image_header.htm#a2d5c9458ae653a93ee7638afc6f6636f", null ],
+    [ "SetNumMipLevels", "db/dd1/classpl_image_header.htm#a1e342ff9464c36f92f070595cbf4330e", null ],
+    [ "SetWidth", "db/dd1/classpl_image_header.htm#a558701e7fd728b8d8ce7194c6fa45b94", null ]
+];

@@ -1,0 +1,17 @@
+<map id="plPin" name="plPin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,107,347,133"/>
+<area shape="rect" id="Node000004" href="$d3/dc2/classpl_animation_graph_node_pin.htm" title=" " alt="" coords="395,5,569,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="340,92,364,66,394,42,418,30,420,35,397,46,368,70,344,96"/>
+<area shape="rect" id="Node000005" href="$d0/d7b/classpl_proc_gen_pin.htm" title=" " alt="" coords="431,56,533,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="361,103,395,92,431,81,433,86,396,97,363,108"/>
+<area shape="rect" id="Node000006" href="$d9/d89/classpl_state_machine_pin.htm" title=" " alt="" coords="417,107,547,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="363,117,416,117,416,123,363,123"/>
+<area shape="rect" id="Node000007" href="$db/df5/classpl_visual_script_pin.htm" title=" " alt="" coords="422,157,542,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="363,132,396,143,433,154,431,159,395,148,361,137"/>
+<area shape="rect" id="Node000008" href="$d2/db6/classpl_visual_shader_pin.htm" title=" " alt="" coords="418,208,546,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="344,144,368,170,397,194,420,205,418,210,394,198,364,174,340,148"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,107,249,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,117,297,117,297,123,265,123"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,107,83,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,117,130,117,130,123,99,123"/>
+</map>

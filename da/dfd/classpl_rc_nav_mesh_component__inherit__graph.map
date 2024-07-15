@@ -1,0 +1,11 @@
+<map id="plRcNavMeshComponent" name="plRcNavMeshComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,304,172,331"/>
+<area shape="rect" id="Node000002" href="$d5/d0e/classpl_rc_component.htm" title="Base class for all Recast components." alt="" coords="32,229,145,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,272,91,304,86,304,86,272"/>
+<area shape="rect" id="Node000003" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="40,155,137,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,197,91,229,86,229,86,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="29,80,148,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,122,91,154,86,154,86,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="50,5,127,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="91,48,91,80,86,80,86,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="plOpenDdlReader" name="plOpenDdlReader">
+<area shape="rect" id="Node000001" title="An OpenDDL reader parses an entire DDL document and creates an in&#45;memory representation of the docume..." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,155,118,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="69,122,69,154,64,154,64,122"/>
+<area shape="rect" id="Node000002" href="$d4/dc9/classpl_open_ddl_parser.htm" title="A low level parser for the OpenDDL format. It can incrementally parse the structure,..." alt="" coords="7,5,126,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,48,69,80,64,80,64,48"/>
+</map>

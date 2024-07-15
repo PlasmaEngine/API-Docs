@@ -1,0 +1,17 @@
+<map id="plAbstractEnumerationProperty" name="plAbstractEnumerationProperty">
+<area shape="rect" id="Node000001" title="The base class for enum and bitflags member properties." alt="" coords="407,113,609,140"/>
+<area shape="rect" id="Node000004" href="$d3/db5/classpl_typed_enum_property.htm" title="[internal] Base class for enum / bitflags properties that already defines the type." alt="" coords="657,105,807,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="625,124,657,124,657,129,625,129"/>
+<area shape="rect" id="Node000002" href="$d3/d73/classpl_abstract_member_property.htm" title="This is the base class for all properties that are members of a class. It provides more information a..." alt="" coords="183,113,359,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,124,407,124,407,129,375,129"/>
+<area shape="rect" id="Node000003" href="$d4/dd7/classpl_abstract_property.htm" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="5,113,135,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,124,182,124,182,129,150,129"/>
+<area shape="rect" id="Node000005" href="$d7/d99/classpl_bitflags_accessor_property.htm" title="[internal] An implementation of plTypedEnumProperty that uses custom getter / setter functions to acc..." alt="" coords="855,5,1039,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="781,95,854,58,881,46,883,51,856,62,784,100"/>
+<area shape="rect" id="Node000006" href="$d0/d00/classpl_bitflags_member_property.htm" title="[internal] An implementation of plTypedEnumProperty that accesses the bitflags property data directly..." alt="" coords="855,72,1039,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="821,110,854,105,854,110,822,115"/>
+<area shape="rect" id="Node000007" href="$de/df2/classpl_enum_accessor_property.htm" title="[internal] An implementation of plTypedEnumProperty that uses custom getter / setter functions to acc..." alt="" coords="855,139,1039,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="822,138,854,143,854,148,821,143"/>
+<area shape="rect" id="Node000008" href="$d5/d8f/classpl_enum_member_property.htm" title="[internal] An implementation of plTypedEnumProperty that accesses the enum property data directly." alt="" coords="855,205,1039,248"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="784,154,856,191,883,202,881,207,854,196,781,158"/>
+</map>

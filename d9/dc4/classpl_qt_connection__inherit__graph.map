@@ -1,0 +1,9 @@
+<map id="plQtConnection" name="plQtConnection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="149,80,260,107"/>
+<area shape="rect" id="Node000003" href="$db/d09/classpl_qt_state_machine_connection.htm" title=" " alt="" coords="5,155,196,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,118,120,156,117,152,173,113"/>
+<area shape="rect" id="Node000004" href="$d9/daa/classpl_qt_visual_script_connection.htm" title=" " alt="" coords="220,155,400,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,113,293,152,290,156,234,118"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="137,5,272,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,48,207,80,202,80,202,48"/>
+</map>

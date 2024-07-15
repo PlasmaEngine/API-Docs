@@ -1,0 +1,99 @@
+<map id="plProcessMessage" name="plProcessMessage">
+<area shape="rect" id="Node000001" title="Base class for IPC messages transmitted by plIpcChannel." alt="" coords="297,2056,429,2083"/>
+<area shape="rect" id="Node000004" href="$d8/ded/classpl_editor_engine_document_msg.htm" title="Base class for all messages that are tied to some document." alt="" coords="490,901,680,928"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="367,2040,578,928,584,929,373,2041"/>
+<area shape="rect" id="Node000047" href="$dd/d9f/classpl_editor_engine_msg.htm" title="Base class for all messages between editor and engine that are not bound to any document." alt="" coords="520,1980,650,2007"/>
+<area shape="poly" id="edge37_Node000001_Node000047" title=" " alt="" coords="404,2046,476,2016,519,2004,520,2009,478,2021,406,2051"/>
+<area shape="rect" id="Node000067" href="$d2/d26/classpl_process_asset_msg.htm" title=" " alt="" coords="516,2031,654,2057"/>
+<area shape="poly" id="edge45_Node000001_Node000067" title=" " alt="" coords="444,2057,515,2049,516,2055,445,2063"/>
+<area shape="rect" id="Node000068" href="$d8/dff/classpl_process_asset_response_msg.htm" title=" " alt="" coords="487,2081,683,2108"/>
+<area shape="poly" id="edge46_Node000001_Node000068" title=" " alt="" coords="445,2076,487,2081,486,2086,444,2081"/>
+<area shape="rect" id="Node000069" href="$dd/d33/classpl_sync_with_process_msg_to_editor.htm" title=" " alt="" coords="480,2132,690,2159"/>
+<area shape="poly" id="edge47_Node000001_Node000069" title=" " alt="" coords="406,2087,478,2117,517,2129,516,2134,476,2123,404,2092"/>
+<area shape="rect" id="Node000070" href="$d8/d49/classpl_sync_with_process_msg_to_engine.htm" title=" " alt="" coords="477,2183,693,2209"/>
+<area shape="poly" id="edge48_Node000001_Node000070" title=" " alt="" coords="387,2092,427,2132,452,2152,479,2168,506,2180,504,2185,476,2173,449,2156,424,2136,384,2096"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,2056,249,2083"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,2067,297,2067,297,2072,264,2072"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,2056,83,2083"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,2067,130,2067,130,2072,99,2072"/>
+<area shape="rect" id="Node000005" href="$dc/dc0/classpl_active_layer_changed_msg_to_engine.htm" title=" " alt="" coords="766,5,954,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="585,886,595,718,621,469,641,341,667,222,699,125,718,87,739,58,764,40,767,44,743,62,723,90,704,127,672,224,646,342,626,470,601,718,590,886"/>
+<area shape="rect" id="Node000006" href="$dd/d73/classpl_create_thumbnail_msg_to_editor.htm" title=" " alt="" coords="759,72,960,99"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="585,886,596,726,622,492,642,371,668,261,700,170,718,135,739,109,757,95,760,100,743,113,723,138,705,172,673,262,648,373,628,493,601,727,590,886"/>
+<area shape="rect" id="Node000007" href="$d5/d04/classpl_create_thumbnail_msg_to_engine.htm" title=" " alt="" coords="756,123,964,149"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="585,885,598,734,626,516,646,403,671,301,702,217,720,184,739,159,754,148,758,152,743,163,724,187,707,219,676,302,651,404,631,517,603,735,591,886"/>
+<area shape="rect" id="Node000008" href="$d7/df2/classpl_document_clear_msg_to_engine.htm" title="Used to reset the engine side to an empty document before sending the full document state over." alt="" coords="760,173,960,200"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="586,886,600,744,629,541,649,436,674,341,704,263,721,233,739,210,758,196,761,200,743,214,725,236,709,265,679,343,655,437,634,541,605,744,591,886"/>
+<area shape="rect" id="Node000009" href="$d6/d39/classpl_document_config_msg_to_engine.htm" title="For very simple uses cases where a custom message would be too much." alt="" coords="757,224,962,251"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="586,886,602,753,632,565,653,469,677,381,706,309,722,282,739,261,755,249,758,253,743,265,726,285,711,312,682,383,658,470,637,566,607,753,592,886"/>
+<area shape="rect" id="Node000010" href="$d0/d1b/classpl_document_open_msg_to_engine.htm" title=" " alt="" coords="760,275,960,301"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="587,886,604,762,636,589,656,501,680,421,708,356,723,331,739,311,757,298,761,303,742,315,727,334,713,358,686,423,662,503,641,590,610,763,592,887"/>
+<area shape="rect" id="Node000011" href="$d0/dab/classpl_document_open_response_msg_to_editor.htm" title=" " alt="" coords="758,325,962,368"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="583,885,586,789,593,724,606,653,625,579,653,506,690,438,713,407,739,378,756,365,759,369,742,382,717,410,695,441,658,508,630,581,611,654,599,725,592,789,588,885"/>
+<area shape="rect" id="Node000012" href="$d5/dc8/classpl_editor_engine_loop_animation_msg.htm" title=" " alt="" coords="752,392,968,419"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="584,886,589,797,597,738,610,673,629,607,656,541,692,481,739,429,756,417,759,421,742,433,697,484,661,544,634,608,615,674,602,738,594,797,589,886"/>
+<area shape="rect" id="Node000013" href="$d4/d08/classpl_editor_engine_restart_simulation_msg.htm" title=" " alt="" coords="743,443,976,469"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="585,885,593,804,603,751,617,694,636,636,663,578,696,525,739,479,756,468,759,472,742,483,701,528,667,581,641,637,622,696,608,752,599,805,590,886"/>
+<area shape="rect" id="Node000014" href="$d6/d42/classpl_editor_engine_set_materials_msg.htm" title=" " alt="" coords="758,493,962,520"/>
+<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="586,886,598,813,623,717,643,665,669,616,700,570,739,530,757,518,760,523,742,534,704,573,673,618,648,668,628,718,603,814,592,886"/>
+<area shape="rect" id="Node000015" href="$d7/d65/classpl_editor_engine_sync_object_msg.htm" title=" " alt="" coords="761,544,959,571"/>
+<area shape="poly" id="edge14_Node000004_Node000015" title=" " alt="" coords="588,885,603,822,630,739,650,695,675,653,704,614,739,581,759,569,761,573,742,585,708,618,679,656,655,698,635,741,608,823,593,886"/>
+<area shape="rect" id="Node000016" href="$d5/d51/classpl_editor_engine_view_msg.htm" title=" " alt="" coords="781,595,939,621"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="591,885,608,830,638,761,658,725,681,691,708,659,739,631,758,620,779,612,781,618,761,625,742,635,712,662,685,694,662,728,643,764,613,832,596,887"/>
+<area shape="rect" id="Node000026" href="$d5/d2c/classpl_entity_msg_to_engine.htm" title=" " alt="" coords="788,645,932,672"/>
+<area shape="poly" id="edge16_Node000004_Node000026" title=" " alt="" coords="594,886,614,841,645,785,687,729,712,704,739,682,762,670,786,662,788,667,764,675,742,686,715,707,691,732,650,788,619,843,599,888"/>
+<area shape="rect" id="Node000027" href="$d0/dfd/classpl_export_document_msg_to_editor.htm" title=" " alt="" coords="759,696,960,723"/>
+<area shape="poly" id="edge17_Node000004_Node000027" title=" " alt="" coords="599,886,622,851,654,809,693,767,739,732,764,721,767,726,742,737,697,771,658,812,627,854,604,889"/>
+<area shape="rect" id="Node000028" href="$d7/d7a/classpl_export_document_msg_to_engine.htm" title=" " alt="" coords="756,747,964,773"/>
+<area shape="poly" id="edge18_Node000004_Node000028" title=" " alt="" coords="607,888,663,834,700,806,740,783,770,771,772,776,742,788,703,811,667,838,610,892"/>
+<area shape="rect" id="Node000029" href="$dc/dce/classpl_export_scene_geometry_msg_to_engine.htm" title=" " alt="" coords="766,797,954,840"/>
+<area shape="poly" id="edge19_Node000004_Node000029" title=" " alt="" coords="631,892,740,849,776,838,777,843,742,855,633,897"/>
+<area shape="rect" id="Node000030" href="$dd/db6/classpl_exposed_document_object_properties_msg_to_engine.htm" title=" " alt="" coords="741,864,979,907"/>
+<area shape="poly" id="edge20_Node000004_Node000030" title=" " alt="" coords="695,900,740,895,740,901,695,906"/>
+<area shape="rect" id="Node000031" href="$d9/da4/classpl_game_mode_msg_to_editor.htm" title=" " alt="" coords="774,931,946,957"/>
+<area shape="poly" id="edge21_Node000004_Node000031" title=" " alt="" coords="695,924,774,932,774,938,695,929"/>
+<area shape="rect" id="Node000032" href="$d9/d53/classpl_game_mode_msg_to_engine.htm" title=" " alt="" coords="771,981,948,1008"/>
+<area shape="poly" id="edge22_Node000004_Node000032" title=" " alt="" coords="636,931,741,967,787,978,786,983,740,972,635,936"/>
+<area shape="rect" id="Node000033" href="$de/d9b/classpl_grid_settings_msg_to_engine.htm" title=" " alt="" coords="769,1032,951,1059"/>
+<area shape="poly" id="edge23_Node000004_Node000033" title=" " alt="" coords="616,936,672,978,706,1000,742,1018,775,1029,773,1034,740,1022,703,1004,669,983,612,941"/>
+<area shape="rect" id="Node000034" href="$dd/daa/classpl_layer_visibility_changed_msg_to_engine.htm" title=" " alt="" coords="778,1083,942,1125"/>
+<area shape="poly" id="edge24_Node000004_Node000034" title=" " alt="" coords="607,939,663,1004,700,1039,742,1068,779,1085,777,1090,739,1073,697,1043,659,1008,603,942"/>
+<area shape="rect" id="Node000035" href="$da/d96/classpl_object_selection_msg_to_engine.htm" title=" " alt="" coords="759,1149,961,1176"/>
+<area shape="poly" id="edge25_Node000004_Node000035" title=" " alt="" coords="600,941,620,984,651,1037,692,1091,716,1115,742,1135,764,1146,761,1151,739,1140,712,1119,688,1094,647,1040,615,987,595,943"/>
+<area shape="rect" id="Node000036" href="$db/dcf/classpl_object_tag_msg_to_engine.htm" title=" " alt="" coords="775,1200,944,1227"/>
+<area shape="poly" id="edge26_Node000004_Node000036" title=" " alt="" coords="596,942,614,995,644,1062,686,1129,712,1160,742,1186,776,1202,774,1207,739,1190,709,1164,682,1133,639,1064,609,997,591,944"/>
+<area shape="rect" id="Node000037" href="$d0/df0/classpl_objects_for_debug_vis_msg_to_engine.htm" title="Send by the editor scene document to the runtime scene document, to tell it about the poll results (s..." alt="" coords="765,1251,955,1293"/>
+<area shape="poly" id="edge27_Node000004_Node000037" title=" " alt="" coords="594,943,610,1004,638,1083,658,1125,681,1166,710,1204,742,1237,765,1251,763,1256,739,1241,705,1207,677,1169,653,1128,633,1086,605,1005,589,944"/>
+<area shape="rect" id="Node000038" href="$df/dd1/classpl_pull_object_state_msg_to_engine.htm" title=" " alt="" coords="759,1317,960,1344"/>
+<area shape="poly" id="edge28_Node000004_Node000038" title=" " alt="" coords="591,943,602,1017,627,1115,647,1166,672,1217,704,1263,742,1303,760,1315,757,1319,739,1307,700,1267,668,1220,642,1169,622,1116,597,1018,586,944"/>
+<area shape="rect" id="Node000039" href="$df/df3/classpl_push_object_state_msg_to_editor.htm" title=" " alt="" coords="758,1368,962,1395"/>
+<area shape="poly" id="edge29_Node000004_Node000039" title=" " alt="" coords="590,943,598,1025,607,1079,621,1137,640,1196,666,1254,700,1308,742,1354,759,1365,756,1370,739,1358,696,1311,661,1257,635,1198,615,1138,602,1080,592,1026,585,944"/>
+<area shape="rect" id="Node000040" href="$df/d8d/classpl_query_selection_b_box_msg_to_engine.htm" title=" " alt="" coords="764,1419,956,1461"/>
+<area shape="poly" id="edge30_Node000004_Node000040" title=" " alt="" coords="589,943,595,1032,603,1092,616,1157,635,1224,662,1290,698,1351,742,1405,765,1421,762,1425,739,1409,693,1354,657,1292,630,1225,611,1158,598,1093,590,1033,584,943"/>
+<area shape="rect" id="Node000041" href="$d6/d18/classpl_query_selection_b_box_result_msg_to_editor.htm" title=" " alt="" coords="765,1485,954,1528"/>
+<area shape="poly" id="edge31_Node000004_Node000041" title=" " alt="" coords="593,943,612,1058,645,1217,666,1298,689,1371,715,1431,743,1471,766,1488,763,1492,739,1475,710,1434,684,1373,661,1299,640,1218,607,1059,588,943"/>
+<area shape="rect" id="Node000042" href="$d9/daa/classpl_simple_document_config_msg_to_editor.htm" title=" " alt="" coords="764,1552,956,1595"/>
+<area shape="poly" id="edge32_Node000004_Node000042" title=" " alt="" coords="592,943,609,1071,641,1250,661,1341,685,1424,713,1492,727,1518,743,1538,765,1555,762,1559,739,1542,723,1521,708,1495,680,1426,656,1342,635,1251,604,1071,587,944"/>
+<area shape="rect" id="Node000043" href="$d7/d9d/classpl_simple_document_config_msg_to_engine.htm" title=" " alt="" coords="764,1619,956,1661"/>
+<area shape="poly" id="edge33_Node000004_Node000043" title=" " alt="" coords="592,943,607,1083,636,1282,657,1384,682,1477,710,1553,726,1583,743,1605,765,1621,762,1626,739,1609,721,1586,705,1556,676,1479,652,1385,631,1283,601,1083,586,944"/>
+<area shape="rect" id="Node000044" href="$d0/d45/classpl_simulation_settings_msg_to_engine.htm" title=" " alt="" coords="770,1685,950,1728"/>
+<area shape="poly" id="edge34_Node000004_Node000044" title=" " alt="" coords="591,944,604,1095,632,1314,653,1427,678,1530,708,1615,725,1647,743,1671,771,1691,768,1696,739,1675,720,1650,703,1617,673,1531,647,1428,627,1315,599,1096,586,944"/>
+<area shape="rect" id="Node000045" href="$d0/d5a/classpl_view_highlight_msg_to_engine.htm" title=" " alt="" coords="766,1752,954,1779"/>
+<area shape="poly" id="edge35_Node000004_Node000045" title=" " alt="" coords="590,944,601,1108,626,1347,646,1471,672,1584,704,1677,722,1712,742,1738,767,1754,764,1759,739,1742,718,1715,699,1679,667,1586,641,1472,621,1348,595,1108,585,944"/>
+<area shape="rect" id="Node000046" href="$d1/dd5/classpl_world_settings_msg_to_engine.htm" title=" " alt="" coords="764,1803,956,1829"/>
+<area shape="poly" id="edge36_Node000004_Node000046" title=" " alt="" coords="590,943,599,1115,609,1238,623,1371,643,1503,669,1624,685,1677,702,1723,721,1761,743,1789,765,1804,762,1808,739,1793,717,1763,697,1725,679,1678,664,1625,638,1504,618,1371,603,1238,594,1115,585,943"/>
+<area shape="rect" id="Node000048" href="$d0/d02/classpl_c_var_msg_to_editor.htm" title=" " alt="" coords="793,1853,926,1880"/>
+<area shape="poly" id="edge38_Node000047_Node000048" title=" " alt="" coords="613,1968,669,1928,740,1890,792,1874,794,1879,742,1894,672,1932,616,1972"/>
+<area shape="rect" id="Node000049" href="$d9/d1c/classpl_change_c_var_msg_to_engine.htm" title=" " alt="" coords="768,1904,952,1931"/>
+<area shape="poly" id="edge39_Node000047_Node000049" title=" " alt="" coords="638,1972,740,1940,787,1929,788,1934,741,1945,640,1977"/>
+<area shape="rect" id="Node000050" href="$d1/da3/classpl_console_cmd_msg_to_engine.htm" title=" " alt="" coords="768,1955,952,1981"/>
+<area shape="poly" id="edge40_Node000047_Node000050" title=" " alt="" coords="666,1983,767,1974,767,1979,666,1989"/>
+<area shape="rect" id="Node000051" href="$d6/d98/classpl_console_cmd_result_msg_to_editor.htm" title=" " alt="" coords="752,2005,968,2032"/>
+<area shape="poly" id="edge41_Node000047_Node000051" title=" " alt="" coords="666,1998,752,2006,752,2011,666,2003"/>
+<area shape="rect" id="Node000052" href="$db/d17/classpl_dynamic_string_enum_msg_to_editor.htm" title=" " alt="" coords="765,2056,954,2099"/>
+<area shape="poly" id="edge42_Node000047_Node000052" title=" " alt="" coords="666,2007,694,2016,718,2029,742,2042,774,2053,772,2058,740,2046,715,2034,692,2021,664,2012"/>
+<area shape="rect" id="Node000053" href="$d2/d27/classpl_global_settings_msg_to_engine.htm" title=" " alt="" coords="762,2123,958,2149"/>
+<area shape="poly" id="edge43_Node000047_Node000053" title=" " alt="" coords="666,2002,694,2017,706,2028,713,2040,719,2064,725,2087,732,2098,742,2109,763,2121,761,2125,739,2113,727,2102,720,2090,714,2065,708,2042,702,2031,691,2021,664,2006"/>
+<area shape="rect" id="Node000054" href="$d3/ddf/classpl_log_msg_to_editor.htm" title=" " alt="" coords="797,2173,922,2200"/>
+<area shape="poly" id="edge44_Node000047_Node000054" title=" " alt="" coords="666,2000,694,2017,709,2035,717,2053,719,2090,722,2126,729,2143,742,2159,768,2175,797,2183,796,2188,766,2180,739,2163,724,2146,716,2127,714,2090,711,2054,705,2037,691,2021,664,2005"/>
+</map>

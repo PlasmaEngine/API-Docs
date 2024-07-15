@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d0/d00/classpl_interval_scheduler_base.htm" title="Helper class to schedule work in intervals typically larger than the duration of one frame." alt="" coords="5,96,165,123"/>
+<area shape="rect" id="Node000001" href="$de/d76/classpl_interval_scheduler.htm" title=" " alt="" coords="217,5,370,64"/>
+<area shape="poly" id="edge3523_Node000000_Node000001" title=" " alt="" coords="138,88,215,60,217,65,140,93"/>
+<area shape="rect" id="Node000002" href="$de/d76/classpl_interval_scheduler.htm" title=" " alt="" coords="213,88,374,131"/>
+<area shape="poly" id="edge3524_Node000000_Node000002" title=" " alt="" coords="180,107,212,107,212,112,180,112"/>
+<area shape="rect" id="Node000003" href="$de/d76/classpl_interval_scheduler.htm" title=" " alt="" coords="213,155,374,181"/>
+<area shape="poly" id="edge3525_Node000000_Node000003" title=" " alt="" coords="151,125,244,152,243,157,149,130"/>
+</map>

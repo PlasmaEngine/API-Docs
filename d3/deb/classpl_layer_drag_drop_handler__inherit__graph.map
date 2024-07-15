@@ -1,0 +1,13 @@
+<map id="plLayerDragDropHandler" name="plLayerDragDropHandler">
+<area shape="rect" id="Node000001" title="Base class for drag and drop handler that drop on a plSceneLayer." alt="" coords="144,229,306,256"/>
+<area shape="rect" id="Node000005" href="$d2/d6e/classpl_game_object_on_layer_drag_drop_handler.htm" title=" " alt="" coords="5,304,213,347"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="196,267,140,306,137,301,193,263"/>
+<area shape="rect" id="Node000006" href="$d8/d9c/classpl_layer_on_layer_drag_drop_handler.htm" title=" " alt="" coords="237,312,448,339"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="257,263,326,309,323,314,254,267"/>
+<area shape="rect" id="Node000002" href="$d4/d22/classpl_drag_drop_handler.htm" title=" " alt="" coords="160,155,290,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,197,228,229,222,229,222,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="166,80,284,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,122,228,154,222,154,222,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="186,5,264,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,48,228,80,222,80,222,48"/>
+</map>

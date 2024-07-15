@@ -1,0 +1,11 @@
+<map id="plQtExposedParametersPropertyWidget" name="plQtExposedParametersPropertyWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,320,218,363"/>
+<area shape="rect" id="Node000002" href="$d0/d43/classpl_qt_property_standard_type_container_widget.htm" title=" " alt="" coords="24,229,199,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,288,114,320,109,320,109,288"/>
+<area shape="rect" id="Node000003" href="$d3/d0b/classpl_qt_property_container_widget.htm" title="Base class for all container properties." alt="" coords="16,155,207,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,197,114,229,109,229,109,197"/>
+<area shape="rect" id="Node000004" href="$d2/d2e/classpl_qt_property_widget.htm" title="Base class for all property widgets." alt="" coords="44,80,179,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,122,114,154,109,154,109,122"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="75,5,148,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="114,48,114,80,109,80,109,48"/>
+</map>

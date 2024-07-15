@@ -1,0 +1,17 @@
+<map id="plDynamicActionAndMenuAction" name="plDynamicActionAndMenuAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,453,217,480"/>
+<area shape="rect" id="Node000008" href="$d3/dab/classpl_command_history_action.htm" title=" " alt="" coords="27,528,195,555"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,496,114,528,108,528,108,496"/>
+<area shape="rect" id="Node000002" href="$d2/d1e/classpl_dynamic_menu_action.htm" title=" " alt="" coords="35,379,187,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,421,114,453,108,453,108,421"/>
+<area shape="rect" id="Node000003" href="$d9/d7f/classpl_menu_action.htm" title=" " alt="" coords="61,304,161,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,346,114,378,108,378,108,346"/>
+<area shape="rect" id="Node000004" href="$d8/dfa/classpl_named_action.htm" title=" " alt="" coords="56,229,166,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,272,114,304,108,304,108,272"/>
+<area shape="rect" id="Node000005" href="$d4/d17/classpl_action.htm" title=" " alt="" coords="77,155,145,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="114,197,114,229,108,229,108,197"/>
+<area shape="rect" id="Node000006" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="52,80,170,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="114,122,114,154,108,154,108,122"/>
+<area shape="rect" id="Node000007" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="72,5,150,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="114,48,114,80,108,80,108,48"/>
+</map>

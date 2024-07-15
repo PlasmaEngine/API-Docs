@@ -1,0 +1,23 @@
+<map id="plFrameDataProviderBase" name="plFrameDataProviderBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,147,468,173"/>
+<area shape="rect" id="Node000004" href="$d4/da5/classpl_frame_data_provider.htm" title=" " alt="" coords="527,5,692,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="409,134,457,96,515,58,539,46,542,51,518,62,460,100,412,138"/>
+<area shape="rect" id="Node000006" href="$d4/da5/classpl_frame_data_provider.htm" title=" " alt="" coords="539,72,680,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="445,139,537,112,539,117,446,144"/>
+<area shape="rect" id="Node000008" href="$d4/da5/classpl_frame_data_provider.htm" title=" " alt="" coords="526,139,693,181"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="484,157,526,157,526,163,484,163"/>
+<area shape="rect" id="Node000010" href="$d4/da5/classpl_frame_data_provider.htm" title=" " alt="" coords="523,205,696,232"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="453,175,556,202,554,207,451,180"/>
+<area shape="rect" id="Node000011" href="$de/df9/classpl_history_source_pass_texture_data_provider.htm" title=" " alt="" coords="516,256,703,299"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="417,180,463,211,518,242,543,253,541,258,515,246,461,216,414,185"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,147,249,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,157,297,157,297,163,264,163"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,147,83,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,157,130,157,130,163,99,163"/>
+<area shape="rect" id="Node000005" href="$d3/d3a/classpl_clustered_data_provider.htm" title=" " alt="" coords="751,13,910,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="707,24,751,24,751,29,707,29"/>
+<area shape="rect" id="Node000007" href="$da/d17/classpl_instance_data_provider.htm" title=" " alt="" coords="754,80,908,107"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="696,91,754,91,754,96,696,96"/>
+<area shape="rect" id="Node000009" href="$d3/ddd/classpl_simplified_data_provider.htm" title=" " alt="" coords="751,147,911,173"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="708,157,750,157,750,163,708,163"/>
+</map>

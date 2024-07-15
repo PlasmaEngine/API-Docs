@@ -1,0 +1,5 @@
+<map id="plResourceLoaderFromMemory" name="plResourceLoaderFromMemory">
+<area shape="rect" id="Node000001" title="A resource loader that is mainly used to update a resource on the fly with custom data,..." alt="" coords="5,80,208,107"/>
+<area shape="rect" id="Node000002" href="$da/d6b/classpl_resource_type_loader.htm" title="Base class for all resource loaders." alt="" coords="30,5,183,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,48,109,80,104,80,104,48"/>
+</map>

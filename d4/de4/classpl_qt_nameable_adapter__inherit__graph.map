@@ -1,0 +1,13 @@
+<map id="plQtNameableAdapter" name="plQtNameableAdapter">
+<area shape="rect" id="Node000001" title="Convenience class that implements setting the name via a property on the object." alt="" coords="103,229,252,256"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,304,166,331"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="151,268,103,306,100,302,148,264"/>
+<area shape="rect" id="Node000006" href="$da/de7/classpl_qt_game_object_adapter.htm" title=" " alt="" coords="189,304,352,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="207,264,256,301,253,306,204,268"/>
+<area shape="rect" id="Node000002" href="$dd/d4c/classpl_qt_named_adapter.htm" title="Convenience class that implements getting the name via a property on the object." alt="" coords="112,155,243,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,197,180,229,175,229,175,197"/>
+<area shape="rect" id="Node000003" href="$db/d61/classpl_qt_document_tree_model_adapter.htm" title="Adapter that defines data for specific type in the plQtDocumentTreeModel." alt="" coords="73,80,282,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,122,180,154,175,154,175,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="143,5,212,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,48,180,80,175,80,175,48"/>
+</map>

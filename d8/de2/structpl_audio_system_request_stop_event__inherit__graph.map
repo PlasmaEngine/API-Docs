@@ -1,0 +1,5 @@
+<map id="plAudioSystemRequestStopEvent" name="plAudioSystemRequestStopEvent">
+<area shape="rect" id="Node000001" title="Audio request to stop an event." alt="" coords="5,80,190,123"/>
+<area shape="rect" id="Node000002" href="$d4/de5/structpl_audio_system_request.htm" title="Base class for all audio system requests." alt="" coords="19,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,100,80,95,80,95,48"/>
+</map>

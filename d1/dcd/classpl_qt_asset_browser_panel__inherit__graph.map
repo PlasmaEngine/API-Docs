@@ -1,0 +1,9 @@
+<map id="plQtAssetBrowserPanel" name="plQtAssetBrowserPanel">
+<area shape="rect" id="Node000001" title="The application wide panel that shows and asset browser." alt="" coords="82,155,242,181"/>
+<area shape="rect" id="Node000002" href="$d9/d3a/classpl_qt_application_panel.htm" title="Base class for all panels that are supposed to be application wide (not tied to some document)." alt="" coords="5,80,148,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,115,149,152,145,156,101,119"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="11,5,142,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,48,79,80,74,80,74,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="171,80,326,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,119,178,156,175,152,220,115"/>
+</map>

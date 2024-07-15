@@ -1,0 +1,37 @@
+<map id="plAnimGraphPin" name="plAnimGraphPin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,351,412,377"/>
+<area shape="rect" id="Node000004" href="$da/dd8/classpl_anim_graph_input_pin.htm" title=" " alt="" coords="466,195,609,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="382,338,519,220,522,224,385,342"/>
+<area shape="rect" id="Node000012" href="$d6/db8/classpl_anim_graph_output_pin.htm" title=" " alt="" coords="460,477,615,504"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="389,384,518,475,515,479,386,388"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,351,249,377"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,361,297,361,297,367,264,367"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,351,83,377"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,361,130,361,130,367,99,367"/>
+<area shape="rect" id="Node000005" href="$d5/dc5/classpl_anim_graph_bone_weights_input_pin.htm" title=" " alt="" coords="668,5,890,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="549,180,567,147,592,110,624,73,661,42,685,30,687,35,664,46,627,77,596,113,572,150,554,182"/>
+<area shape="rect" id="Node000006" href="$d4/d5d/classpl_anim_graph_bool_input_pin.htm" title=" " alt="" coords="694,56,864,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="557,181,602,135,630,112,661,92,693,80,694,85,664,97,633,116,605,139,561,185"/>
+<area shape="rect" id="Node000007" href="$db/da2/classpl_anim_graph_local_pose_input_pin.htm" title=" " alt="" coords="677,107,881,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="574,184,615,163,662,143,701,131,702,137,664,148,617,167,576,189"/>
+<area shape="rect" id="Node000008" href="$d6/d5e/classpl_anim_graph_local_pose_multi_input_pin.htm" title=" " alt="" coords="686,157,872,200"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="624,195,685,187,686,193,625,200"/>
+<area shape="rect" id="Node000009" href="$db/dde/classpl_anim_graph_model_pose_input_pin.htm" title=" " alt="" coords="675,224,883,251"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="625,216,674,222,674,227,624,221"/>
+<area shape="rect" id="Node000010" href="$d8/dbe/classpl_anim_graph_number_input_pin.htm" title=" " alt="" coords="685,275,873,301"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="581,226,664,260,705,271,703,277,662,265,579,231"/>
+<area shape="rect" id="Node000011" href="$de/d6a/classpl_anim_graph_trigger_input_pin.htm" title=" " alt="" coords="688,325,870,352"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="562,231,607,272,634,293,664,311,693,322,691,327,661,316,631,298,603,277,559,234"/>
+<area shape="rect" id="Node000013" href="$dd/d8b/classpl_anim_graph_bone_weights_output_pin.htm" title=" " alt="" coords="663,376,895,403"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="568,466,611,438,662,412,697,401,699,406,664,417,614,442,571,470"/>
+<area shape="rect" id="Node000014" href="$d1/d5f/classpl_anim_graph_bool_output_pin.htm" title=" " alt="" coords="689,427,869,453"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="619,471,711,451,712,457,620,476"/>
+<area shape="rect" id="Node000015" href="$de/d05/classpl_anim_graph_local_pose_output_pin.htm" title=" " alt="" coords="671,477,886,504"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="630,488,671,488,671,493,630,493"/>
+<area shape="rect" id="Node000016" href="$db/d95/classpl_anim_graph_model_pose_output_pin.htm" title=" " alt="" coords="669,528,888,555"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="620,505,712,525,711,530,619,510"/>
+<area shape="rect" id="Node000017" href="$d4/dec/classpl_anim_graph_number_output_pin.htm" title=" " alt="" coords="679,579,878,605"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="571,511,614,539,664,564,699,576,697,581,662,569,611,544,568,516"/>
+<area shape="rect" id="Node000018" href="$df/daf/classpl_anim_graph_trigger_output_pin.htm" title=" " alt="" coords="682,629,876,656"/>
+<area shape="poly" id="edge17_Node000012_Node000018" title=" " alt="" coords="559,515,603,567,632,593,664,615,690,626,688,631,661,620,629,597,599,570,555,518"/>
+</map>

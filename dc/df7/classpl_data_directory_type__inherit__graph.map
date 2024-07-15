@@ -1,0 +1,9 @@
+<map id="plDataDirectoryType" name="plDataDirectoryType">
+<area shape="rect" id="Node000001" title="The base class for all data directory types." alt="" coords="134,5,273,32"/>
+<area shape="rect" id="Node000002" href="$d7/dd2/classpl_data_directory_1_1_archive_type.htm" title=" " alt="" coords="5,80,194,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,43,119,82,116,77,172,39"/>
+<area shape="rect" id="Node000003" href="$d8/d44/classpl_data_directory_1_1_folder_type.htm" title="A data directory type to handle access to ordinary files." alt="" coords="218,80,400,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,39,292,77,289,82,233,43"/>
+<area shape="rect" id="Node000004" href="$d2/df2/classpl_data_directory_1_1_fileserve_type.htm" title="A data directory type to handle access to files that are served from a network host." alt="" coords="210,155,408,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="312,122,312,154,306,154,306,122"/>
+</map>

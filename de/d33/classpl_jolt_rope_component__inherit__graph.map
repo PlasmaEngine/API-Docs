@@ -1,0 +1,9 @@
+<map id="plJoltRopeComponent" name="plJoltRopeComponent">
+<area shape="rect" id="Node000001" title="Creates a physically simulated rope that is made up of multiple segments." alt="" coords="5,229,153,256"/>
+<area shape="rect" id="Node000002" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="30,155,128,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,197,82,229,76,229,76,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="20,80,138,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,122,82,154,76,154,76,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="40,5,118,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,48,82,80,76,80,76,48"/>
+</map>

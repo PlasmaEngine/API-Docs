@@ -1,0 +1,14 @@
+<map id="Code/EditorPlugins/Assets/EnginePluginAssets" name="Code/EditorPlugins/Assets/EnginePluginAssets">
+<area shape="rect" id="node2" href="dir_a68e55208fc49f469622864f75db55f3.htm" title="AnimatedMeshAsset" alt="" coords="200,64,342,91"/>
+<area shape="rect" id="node3" href="dir_35190f8e3dfae8de5f84bc6aab3cc516.htm" title="AnimationClipAsset" alt="" coords="366,64,501,91"/>
+<area shape="rect" id="node4" href="dir_53a6df9a095624daf9045af4104ad98a.htm" title="DecalAsset" alt="" coords="525,64,614,91"/>
+<area shape="rect" id="node5" href="dir_86123da234ac2035e14407aabc369b04.htm" title="MaterialAsset" alt="" coords="637,64,739,91"/>
+<area shape="rect" id="node6" href="dir_0f03fbc92e4c80a5d6298975f697d881.htm" title="MeshAsset" alt="" coords="763,64,850,91"/>
+<area shape="rect" id="node7" href="dir_81bb92264b1538c118aad1a7b66a76e5.htm" title="RenderPipelineAsset" alt="" coords="874,64,1016,91"/>
+<area shape="rect" id="node8" href="dir_1cbb15cb88872d5090ea59cf746e67a3.htm" title="SkeletonAsset" alt="" coords="1040,64,1146,91"/>
+<area shape="rect" id="node9" href="dir_3dd3720966e27850c3c7a279103327e5.htm" title="StateMachineAsset" alt="" coords="1171,64,1306,91"/>
+<area shape="rect" id="node10" href="dir_d42fffd51869dd3f378b0885039afc7f.htm" title="TextureAsset" alt="" coords="1331,64,1429,91"/>
+<area shape="rect" id="node11" href="dir_adbbcb7bfee3df92b569596d72af12fa.htm" title="TextureCubeAsset" alt="" coords="1453,64,1582,91"/>
+<area shape="rect" id="clust2" href="dir_dbad7604ee6302e14267b30385648e3e.htm" alt="" coords="27,53,1592,101"/>
+<area shape="rect" id="clust1" href="dir_6f93cd829547598dd46f5616766471ad.htm" title="Assets" alt="" coords="16,16,1603,112"/>
+</map>

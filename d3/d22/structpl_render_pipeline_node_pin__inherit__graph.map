@@ -1,0 +1,13 @@
+<map id="plRenderPipelineNodePin" name="plRenderPipelineNodePin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,173,103"/>
+<area shape="rect" id="Node000002" href="$d3/d46/structpl_render_pipeline_node_input_pin.htm" title=" " alt="" coords="226,21,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,69,263,46,264,51,165,75"/>
+<area shape="rect" id="Node000004" href="$d0/de1/structpl_render_pipeline_node_output_pin.htm" title=" " alt="" coords="221,76,427,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,87,220,87,220,92,188,92"/>
+<area shape="rect" id="Node000006" href="$db/d30/structpl_render_pipeline_node_pass_through_pin.htm" title=" " alt="" coords="235,127,413,169"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="161,104,236,123,235,129,159,110"/>
+<area shape="rect" id="Node000003" href="$d6/d87/structpl_render_pipeline_node_input_provider_pin.htm" title=" " alt="" coords="480,5,657,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,28,480,27,480,32,437,34"/>
+<area shape="rect" id="Node000005" href="$d2/d50/structpl_render_pipeline_node_output_provider_pin.htm" title=" " alt="" coords="475,72,662,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="443,89,475,89,475,94,443,94"/>
+</map>

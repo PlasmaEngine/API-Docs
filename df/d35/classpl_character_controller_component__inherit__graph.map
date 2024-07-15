@@ -1,0 +1,13 @@
+<map id="plCharacterControllerComponent" name="plCharacterControllerComponent">
+<area shape="rect" id="Node000001" title="Base class for implementations of a character controller." alt="" coords="8,229,216,256"/>
+<area shape="rect" id="Node000005" href="$d4/d29/classpl_jolt_character_controller_component.htm" title="Base class for character controllers (CC)." alt="" coords="31,304,193,347"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="115,272,115,304,109,304,109,272"/>
+<area shape="rect" id="Node000002" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="63,155,161,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,197,115,229,109,229,109,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="53,80,171,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,122,115,154,109,154,109,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="73,5,151,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,48,115,80,109,80,109,48"/>
+<area shape="rect" id="Node000006" href="$da/d0f/classpl_jolt_default_character_component.htm" title="An example character controller (CC) implementation build upon plJoltCharacterControllerComponent." alt="" coords="5,395,219,421"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="115,363,115,394,109,394,109,363"/>
+</map>

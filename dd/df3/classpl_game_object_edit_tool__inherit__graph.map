@@ -1,0 +1,19 @@
+<map id="plGameObjectEditTool" name="plGameObjectEditTool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,107,448,133"/>
+<area shape="rect" id="Node000004" href="$d8/db0/classpl_game_object_gizmo_edit_tool.htm" title=" " alt="" coords="496,81,686,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="464,107,496,103,496,108,464,112"/>
+<area shape="rect" id="Node000009" href="$da/d92/classpl_grey_box_edit_tool.htm" title=" " alt="" coords="526,132,656,159"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="464,128,526,135,525,140,463,133"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,107,249,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,117,297,117,297,123,265,123"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,107,83,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,117,130,117,130,123,99,123"/>
+<area shape="rect" id="Node000005" href="$df/de0/classpl_drag_to_position_gizmo_edit_tool.htm" title=" " alt="" coords="734,5,938,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="641,73,733,41,774,30,776,35,734,47,643,78"/>
+<area shape="rect" id="Node000006" href="$dd/d65/classpl_rotate_gizmo_edit_tool.htm" title=" " alt="" coords="759,56,913,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="701,81,758,75,758,80,702,86"/>
+<area shape="rect" id="Node000007" href="$dc/d06/classpl_scale_gizmo_edit_tool.htm" title=" " alt="" coords="761,107,910,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="702,103,761,110,761,115,701,109"/>
+<area shape="rect" id="Node000008" href="$db/d6c/classpl_translate_gizmo_edit_tool.htm" title=" " alt="" coords="751,157,920,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="666,110,687,118,711,130,735,143,770,154,768,159,733,148,708,135,685,122,665,115"/>
+</map>

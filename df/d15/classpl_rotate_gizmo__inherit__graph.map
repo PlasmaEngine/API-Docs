@@ -1,0 +1,11 @@
+<map id="plRotateGizmo" name="plRotateGizmo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,304,128,331"/>
+<area shape="rect" id="Node000002" href="$db/d90/classpl_gizmo.htm" title=" " alt="" coords="40,229,109,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,272,77,304,72,304,72,272"/>
+<area shape="rect" id="Node000003" href="$d2/d29/classpl_editor_input_context.htm" title=" " alt="" coords="5,155,144,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,197,77,229,72,229,72,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="15,80,134,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,122,77,154,72,154,72,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="36,5,113,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="77,48,77,80,72,80,72,48"/>
+</map>

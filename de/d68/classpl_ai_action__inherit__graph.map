@@ -1,0 +1,35 @@
+<map id="plAiAction" name="plAiAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="725,259,805,285"/>
+<area shape="rect" id="Node000007" href="$d3/d07/classpl_ai_action_blackboard_set_and_wait.htm" title=" " alt="" coords="853,5,1069,32"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="766,243,774,198,788,144,813,89,831,64,852,42,869,30,872,35,855,46,835,67,818,92,793,146,779,200,772,244"/>
+<area shape="rect" id="Node000008" href="$d1/d94/classpl_ai_action_blackboard_set_entry.htm" title=" " alt="" coords="863,56,1059,83"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="770,243,780,208,796,167,820,127,852,93,871,81,874,85,855,97,824,130,801,170,785,210,775,244"/>
+<area shape="rect" id="Node000009" href="$de/d48/classpl_ai_action_blackboard_wait.htm" title=" " alt="" coords="875,107,1047,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="776,243,805,192,826,165,852,143,874,131,877,136,855,148,830,169,810,195,781,245"/>
+<area shape="rect" id="Node000010" href="$db/d89/classpl_ai_action_c_c_move_to.htm" title=" " alt="" coords="890,157,1032,184"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="786,246,816,218,852,194,888,180,890,185,855,198,819,222,790,250"/>
+<area shape="rect" id="Node000011" href="$d8/da6/classpl_ai_action_lerp_position.htm" title=" " alt="" coords="885,208,1037,235"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="819,253,853,244,898,233,899,238,854,249,821,258"/>
+<area shape="rect" id="Node000012" href="$dd/dec/classpl_ai_action_lerp_rotation.htm" title=" " alt="" coords="884,259,1038,285"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="821,269,884,269,884,275,821,275"/>
+<area shape="rect" id="Node000013" href="$df/d5d/classpl_ai_action_lerp_rotation_towards.htm" title=" " alt="" coords="860,309,1062,336"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="821,286,854,295,899,306,898,311,853,300,819,291"/>
+<area shape="rect" id="Node000014" href="$de/d2d/classpl_ai_action_navigate_to.htm" title=" " alt="" coords="889,360,1033,387"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="790,294,819,322,855,346,890,359,888,364,852,350,816,326,786,298"/>
+<area shape="rect" id="Node000015" href="$dc/db4/classpl_ai_action_quip.htm" title=" " alt="" coords="907,411,1015,437"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="781,299,810,349,830,375,855,396,880,409,907,417,906,422,878,414,852,401,826,379,805,352,776,301"/>
+<area shape="rect" id="Node000016" href="$de/d5e/classpl_ai_action_spawn.htm" title=" " alt="" coords="901,461,1021,488"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="775,300,785,334,801,374,824,414,855,447,877,460,902,468,900,473,875,465,852,451,820,417,796,377,780,336,770,301"/>
+<area shape="rect" id="Node000017" href="$d2/d6f/classpl_ai_action_wait.htm" title=" " alt="" coords="907,512,1015,539"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="772,300,779,344,793,398,818,452,835,477,855,498,880,513,908,520,906,525,878,517,852,502,831,480,813,455,788,400,774,346,766,301"/>
+<area shape="rect" id="Node000002" href="$d7/dcc/classpl_button_action.htm" title=" " alt="" coords="571,259,677,285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="693,269,725,269,725,275,693,275"/>
+<area shape="rect" id="Node000003" href="$d8/dfa/classpl_named_action.htm" title=" " alt="" coords="413,259,523,285"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,269,570,269,570,275,538,275"/>
+<area shape="rect" id="Node000004" href="$d4/d17/classpl_action.htm" title=" " alt="" coords="297,259,365,285"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="381,269,413,269,413,275,381,275"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,259,249,285"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="265,269,296,269,296,275,265,275"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,259,83,285"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="99,269,130,269,130,275,99,275"/>
+</map>

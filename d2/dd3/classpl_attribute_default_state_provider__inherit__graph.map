@@ -1,0 +1,9 @@
+<map id="plAttributeDefaultStateProvider" name="plAttributeDefaultStateProvider">
+<area shape="rect" id="Node000001" title="This is the fall back default state provider which handles the default state set via the plDefaultAtt..." alt="" coords="5,229,203,256"/>
+<area shape="rect" id="Node000002" href="$d3/d29/classpl_default_state_provider.htm" title="Interface for querying and restoring the default state of objects and containers." alt="" coords="30,155,178,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,197,107,229,101,229,101,197"/>
+<area shape="rect" id="Node000003" href="$d2/df5/classpl_ref_counted.htm" title="Base class for reference counted objects." alt="" coords="55,80,153,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,122,107,154,101,154,101,122"/>
+<area shape="rect" id="Node000004" href="$de/da6/classpl_ref_counting_impl.htm" title=" " alt="" coords="41,5,167,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,48,107,80,101,80,101,48"/>
+</map>

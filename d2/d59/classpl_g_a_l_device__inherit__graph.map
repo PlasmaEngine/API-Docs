@@ -1,0 +1,7 @@
+<map id="plGALDevice" name="plGALDevice">
+<area shape="rect" id="Node000001" title="The plRenderDevice class is the primary interface for interactions with rendering APIs It contains a ..." alt="" coords="98,5,193,32"/>
+<area shape="rect" id="Node000002" href="$d0/d44/classpl_g_a_l_device_d_x11.htm" title="The DX11 device implementation of the graphics abstraction layer." alt="" coords="5,80,131,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,45,83,82,79,78,119,41"/>
+<area shape="rect" id="Node000003" href="$d1/dca/classpl_g_a_l_device_vulkan.htm" title="The Vulkan device implementation of the graphics abstraction layer." alt="" coords="155,80,290,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,41,211,78,208,82,168,45"/>
+</map>

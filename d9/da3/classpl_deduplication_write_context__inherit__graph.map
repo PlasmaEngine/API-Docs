@@ -1,0 +1,5 @@
+<map id="plDeduplicationWriteContext" name="plDeduplicationWriteContext">
+<area shape="rect" id="Node000001" title="Serialization Context that de&#45;duplicates objects when writing to a stream. Duplicated objects are ide..." alt="" coords="17,96,203,123"/>
+<area shape="rect" id="Node000002" href="$d4/d86/classpl_serialization_context.htm" title=" " alt="" coords="5,5,215,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,64,113,95,107,95,107,64"/>
+</map>

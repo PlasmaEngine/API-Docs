@@ -1,0 +1,5 @@
+<map id="plWindStrength" name="plWindStrength">
+<area shape="rect" id="Node000001" title="Defines the strength / speed of wind. Inspired by the Beaufort Scale." alt="" coords="39,5,150,32"/>
+<area shape="rect" id="Node000002" href="$dd/d09/structpl_enum.htm" title=" " alt="" coords="5,80,184,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,48,97,80,92,80,92,48"/>
+</map>

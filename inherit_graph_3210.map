@@ -1,0 +1,169 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="66,740,139,767"/>
+<area shape="rect" id="Node000001" href="$d8/d99/classpl_q_grid_bar_widget.htm" title=" " alt="" coords="284,968,410,995"/>
+<area shape="poly" id="edge4165_Node000000_Node000001" title=" " alt="" coords="118,780,138,819,167,866,204,914,249,954,285,970,283,975,246,958,200,918,162,869,133,822,113,782"/>
+<area shape="rect" id="Node000002" href="$dd/d4e/classpl_qt_asset_browser_widget.htm" title=" " alt="" coords="264,5,431,32"/>
+<area shape="poly" id="edge4166_Node000000_Node000002" title=" " alt="" coords="107,724,181,339,222,137,245,43,261,30,265,34,250,45,227,138,186,340,112,725"/>
+<area shape="rect" id="Node000004" href="$d3/d26/classpl_qt_c_var_widget.htm" title="Displays CVar values in a table and allows to modify them." alt="" coords="290,56,405,83"/>
+<area shape="poly" id="edge4167_Node000000_Node000004" title=" " alt="" coords="107,724,176,371,217,185,234,123,246,93,266,79,289,71,290,76,268,83,250,96,239,124,222,186,181,372,112,725"/>
+<area shape="rect" id="Node000006" href="$d2/df1/classpl_qt_color_area_widget.htm" title=" " alt="" coords="276,1019,419,1045"/>
+<area shape="poly" id="edge4168_Node000000_Node000006" title=" " alt="" coords="114,780,131,829,159,890,198,952,222,980,249,1004,276,1019,274,1023,246,1009,218,984,194,955,154,893,126,831,109,782"/>
+<area shape="rect" id="Node000007" href="$dc/dcd/classpl_qt_color_compare_widget.htm" title=" " alt="" coords="263,1069,432,1096"/>
+<area shape="poly" id="edge4169_Node000000_Node000007" title=" " alt="" coords="112,781,126,839,152,914,170,952,192,990,219,1025,249,1055,268,1067,265,1071,246,1059,215,1029,188,993,166,955,147,916,121,841,106,782"/>
+<area shape="rect" id="Node000008" href="$d5/de5/classpl_qt_color_gradient_editor_widget.htm" title=" " alt="" coords="248,107,447,133"/>
+<area shape="poly" id="edge4170_Node000000_Node000008" title=" " alt="" coords="106,724,131,591,168,407,209,237,228,177,246,144,261,132,264,136,250,147,233,179,214,238,173,409,136,592,111,725"/>
+<area shape="rect" id="Node000010" href="$d0/d49/classpl_qt_color_gradient_widget.htm" title=" " alt="" coords="265,1120,430,1147"/>
+<area shape="poly" id="edge4171_Node000000_Node000010" title=" " alt="" coords="109,781,121,848,145,936,163,983,186,1028,215,1070,249,1106,266,1117,264,1122,246,1110,211,1073,182,1031,158,985,140,938,116,849,104,782"/>
+<area shape="rect" id="Node000011" href="$d8/db5/classpl_qt_color_range_widget.htm" title=" " alt="" coords="271,1171,424,1197"/>
+<area shape="poly" id="edge4172_Node000000_Node000011" title=" " alt="" coords="108,782,116,857,138,958,157,1012,181,1065,211,1114,249,1157,272,1170,269,1175,246,1161,207,1117,176,1068,152,1014,133,960,111,858,103,782"/>
+<area shape="rect" id="Node000012" href="$d9/d92/classpl_qt_curator_control.htm" title=" " alt="" coords="283,1221,412,1248"/>
+<area shape="poly" id="edge4173_Node000000_Node000012" title=" " alt="" coords="107,782,112,866,120,921,132,980,150,1042,175,1102,208,1158,249,1207,265,1219,284,1226,282,1231,263,1223,246,1211,203,1162,170,1105,145,1044,127,982,114,922,107,866,101,782"/>
+<area shape="rect" id="Node000013" href="$dd/d62/classpl_qt_curve1_d_editor_widget.htm" title=" " alt="" coords="263,157,432,184"/>
+<area shape="poly" id="edge4174_Node000000_Node000013" title=" " alt="" coords="105,725,121,610,151,450,170,370,193,296,218,235,246,194,262,182,265,187,250,198,222,238,198,298,175,371,156,452,127,610,110,725"/>
+<area shape="rect" id="Node000015" href="$d5/df8/classpl_qt_curve_edit_widget.htm" title=" " alt="" coords="277,1272,418,1299"/>
+<area shape="poly" id="edge4175_Node000000_Node000015" title=" " alt="" coords="105,782,108,874,114,935,126,1002,143,1072,169,1140,204,1203,249,1258,278,1275,275,1279,246,1262,200,1206,164,1142,138,1073,120,1004,109,936,103,875,100,782"/>
+<area shape="rect" id="Node000016" href="$d8/de1/classpl_qt_engine_view_widget.htm" title="Base class for views that show engine output." alt="" coords="270,259,424,285"/>
+<area shape="poly" id="edge4176_Node000000_Node000016" title=" " alt="" coords="101,724,107,640,114,585,127,525,145,463,170,402,203,345,246,295,268,281,271,285,249,299,208,348,175,404,150,465,132,526,120,586,112,641,107,725"/>
+<area shape="rect" id="Node000020" href="$db/ddb/classpl_qt_event_track_editor_widget.htm" title=" " alt="" coords="255,208,440,235"/>
+<area shape="poly" id="edge4180_Node000000_Node000020" title=" " alt="" coords="100,724,103,632,109,570,120,503,138,433,164,365,200,301,246,245,262,233,265,237,249,249,204,304,169,367,143,435,126,504,114,571,108,632,105,724"/>
+<area shape="rect" id="Node000022" href="$d4/de7/classpl_qt_event_track_widget.htm" title=" " alt="" coords="272,309,422,336"/>
+<area shape="poly" id="edge4181_Node000000_Node000022" title=" " alt="" coords="103,725,111,649,133,547,152,492,176,439,207,389,246,346,270,331,273,336,249,350,211,393,181,442,157,494,138,548,116,650,108,725"/>
+<area shape="rect" id="Node000023" href="$d1/de0/classpl_qt_fileserve_widget.htm" title="A GUI for the plFileServer." alt="" coords="279,1323,416,1349"/>
+<area shape="poly" id="edge4182_Node000000_Node000023" title=" " alt="" coords="110,781,127,896,156,1055,175,1136,198,1209,222,1269,250,1309,263,1319,279,1326,277,1331,260,1324,246,1313,218,1271,193,1211,170,1137,151,1056,121,897,105,782"/>
+<area shape="rect" id="Node000025" href="$da/d1e/classpl_qt_game_object_widget.htm" title=" " alt="" coords="268,411,427,437"/>
+<area shape="poly" id="edge4183_Node000000_Node000025" title=" " alt="" coords="106,724,121,666,147,591,166,552,188,513,215,478,246,447,266,435,269,440,249,451,219,482,192,516,170,554,152,593,126,667,112,726"/>
+<area shape="rect" id="Node000026" href="$d7/dc9/classpl_qt_group_box_base.htm" title=" " alt="" coords="281,613,414,640"/>
+<area shape="poly" id="edge4184_Node000000_Node000026" title=" " alt="" coords="129,728,182,688,247,650,279,638,281,643,249,654,185,692,132,732"/>
+<area shape="rect" id="Node000030" href="$d3/d25/classpl_qt_image_slider_widget.htm" title="*** SLIDER ***" alt="" coords="270,461,424,488"/>
+<area shape="poly" id="edge4187_Node000000_Node000030" title=" " alt="" coords="109,724,126,675,154,614,194,551,218,523,246,498,268,485,271,490,249,502,222,526,198,554,159,616,131,677,114,726"/>
+<area shape="rect" id="Node000031" href="$dc/dd3/classpl_qt_image_widget.htm" title=" " alt="" coords="287,1373,408,1400"/>
+<area shape="poly" id="edge4188_Node000000_Node000031" title=" " alt="" coords="109,782,125,906,153,1080,172,1169,195,1249,221,1315,235,1341,250,1359,267,1372,287,1379,285,1384,264,1376,246,1363,230,1344,216,1318,190,1251,167,1170,148,1081,119,907,104,782"/>
+<area shape="rect" id="Node000033" href="$d0/d0a/classpl_qt_labeled_slider.htm" title=" " alt="" coords="286,512,409,539"/>
+<area shape="poly" id="edge4189_Node000000_Node000033" title=" " alt="" coords="113,725,133,685,162,637,200,589,246,548,284,531,286,536,249,553,204,593,167,640,138,688,118,727"/>
+<area shape="rect" id="Node000034" href="$d1/d7e/classpl_qt_log_widget.htm" title="The application wide panel that shows the engine log output and the editor log output." alt="" coords="294,1424,401,1451"/>
+<area shape="poly" id="edge4190_Node000000_Node000034" title=" " alt="" coords="111,782,134,924,171,1124,212,1310,232,1375,250,1410,270,1424,294,1432,292,1437,267,1429,246,1414,227,1377,207,1311,166,1125,129,925,106,783"/>
+<area shape="rect" id="Node000036" href="$d9/d41/classpl_qt_plugin_selection_entry.htm" title=" " alt="" coords="264,1475,430,1501"/>
+<area shape="poly" id="edge4191_Node000000_Node000036" title=" " alt="" coords="111,781,180,1161,221,1363,238,1431,250,1461,265,1473,262,1477,246,1464,233,1432,216,1364,175,1162,106,782"/>
+<area shape="rect" id="Node000038" href="$d1/dff/classpl_qt_plugin_selection_widget.htm" title=" " alt="" coords="259,1525,436,1552"/>
+<area shape="poly" id="edge4192_Node000000_Node000038" title=" " alt="" coords="111,781,185,1193,226,1412,250,1512,264,1523,260,1527,245,1515,221,1413,180,1194,106,782"/>
+<area shape="rect" id="Node000040" href="$dd/d57/classpl_qt_property_grid_widget.htm" title=" " alt="" coords="268,563,427,589"/>
+<area shape="poly" id="edge4193_Node000000_Node000040" title=" " alt="" coords="119,725,171,662,207,628,246,599,272,588,274,592,249,604,210,632,175,665,124,729"/>
+<area shape="rect" id="Node000041" href="$d2/d2e/classpl_qt_property_widget.htm" title="Base class for all property widgets." alt="" coords="280,360,415,387"/>
+<area shape="poly" id="edge4194_Node000000_Node000041" title=" " alt="" coords="104,724,116,657,140,569,158,522,182,476,211,434,246,397,278,379,281,384,249,401,215,437,186,479,163,524,145,570,121,658,109,725"/>
+<area shape="rect" id="Node000079" href="$d6/d25/classpl_qt_quad_view_widget.htm" title=" " alt="" coords="275,664,420,691"/>
+<area shape="poly" id="edge4232_Node000000_Node000079" title=" " alt="" coords="152,732,247,700,288,689,289,694,248,705,154,737"/>
+<area shape="rect" id="Node000080" href="$de/d2f/classpl_qt_search_widget.htm" title="A widget that contains a line edit for a search text and a button to clear the search text." alt="" coords="284,715,411,741"/>
+<area shape="poly" id="edge4233_Node000000_Node000080" title=" " alt="" coords="154,745,283,732,283,737,154,751"/>
+<area shape="rect" id="Node000081" href="$df/d53/classpl_qt_time_scrubber_widget.htm" title=" " alt="" coords="264,765,430,792"/>
+<area shape="poly" id="edge4234_Node000000_Node000081" title=" " alt="" coords="154,756,264,767,263,773,154,761"/>
+<area shape="rect" id="Node000082" href="$dc/db4/classpl_qt_type_widget.htm" title=" " alt="" coords="290,816,404,843"/>
+<area shape="poly" id="edge4235_Node000000_Node000082" title=" " alt="" coords="154,769,248,801,290,813,289,818,247,807,152,774"/>
+<area shape="rect" id="Node000083" href="$d2/da9/classpl_qt_view_widget_container.htm" title="Wraps and decorates a view widget with a toolbar and layout." alt="" coords="263,867,432,893"/>
+<area shape="poly" id="edge4236_Node000000_Node000083" title=" " alt="" coords="132,775,185,815,249,852,280,864,278,869,247,857,182,819,129,779"/>
+<area shape="rect" id="Node000017" href="$d4/d9e/classpl_qt_game_object_view_widget.htm" title=" " alt="" coords="506,32,693,59"/>
+<area shape="poly" id="edge4177_Node000016_Node000017" title=" " alt="" coords="437,252,445,245,461,224,468,203,468,159,469,114,476,91,493,69,509,57,512,61,497,73,481,93,474,114,474,159,473,204,466,226,449,249,440,256"/>
+<area shape="rect" id="Node000019" href="$db/d91/classpl_qt_orbit_cam_view_widget.htm" title=" " alt="" coords="514,83,684,109"/>
+<area shape="poly" id="edge4179_Node000016_Node000019" title=" " alt="" coords="437,251,445,245,458,230,464,215,468,184,472,151,480,135,493,119,513,107,515,111,497,123,484,138,477,153,474,184,470,217,462,233,449,249,440,255"/>
+<area shape="rect" id="Node000018" href="$dc/dab/classpl_qt_scene_view_widget.htm" title=" " alt="" coords="788,32,940,59"/>
+<area shape="poly" id="edge4178_Node000017_Node000018" title=" " alt="" coords="708,43,788,43,788,48,708,48"/>
+<area shape="rect" id="Node000027" href="$d3/d3e/classpl_qt_collapsible_group_box.htm" title=" " alt="" coords="516,917,682,944"/>
+<area shape="poly" id="edge4185_Node000026_Node000027" title=" " alt="" coords="430,636,449,650,471,682,479,715,479,747,473,779,469,811,468,842,476,873,497,903,517,918,514,922,493,907,471,875,463,843,463,810,468,778,473,747,474,715,466,685,445,654,427,641"/>
+<area shape="rect" id="Node000029" href="$d8/d17/classpl_qt_inlined_group_box.htm" title=" " alt="" coords="529,867,669,893"/>
+<area shape="poly" id="edge4186_Node000026_Node000029" title=" " alt="" coords="430,636,449,650,467,676,475,702,476,728,474,754,471,779,472,804,479,829,497,853,512,864,530,872,528,876,509,869,493,857,475,831,466,805,466,779,468,753,471,728,470,703,463,678,445,654,427,641"/>
+<area shape="rect" id="Node000042" href="$d8/de1/classpl_qt_add_sub_element_button.htm" title=" " alt="" coords="510,184,688,211"/>
+<area shape="poly" id="edge4195_Node000041_Node000042" title=" " alt="" coords="428,358,445,346,458,331,464,316,468,285,472,253,480,236,493,221,511,209,514,213,497,225,484,239,477,254,474,286,470,318,462,334,449,350,431,362"/>
+<area shape="rect" id="Node000043" href="$d0/d88/classpl_qt_embedded_class_property_widget.htm" title="Base class for more &#39;advanced&#39; property type widgets for Pointer or Class type properties...." alt="" coords="504,235,694,277"/>
+<area shape="poly" id="edge4196_Node000041_Node000043" title=" " alt="" coords="429,355,445,346,460,332,469,318,478,302,493,287,514,276,517,280,497,291,482,306,474,320,465,336,449,350,431,359"/>
+<area shape="rect" id="Node000044" href="$d3/d0b/classpl_qt_property_container_widget.htm" title="Base class for all container properties." alt="" coords="504,301,694,328"/>
+<area shape="poly" id="edge4197_Node000041_Node000044" title=" " alt="" coords="422,353,538,326,539,331,423,359"/>
+<area shape="rect" id="Node000048" href="$d2/d36/classpl_qt_property_editor_curve1_d_widget.htm" title=" " alt="" coords="516,352,683,395"/>
+<area shape="poly" id="edge4201_Node000041_Node000048" title=" " alt="" coords="431,371,515,371,515,376,431,376"/>
+<area shape="rect" id="Node000049" href="$dc/db7/classpl_qt_property_editor_tag_set_widget.htm" title=" " alt="" coords="514,419,684,461"/>
+<area shape="poly" id="edge4202_Node000041_Node000049" title=" " alt="" coords="419,388,448,396,520,416,518,421,446,401,417,394"/>
+<area shape="rect" id="Node000050" href="$d8/de2/classpl_qt_property_pointer_widget.htm" title="Used for property types that are pointers." alt="" coords="511,485,687,512"/>
+<area shape="poly" id="edge4203_Node000041_Node000050" title=" " alt="" coords="431,386,449,397,466,415,473,435,481,454,497,471,517,482,515,487,493,475,476,457,468,437,461,418,445,401,428,391"/>
+<area shape="rect" id="Node000051" href="$d8/d7a/classpl_qt_property_type_widget.htm" title=" " alt="" coords="518,536,681,563"/>
+<area shape="poly" id="edge4204_Node000041_Node000051" title=" " alt="" coords="431,385,449,397,462,412,470,429,474,461,477,493,484,507,497,522,518,535,516,540,493,526,480,510,472,494,468,462,464,430,458,415,445,401,428,389"/>
+<area shape="rect" id="Node000053" href="$d7/dd1/classpl_qt_standard_property_widget.htm" title="Base class for most &#39;simple&#39; property type widgets. Implements some of the standard functionality." alt="" coords="506,816,693,843"/>
+<area shape="poly" id="edge4206_Node000041_Node000053" title=" " alt="" coords="431,384,449,397,467,418,478,438,486,479,487,522,498,574,551,715,594,815,589,817,546,717,492,575,482,523,480,480,473,440,462,421,445,401,428,388"/>
+<area shape="rect" id="Node000078" href="$d0/db9/classpl_qt_unsupported_property_widget.htm" title="Fallback widget for all property types for which no other widget type is registered." alt="" coords="495,133,703,160"/>
+<area shape="poly" id="edge4231_Node000041_Node000078" title=" " alt="" coords="428,358,445,346,461,325,468,304,468,260,469,215,476,192,493,170,509,159,512,163,497,174,481,195,474,216,474,260,473,305,466,328,449,350,431,363"/>
+<area shape="rect" id="Node000045" href="$d0/d43/classpl_qt_property_standard_type_container_widget.htm" title=" " alt="" coords="777,96,951,139"/>
+<area shape="poly" id="edge4198_Node000044_Node000045" title=" " alt="" coords="698,291,701,287,715,271,722,255,725,220,728,185,735,166,750,149,775,132,778,136,753,153,740,169,733,186,730,221,727,256,720,274,705,291,701,295"/>
+<area shape="rect" id="Node000047" href="$da/db5/classpl_qt_property_type_container_widget.htm" title=" " alt="" coords="775,163,953,205"/>
+<area shape="poly" id="edge4200_Node000044_Node000047" title=" " alt="" coords="694,292,702,287,718,271,725,253,733,234,750,215,773,202,776,206,753,219,737,237,730,255,722,273,705,291,697,296"/>
+<area shape="rect" id="Node000046" href="$d3/d16/classpl_qt_exposed_parameters_property_widget.htm" title=" " alt="" coords="1025,96,1237,139"/>
+<area shape="poly" id="edge4199_Node000045_Node000046" title=" " alt="" coords="967,115,1024,115,1024,120,967,120"/>
+<area shape="rect" id="Node000052" href="$db/d99/classpl_qt_compiler_preferences_widget.htm" title=" " alt="" coords="761,229,967,256"/>
+<area shape="poly" id="edge4205_Node000051_Node000052" title=" " alt="" coords="693,530,701,522,723,491,730,460,730,428,724,396,719,364,719,331,727,298,749,266,765,254,768,259,753,270,732,301,724,332,724,363,730,395,735,428,736,461,727,493,705,526,696,534"/>
+<area shape="rect" id="Node000054" href="$d5/d12/classpl_qt_asset_property_widget.htm" title="*** Asset Browser ***" alt="" coords="779,816,949,843"/>
+<area shape="poly" id="edge4207_Node000053_Node000054" title=" " alt="" coords="709,827,779,827,779,832,709,832"/>
+<area shape="rect" id="Node000055" href="$de/dba/classpl_qt_dynamic_bitflags_property_widget.htm" title=" " alt="" coords="770,867,958,909"/>
+<area shape="poly" id="edge4208_Node000053_Node000055" title=" " alt="" coords="678,844,770,864,769,870,677,849"/>
+<area shape="rect" id="Node000056" href="$d5/dac/classpl_qt_dynamic_enum_property_widget.htm" title="*** Asset Browser ***" alt="" coords="754,933,974,960"/>
+<area shape="poly" id="edge4209_Node000053_Node000056" title=" " alt="" coords="696,847,705,853,722,869,730,887,737,904,753,919,775,930,773,935,750,923,733,907,725,889,717,872,702,857,693,852"/>
+<area shape="rect" id="Node000057" href="$d9/d57/classpl_qt_dynamic_string_enum_property_widget.htm" title=" " alt="" coords="757,984,971,1027"/>
+<area shape="poly" id="edge4210_Node000053_Node000057" title=" " alt="" coords="700,849,705,853,718,867,726,882,730,913,735,942,741,956,753,970,769,981,766,986,750,974,737,959,730,944,725,913,720,884,714,870,702,857,697,853"/>
+<area shape="rect" id="Node000058" href="$d7/db6/classpl_qt_exposed_bone_widget.htm" title=" " alt="" coords="780,1051,948,1077"/>
+<area shape="poly" id="edge4211_Node000053_Node000058" title=" " alt="" coords="702,850,705,853,723,876,730,900,732,923,730,947,728,970,729,993,737,1015,753,1037,782,1054,779,1058,750,1041,732,1018,724,994,723,970,724,947,726,923,725,901,718,878,701,856,698,854"/>
+<area shape="rect" id="Node000059" href="$d0/d33/classpl_qt_external_file_property_widget.htm" title=" " alt="" coords="782,1101,946,1144"/>
+<area shape="poly" id="edge4212_Node000053_Node000059" title=" " alt="" coords="703,850,705,853,726,882,734,912,735,942,731,972,727,1001,727,1030,734,1059,753,1088,767,1099,783,1108,780,1112,764,1103,749,1091,729,1061,721,1031,721,1001,725,971,729,942,729,913,721,885,701,856,699,854"/>
+<area shape="rect" id="Node000060" href="$de/d0c/classpl_qt_file_property_widget.htm" title=" " alt="" coords="786,1168,942,1195"/>
+<area shape="poly" id="edge4213_Node000053_Node000060" title=" " alt="" coords="703,850,705,853,720,872,730,891,739,930,737,968,730,1006,722,1044,720,1081,729,1118,739,1136,753,1154,768,1166,787,1174,785,1179,766,1171,749,1158,734,1139,724,1120,715,1081,717,1043,724,1005,732,967,734,930,725,893,716,875,701,856,699,854"/>
+<area shape="rect" id="Node000061" href="$d1/dbe/classpl_qt_game_object_reference_property_widget.htm" title=" " alt="" coords="751,1219,977,1261"/>
+<area shape="poly" id="edge4214_Node000053_Node000061" title=" " alt="" coords="703,851,705,853,722,875,734,898,741,920,744,942,740,986,731,1030,722,1074,718,1118,720,1139,727,1161,737,1183,753,1205,766,1216,762,1220,749,1208,733,1186,722,1163,715,1140,713,1118,716,1073,726,1029,735,986,738,942,736,921,729,900,718,878,701,856,699,854"/>
+<area shape="rect" id="Node000062" href="$dc/df1/classpl_qt_property_editor_angle_widget.htm" title="*** ANGLE SPINBOX ***" alt="" coords="763,1285,965,1312"/>
+<area shape="poly" id="edge4215_Node000053_Node000062" title=" " alt="" coords="703,851,705,853,725,880,738,906,746,933,748,960,743,1013,729,1065,716,1117,711,1169,714,1194,721,1220,734,1246,753,1271,767,1283,764,1287,749,1275,729,1249,716,1222,708,1195,706,1169,711,1116,724,1064,737,1012,743,960,740,934,733,908,721,882,701,856,699,854"/>
+<area shape="rect" id="Node000063" href="$dc/db4/classpl_qt_property_editor_bitflags_widget.htm" title="*** BITFLAGS COMBOBOX ***" alt="" coords="778,1336,950,1379"/>
+<area shape="poly" id="edge4216_Node000053_Node000063" title=" " alt="" coords="703,851,705,853,727,883,742,913,750,942,753,972,746,1031,731,1089,716,1147,709,1205,712,1234,719,1263,733,1293,753,1322,765,1333,780,1342,777,1346,762,1338,749,1326,728,1295,714,1265,706,1235,704,1205,711,1146,726,1087,741,1030,747,972,745,943,737,915,723,886,701,856,699,854"/>
+<area shape="rect" id="Node000064" href="$d2/d02/classpl_qt_property_editor_checkbox_widget.htm" title="*** CHECKBOX ***" alt="" coords="771,1403,957,1445"/>
+<area shape="poly" id="edge4217_Node000053_Node000064" title=" " alt="" coords="704,851,705,853,718,873,727,899,736,964,735,1040,731,1122,726,1204,726,1280,733,1344,742,1369,753,1389,772,1405,769,1409,749,1392,737,1371,728,1345,720,1281,721,1204,726,1122,730,1040,730,964,722,901,713,876,701,856,700,855"/>
+<area shape="rect" id="Node000065" href="$dd/d93/classpl_qt_property_editor_color_widget.htm" title=" " alt="" coords="764,1469,964,1496"/>
+<area shape="poly" id="edge4218_Node000053_Node000065" title=" " alt="" coords="704,851,705,853,720,876,729,905,738,978,736,1064,730,1156,723,1249,722,1335,730,1406,740,1434,753,1456,766,1467,763,1471,749,1459,735,1436,725,1407,716,1335,718,1249,724,1156,731,1063,733,978,724,906,715,878,701,856,700,855"/>
+<area shape="rect" id="Node000066" href="$d5/d75/classpl_qt_property_editor_double_spinbox_widget.htm" title="*** DOUBLE SPINBOX ***" alt="" coords="780,1520,948,1563"/>
+<area shape="poly" id="edge4219_Node000053_Node000066" title=" " alt="" coords="704,851,705,853,721,878,731,909,737,946,740,988,738,1080,731,1181,724,1281,721,1374,724,1415,730,1451,739,1482,753,1506,766,1518,781,1527,778,1531,763,1522,749,1510,734,1484,724,1453,718,1415,716,1374,718,1281,726,1180,733,1080,735,988,732,947,726,911,716,880,701,856,700,855"/>
+<area shape="rect" id="Node000067" href="$dd/dcb/classpl_qt_property_editor_enum_widget.htm" title="*** ENUM COMBOBOX ***" alt="" coords="762,280,966,307"/>
+<area shape="poly" id="edge4220_Node000053_Node000067" title=" " alt="" coords="611,801,655,702,679,639,701,574,709,535,711,500,707,436,707,407,712,377,725,348,749,317,765,305,768,309,753,321,730,350,717,379,712,407,712,436,716,500,714,536,706,575,684,641,660,704,616,803"/>
+<area shape="rect" id="Node000068" href="$d4/d6f/classpl_qt_property_editor_expression_widget.htm" title=" " alt="" coords="767,331,961,373"/>
+<area shape="poly" id="edge4221_Node000053_Node000068" title=" " alt="" coords="610,801,653,702,701,574,708,545,711,519,712,472,714,451,720,429,731,407,749,383,765,371,769,375,753,387,735,410,725,431,719,451,718,473,716,519,713,546,706,575,658,704,615,803"/>
+<area shape="rect" id="Node000069" href="$d3/d82/classpl_qt_property_editor_int_spinbox_widget.htm" title="*** INT SPINBOX ***" alt="" coords="769,397,959,440"/>
+<area shape="poly" id="edge4222_Node000053_Node000069" title=" " alt="" coords="609,801,701,574,711,538,717,507,726,479,750,450,768,437,771,441,753,454,731,482,722,508,716,539,706,576,614,803"/>
+<area shape="rect" id="Node000070" href="$d7/d5d/classpl_qt_property_editor_line_edit_widget.htm" title="*** LINEEDIT ***" alt="" coords="776,464,952,507"/>
+<area shape="poly" id="edge4223_Node000053_Node000070" title=" " alt="" coords="608,801,671,648,711,569,731,538,750,517,775,501,778,505,753,521,735,541,716,571,676,650,613,803"/>
+<area shape="rect" id="Node000071" href="$d0/d59/classpl_qt_property_editor_quaternion_widget.htm" title="*** QUATERNION ***" alt="" coords="768,531,960,573"/>
+<area shape="poly" id="edge4224_Node000053_Node000071" title=" " alt="" coords="608,801,627,753,657,695,698,635,722,607,750,583,769,571,771,576,753,587,726,611,702,638,662,698,632,756,613,803"/>
+<area shape="rect" id="Node000072" href="$d5/d75/classpl_qt_property_editor_slider_widget.htm" title=" " alt="" coords="783,597,945,640"/>
+<area shape="poly" id="edge4225_Node000053_Node000072" title=" " alt="" coords="614,801,668,726,706,685,750,650,782,634,784,639,753,654,710,689,672,729,618,804"/>
+<area shape="rect" id="Node000073" href="$d2/d14/classpl_qt_property_editor_time_widget.htm" title="*** TIME SPINBOX ***" alt="" coords="765,664,963,691"/>
+<area shape="poly" id="edge4226_Node000053_Node000073" title=" " alt="" coords="621,802,676,750,712,723,750,700,780,689,782,694,753,705,715,728,680,754,625,806"/>
+<area shape="rect" id="Node000074" href="$d6/db7/classpl_qt_variance_type_widget.htm" title=" " alt="" coords="781,715,947,741"/>
+<area shape="poly" id="edge4227_Node000053_Node000074" title=" " alt="" coords="636,806,689,777,750,751,789,739,790,745,752,756,691,782,638,810"/>
+<area shape="rect" id="Node000075" href="$d9/d68/classpl_qt_variant_property_widget.htm" title=" " alt="" coords="776,765,952,792"/>
+<area shape="poly" id="edge4228_Node000053_Node000075" title=" " alt="" coords="687,810,790,790,791,795,688,815"/>
+<area shape="rect" id="Node000076" href="$d9/d24/classpl_qt_exposed_parameter_property_widget.htm" title=" " alt="" coords="1028,724,1234,767"/>
+<area shape="poly" id="edge4229_Node000075_Node000076" title=" " alt="" coords="967,763,1027,756,1028,761,968,768"/>
+<area shape="rect" id="Node000077" href="$dc/d43/classpl_qt_visual_script_variable_widget.htm" title=" " alt="" coords="1050,791,1212,833"/>
+<area shape="poly" id="edge4230_Node000075_Node000077" title=" " alt="" coords="968,789,1049,799,1049,804,967,794"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="21,5,184,32"/>
+<area shape="poly" id="edge4237_Node000003_Node000002" title=" " alt="" coords="199,16,263,16,263,21,199,21"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="267,917,428,944"/>
+<area shape="poly" id="edge4238_Node000028_Node000027" title=" " alt="" coords="444,928,515,928,515,933,444,933"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,107,200,133"/>
+<area shape="poly" id="edge4239_Node000009_Node000008" title=" " alt="" coords="216,117,247,117,247,123,216,123"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="21,157,184,184"/>
+<area shape="poly" id="edge4240_Node000014_Node000013" title=" " alt="" coords="200,168,263,168,263,173,200,173"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="47,56,158,83"/>
+<area shape="poly" id="edge4241_Node000005_Node000004" title=" " alt="" coords="173,67,289,67,289,72,173,72"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="13,208,192,235"/>
+<area shape="poly" id="edge4242_Node000021_Node000020" title=" " alt="" coords="208,219,255,219,255,224,208,224"/>
+<area shape="rect" id="Node000032" title=" " alt="" coords="44,1373,161,1400"/>
+<area shape="poly" id="edge4243_Node000032_Node000031" title=" " alt="" coords="176,1384,286,1384,286,1389,176,1389"/>
+<area shape="rect" id="Node000035" title=" " alt="" coords="51,1424,154,1451"/>
+<area shape="poly" id="edge4244_Node000035_Node000034" title=" " alt="" coords="169,1435,293,1435,293,1440,169,1440"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="24,1323,181,1349"/>
+<area shape="poly" id="edge4245_Node000024_Node000023" title=" " alt="" coords="196,1333,278,1333,278,1339,196,1339"/>
+<area shape="rect" id="Node000037" title=" " alt="" coords="18,1475,187,1501"/>
+<area shape="poly" id="edge4246_Node000037_Node000036" title=" " alt="" coords="203,1485,264,1485,264,1491,203,1491"/>
+<area shape="rect" id="Node000039" title=" " alt="" coords="17,1525,188,1552"/>
+<area shape="poly" id="edge4247_Node000039_Node000038" title=" " alt="" coords="204,1536,259,1536,259,1541,204,1541"/>
+</map>

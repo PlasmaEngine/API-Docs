@@ -1,0 +1,11 @@
+<map id="plGameStateBase" name="plGameStateBase">
+<area shape="rect" id="Node000001" title="plGameState is the base class to build custom game logic upon. It works closely together with plGameA..." alt="" coords="15,155,142,181"/>
+<area shape="rect" id="Node000004" href="$db/d9b/classpl_game_state.htm" title="plGameState is the base class to build custom game logic upon. It works closely together with plGameA..." alt="" coords="30,229,127,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="81,197,81,229,76,229,76,197"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="19,80,138,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,122,81,154,76,154,76,122"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="40,5,117,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,48,81,80,76,80,76,48"/>
+<area shape="rect" id="Node000005" href="$d6/da5/classpl_fallback_game_state.htm" title="plFallbackGameState is an plGameState that can handle existing worlds when no other game state is ava..." alt="" coords="5,304,152,331"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="81,272,81,304,76,304,76,272"/>
+</map>

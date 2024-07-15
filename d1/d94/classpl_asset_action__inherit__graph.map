@@ -1,0 +1,13 @@
+<map id="plAssetAction" name="plAssetAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,379,116,405"/>
+<area shape="rect" id="Node000002" href="$d7/dcc/classpl_button_action.htm" title=" " alt="" coords="11,304,118,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,346,67,378,62,378,62,346"/>
+<area shape="rect" id="Node000003" href="$d8/dfa/classpl_named_action.htm" title=" " alt="" coords="10,229,119,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,272,67,304,62,304,62,272"/>
+<area shape="rect" id="Node000004" href="$d4/d17/classpl_action.htm" title=" " alt="" coords="30,155,99,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="67,197,67,229,62,229,62,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="5,80,124,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="67,122,67,154,62,154,62,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="26,5,103,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="67,48,67,80,62,80,62,48"/>
+</map>

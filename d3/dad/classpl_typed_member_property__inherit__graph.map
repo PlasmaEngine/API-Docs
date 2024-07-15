@@ -1,0 +1,9 @@
+<map id="plTypedMemberProperty&lt; Type &gt;" name="plTypedMemberProperty&lt; Type &gt;">
+<area shape="rect" id="Node000001" title="The base class for all typed member properties. I.e. once the type of a property is determined,..." alt="" coords="12,155,175,197"/>
+<area shape="rect" id="Node000004" href="$d4/ded/classpl_member_property.htm" title="[internal] An implementation of plTypedMemberProperty that accesses the property data directly." alt="" coords="5,245,182,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,213,96,245,91,245,91,213"/>
+<area shape="rect" id="Node000002" href="$d3/d73/classpl_abstract_member_property.htm" title="This is the base class for all properties that are members of a class. It provides more information a..." alt="" coords="5,80,182,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,122,96,154,91,154,91,122"/>
+<area shape="rect" id="Node000003" href="$d4/dd7/classpl_abstract_property.htm" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="29,5,158,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,48,96,80,91,80,91,48"/>
+</map>

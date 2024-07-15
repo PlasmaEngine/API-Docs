@@ -1,0 +1,9 @@
+<map id="plQtExternalFilePropertyWidget" name="plQtExternalFilePropertyWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,229,181,272"/>
+<area shape="rect" id="Node000002" href="$d7/dd1/classpl_qt_standard_property_widget.htm" title="Base class for most &#39;simple&#39; property type widgets. Implements some of the standard functionality." alt="" coords="5,155,193,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,197,102,229,96,229,96,197"/>
+<area shape="rect" id="Node000003" href="$d2/d2e/classpl_qt_property_widget.htm" title="Base class for all property widgets." alt="" coords="31,80,167,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,122,102,154,96,154,96,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="63,5,135,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,48,102,80,96,80,96,48"/>
+</map>

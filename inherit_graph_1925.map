@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$df/def/classpl_manipulator_adapter.htm" title=" " alt="" coords="5,183,149,209"/>
+<area shape="rect" id="Node000001" href="$d6/d25/classpl_bone_manipulator_adapter.htm" title="Makes an array of plExposedBone properties editable in the viewport." alt="" coords="216,5,390,32"/>
+<area shape="poly" id="edge3555_Node000000_Node000001" title=" " alt="" coords="90,167,131,103,161,70,195,42,218,30,221,35,198,46,164,74,135,107,94,170"/>
+<area shape="rect" id="Node000002" href="$d2/d89/classpl_box_manipulator_adapter.htm" title=" " alt="" coords="220,56,386,83"/>
+<area shape="poly" id="edge3556_Node000000_Node000002" title=" " alt="" coords="99,169,141,129,167,109,195,92,225,81,226,86,198,97,170,114,144,134,102,173"/>
+<area shape="rect" id="Node000003" href="$d7/d26/classpl_capsule_manipulator_adapter.htm" title=" " alt="" coords="208,107,398,133"/>
+<area shape="poly" id="edge3557_Node000000_Node000003" title=" " alt="" coords="120,173,196,143,236,131,237,136,198,148,122,178"/>
+<area shape="rect" id="Node000004" href="$dd/d52/classpl_cone_angle_manipulator_adapter.htm" title=" " alt="" coords="200,157,406,184"/>
+<area shape="poly" id="edge3558_Node000000_Node000004" title=" " alt="" coords="164,184,199,180,199,185,164,189"/>
+<area shape="rect" id="Node000005" href="$dc/d9c/classpl_cone_length_manipulator_adapter.htm" title=" " alt="" coords="197,208,409,235"/>
+<area shape="poly" id="edge3559_Node000000_Node000005" title=" " alt="" coords="164,203,197,207,196,212,164,208"/>
+<area shape="rect" id="Node000006" href="$d0/d35/classpl_non_uniform_box_manipulator_adapter.htm" title=" " alt="" coords="209,259,397,301"/>
+<area shape="poly" id="edge3560_Node000000_Node000006" title=" " alt="" coords="123,214,198,244,230,256,229,261,196,249,121,219"/>
+<area shape="rect" id="Node000007" href="$db/d92/classpl_sphere_manipulator_adapter.htm" title=" " alt="" coords="211,325,395,352"/>
+<area shape="poly" id="edge3561_Node000000_Node000007" title=" " alt="" coords="99,220,141,267,168,291,198,311,224,322,222,327,195,316,165,295,137,271,95,223"/>
+<area shape="rect" id="Node000008" href="$d5/d78/classpl_transform_manipulator_adapter.htm" title=" " alt="" coords="203,376,403,403"/>
+<area shape="poly" id="edge3562_Node000000_Node000008" title=" " alt="" coords="92,222,109,255,133,293,162,331,198,362,220,373,218,378,195,366,158,334,128,296,104,258,88,225"/>
+</map>

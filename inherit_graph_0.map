@@ -1,0 +1,79 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="19,461,149,488"/>
+<area shape="rect" id="Node000001" href="$d9/d3a/classpl_qt_application_panel.htm" title="Base class for all panels that are supposed to be application wide (not tied to some document)." alt="" coords="221,461,363,488"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="165,472,220,472,220,477,165,477"/>
+<area shape="rect" id="Node000011" href="$da/d37/classpl_qt_c_vars_widget.htm" title=" " alt="" coords="231,56,353,83"/>
+<area shape="poly" id="edge7_Node000000_Node000011" title=" " alt="" coords="159,450,161,448,177,425,187,403,196,359,193,316,184,272,175,229,172,184,181,139,192,116,209,93,228,78,232,82,213,97,197,119,186,141,177,184,180,228,189,271,198,315,201,360,192,405,181,428,165,451,163,453"/>
+<area shape="rect" id="Node000013" href="$da/d71/classpl_qt_data_widget.htm" title=" " alt="" coords="235,157,348,184"/>
+<area shape="poly" id="edge8_Node000000_Node000013" title=" " alt="" coords="159,450,161,448,181,416,189,385,188,354,184,323,179,291,179,259,187,227,209,194,233,178,236,182,213,198,192,229,184,260,185,291,189,322,194,354,194,386,186,418,165,451,163,453"/>
+<area shape="rect" id="Node000015" href="$d7/d2e/classpl_qt_file_widget.htm" title=" " alt="" coords="238,208,346,235"/>
+<area shape="poly" id="edge9_Node000000_Node000015" title=" " alt="" coords="158,450,161,448,178,423,185,398,186,373,184,348,182,323,183,297,191,271,209,245,222,234,236,227,239,232,224,239,213,248,195,273,188,298,187,323,189,348,191,373,190,399,183,425,165,451,162,454"/>
+<area shape="rect" id="Node000017" href="$d9/dd3/classpl_qt_global_events_widget.htm" title=" " alt="" coords="211,259,373,285"/>
+<area shape="poly" id="edge10_Node000000_Node000017" title=" " alt="" coords="158,450,161,448,175,429,182,411,184,373,186,335,194,315,209,295,225,284,228,288,213,299,199,317,192,336,189,373,187,412,179,432,165,451,161,454"/>
+<area shape="rect" id="Node000019" href="$dd/de1/classpl_qt_input_widget.htm" title=" " alt="" coords="235,309,349,336"/>
+<area shape="poly" id="edge11_Node000000_Node000019" title=" " alt="" coords="156,451,161,447,172,435,178,423,184,398,190,372,197,359,209,346,233,332,236,336,212,350,202,362,195,374,189,399,183,425,176,438,164,451,160,455"/>
+<area shape="rect" id="Node000021" href="$dc/d52/classpl_qt_log_dock_widget.htm" title=" " alt="" coords="223,360,360,387"/>
+<area shape="poly" id="edge12_Node000000_Node000021" title=" " alt="" coords="152,452,161,447,176,435,184,422,194,409,209,396,233,385,235,390,212,401,198,413,189,426,179,439,164,452,155,457"/>
+<area shape="rect" id="Node000023" href="$d4/d1e/classpl_qt_main_widget.htm" title=" " alt="" coords="235,411,349,437"/>
+<area shape="poly" id="edge13_Node000000_Node000023" title=" " alt="" coords="156,455,233,435,235,441,157,460"/>
+<area shape="rect" id="Node000025" href="$d2/d72/classpl_qt_memory_widget.htm" title=" " alt="" coords="225,613,358,640"/>
+<area shape="poly" id="edge14_Node000000_Node000025" title=" " alt="" coords="106,499,151,550,180,576,212,599,236,610,233,615,209,604,177,580,148,553,102,502"/>
+<area shape="rect" id="Node000027" href="$d5/de9/classpl_qt_plugins_widget.htm" title=" " alt="" coords="227,664,356,691"/>
+<area shape="poly" id="edge15_Node000000_Node000027" title=" " alt="" coords="103,500,157,584,187,624,212,650,233,661,230,666,209,654,183,628,153,587,99,503"/>
+<area shape="rect" id="Node000029" href="$d3/dca/classpl_qt_reflection_widget.htm" title=" " alt="" coords="220,715,364,741"/>
+<area shape="poly" id="edge16_Node000000_Node000029" title=" " alt="" coords="105,500,165,600,177,630,184,655,193,678,212,701,230,712,227,716,209,705,188,681,179,657,172,632,160,603,100,503"/>
+<area shape="rect" id="Node000031" href="$d7/df9/classpl_qt_resource_widget.htm" title=" " alt="" coords="221,765,362,792"/>
+<area shape="poly" id="edge17_Node000000_Node000031" title=" " alt="" coords="106,499,136,545,165,600,178,645,182,682,189,717,198,734,212,751,228,763,225,767,209,755,193,737,184,718,176,683,173,646,160,602,131,548,102,502"/>
+<area shape="rect" id="Node000033" href="$da/d16/classpl_qt_stat_vis_widget.htm" title=" " alt="" coords="227,816,356,843"/>
+<area shape="poly" id="edge18_Node000000_Node000033" title=" " alt="" coords="107,499,137,545,165,600,175,631,179,659,179,709,180,732,184,755,194,778,213,802,228,814,225,818,209,806,190,781,179,757,174,733,174,709,174,660,170,632,160,602,132,548,102,502"/>
+<area shape="rect" id="Node000035" href="$de/dae/classpl_qt_subsystems_widget.htm" title=" " alt="" coords="212,867,372,893"/>
+<area shape="poly" id="edge19_Node000000_Node000035" title=" " alt="" coords="107,499,137,545,165,600,176,639,180,674,176,736,176,765,179,793,191,822,213,853,227,864,223,868,209,856,186,825,174,795,170,765,171,736,174,674,171,640,160,602,133,548,103,502"/>
+<area shape="rect" id="Node000037" href="$dd/d49/classpl_qt_time_widget.htm" title=" " alt="" coords="235,917,349,944"/>
+<area shape="poly" id="edge20_Node000000_Node000037" title=" " alt="" coords="108,499,138,545,165,600,177,647,180,688,174,763,171,797,175,832,187,867,213,903,236,919,233,924,209,907,183,869,170,833,166,797,168,762,175,688,172,647,160,602,133,547,103,502"/>
+<area shape="rect" id="Node000002" href="$dd/d6b/classpl_qt_asset_browser_panel.htm" title="The application wide panel that shows and asset browser." alt="" coords="421,107,580,133"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="369,450,371,448,389,423,400,400,404,378,405,355,405,305,409,277,419,246,453,181,486,132,491,136,458,184,423,248,414,278,410,305,410,355,409,378,405,402,394,426,375,451,372,454"/>
+<area shape="rect" id="Node000004" href="$da/da9/classpl_qt_asset_curator_panel.htm" title=" " alt="" coords="424,259,578,285"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,452,371,447,414,408,449,362,474,318,491,285,496,287,479,320,453,365,418,411,375,451,367,456"/>
+<area shape="rect" id="Node000006" href="$d6/d40/classpl_qt_c_var_panel.htm" title=" " alt="" coords="447,461,554,488"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="379,472,447,472,447,477,379,477"/>
+<area shape="rect" id="Node000007" href="$dd/d62/classpl_qt_log_panel.htm" title="The application wide panel that shows the engine log output and the editor log output." alt="" coords="451,512,550,539"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="366,490,451,511,450,516,364,495"/>
+<area shape="rect" id="Node000009" href="$d9/dfd/classpl_qt_long_ops_panel.htm" title="This panel listens to events from plLongOpControllerManager and displays all currently known long ope..." alt="" coords="436,563,566,589"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="365,492,375,498,390,511,399,524,408,536,422,548,445,560,443,564,420,553,404,540,395,527,386,514,371,502,362,497"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="215,5,369,32"/>
+<area shape="poly" id="edge21_Node000003_Node000002" title=" " alt="" coords="358,35,374,42,433,73,481,104,478,108,431,78,372,46,356,40"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="217,107,366,133"/>
+<area shape="poly" id="edge22_Node000005_Node000004" title=" " alt="" coords="364,138,374,143,412,170,445,202,491,256,487,260,441,205,408,174,372,148,362,142"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="25,56,143,83"/>
+<area shape="poly" id="edge23_Node000012_Node000011" title=" " alt="" coords="158,67,230,67,230,72,158,72"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="7,157,161,184"/>
+<area shape="poly" id="edge24_Node000014_Node000013" title=" " alt="" coords="177,168,235,168,235,173,177,173"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="33,208,135,235"/>
+<area shape="poly" id="edge25_Node000016_Node000015" title=" " alt="" coords="151,219,238,219,238,224,151,224"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="5,259,163,285"/>
+<area shape="poly" id="edge26_Node000018_Node000017" title=" " alt="" coords="178,269,210,269,210,275,178,275"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="29,309,139,336"/>
+<area shape="poly" id="edge27_Node000020_Node000019" title=" " alt="" coords="154,320,234,320,234,325,154,325"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="18,360,150,387"/>
+<area shape="poly" id="edge28_Node000022_Node000021" title=" " alt="" coords="166,371,223,371,223,376,166,376"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="245,512,339,539"/>
+<area shape="poly" id="edge29_Node000008_Node000007" title=" " alt="" coords="354,523,450,523,450,528,354,528"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="229,563,354,589"/>
+<area shape="poly" id="edge30_Node000010_Node000009" title=" " alt="" coords="370,573,435,573,435,579,370,579"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="29,411,139,437"/>
+<area shape="poly" id="edge31_Node000024_Node000023" title=" " alt="" coords="154,421,234,421,234,427,154,427"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="20,613,148,640"/>
+<area shape="poly" id="edge32_Node000026_Node000025" title=" " alt="" coords="164,624,225,624,225,629,164,629"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="22,664,146,691"/>
+<area shape="poly" id="edge33_Node000028_Node000027" title=" " alt="" coords="162,675,227,675,227,680,162,680"/>
+<area shape="rect" id="Node000030" title=" " alt="" coords="15,715,153,741"/>
+<area shape="poly" id="edge34_Node000030_Node000029" title=" " alt="" coords="169,725,220,725,220,731,169,731"/>
+<area shape="rect" id="Node000032" title=" " alt="" coords="16,765,152,792"/>
+<area shape="poly" id="edge35_Node000032_Node000031" title=" " alt="" coords="168,776,221,776,221,781,168,781"/>
+<area shape="rect" id="Node000034" title=" " alt="" coords="22,816,146,843"/>
+<area shape="poly" id="edge36_Node000034_Node000033" title=" " alt="" coords="162,827,227,827,227,832,162,832"/>
+<area shape="rect" id="Node000036" title=" " alt="" coords="7,867,161,893"/>
+<area shape="poly" id="edge37_Node000036_Node000035" title=" " alt="" coords="177,877,212,877,212,883,177,883"/>
+<area shape="rect" id="Node000038" title=" " alt="" coords="29,917,139,944"/>
+<area shape="poly" id="edge38_Node000038_Node000037" title=" " alt="" coords="154,928,234,928,234,933,154,933"/>
+</map>

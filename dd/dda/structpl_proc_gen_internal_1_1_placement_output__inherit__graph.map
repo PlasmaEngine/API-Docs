@@ -1,0 +1,9 @@
+<map id="plProcGenInternal::PlacementOutput" name="plProcGenInternal::PlacementOutput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,245,138,288"/>
+<area shape="rect" id="Node000002" href="$d0/d44/structpl_proc_gen_internal_1_1_output.htm" title=" " alt="" coords="5,155,138,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,213,74,245,69,245,69,213"/>
+<area shape="rect" id="Node000003" href="$d2/df5/classpl_ref_counted.htm" title="Base class for reference counted objects." alt="" coords="22,80,121,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,122,74,154,69,154,69,122"/>
+<area shape="rect" id="Node000004" href="$de/da6/classpl_ref_counting_impl.htm" title=" " alt="" coords="9,5,134,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,48,74,80,69,80,69,48"/>
+</map>

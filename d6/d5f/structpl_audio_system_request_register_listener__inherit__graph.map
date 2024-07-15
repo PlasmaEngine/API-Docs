@@ -1,0 +1,5 @@
+<map id="plAudioSystemRequestRegisterListener" name="plAudioSystemRequestRegisterListener">
+<area shape="rect" id="Node000001" title="Audio request to register a new listener in the audio system." alt="" coords="5,80,211,123"/>
+<area shape="rect" id="Node000002" href="$d4/de5/structpl_audio_system_request.htm" title="Base class for all audio system requests." alt="" coords="29,5,187,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,48,111,80,105,80,105,48"/>
+</map>

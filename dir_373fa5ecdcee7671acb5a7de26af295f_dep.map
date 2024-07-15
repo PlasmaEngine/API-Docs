@@ -1,0 +1,26 @@
+<map id="Code/Editor/EditorFramework" name="Code/Editor/EditorFramework">
+<area shape="rect" id="node2" href="dir_b71d9607cb374bcd46abeb9a217ab51b.htm" title="Actions" alt="" coords="181,64,246,91"/>
+<area shape="rect" id="node3" href="dir_95651adab7795fef067f63386e666902.htm" title="Assets" alt="" coords="270,64,332,91"/>
+<area shape="rect" id="node4" href="dir_23165c672bad0f37463347f51eb66dbd.htm" title="CodeGen" alt="" coords="357,64,432,91"/>
+<area shape="rect" id="node5" href="dir_669518248501344cad18411673ae8135.htm" title="Dialogs" alt="" coords="456,64,520,91"/>
+<area shape="rect" id="node6" href="dir_641e4c3cc3eca4149c1fbf80af9a5551.htm" title="Document" alt="" coords="544,64,624,91"/>
+<area shape="rect" id="node7" href="dir_ccb02725dcd003a5ff69e0c15137d631.htm" title="DocumentWindow" alt="" coords="649,64,775,91"/>
+<area shape="rect" id="node8" href="dir_c282b1546aef8cfa6072e10e72254d91.htm" title="DragDrop" alt="" coords="800,64,875,91"/>
+<area shape="rect" id="node9" href="dir_52ae4ac2dd2478e39d260c7988fa4e84.htm" title="EditorApp" alt="" coords="900,64,978,91"/>
+<area shape="rect" id="node10" href="dir_36a34e0e0708e53bedd1a1be2e122014.htm" title="EditTools" alt="" coords="1002,64,1078,91"/>
+<area shape="rect" id="node11" href="dir_a8fdfbab9b62aea68cf0f978892ae623.htm" title="Gizmos" alt="" coords="1102,64,1168,91"/>
+<area shape="rect" id="node12" href="dir_8f2475f6185ffe83a56699f4a8a87406.htm" title="GUI" alt="" coords="1192,64,1235,91"/>
+<area shape="rect" id="node13" href="dir_978fee7ae930175061ac34d90fc6f7b9.htm" title="InputContexts" alt="" coords="1259,64,1360,91"/>
+<area shape="rect" id="node14" href="dir_c7b54a851675f8aeb14f1326f41a1d30.htm" title="IPC" alt="" coords="1384,64,1426,91"/>
+<area shape="rect" id="node15" href="dir_3551b4bc9cbf504fd5dcc7ea406f28b9.htm" title="LongOps" alt="" coords="1450,64,1523,91"/>
+<area shape="rect" id="node16" href="dir_d524c18379b2e0507b973601681f523c.htm" title="Manipulators" alt="" coords="1547,64,1642,91"/>
+<area shape="rect" id="node17" href="dir_04bce7e9f9589d7d989f9b8e98adee67.htm" title="Object" alt="" coords="1666,64,1726,91"/>
+<area shape="rect" id="node18" href="dir_16bd7f0fae1f6801c9a8edbe7992a78e.htm" title="Panels" alt="" coords="1749,64,1811,91"/>
+<area shape="rect" id="node19" href="dir_90e332514d4296a46b901cbcc92d75c9.htm" title="Preferences" alt="" coords="1835,64,1925,91"/>
+<area shape="rect" id="node20" href="dir_9ba7c1c833290df9662ac99018f5eed2.htm" title="Project" alt="" coords="1949,64,2011,91"/>
+<area shape="rect" id="node21" href="dir_0096171aba22652d78ef5efa2ef7b486.htm" title="PropertyGrid" alt="" coords="2036,64,2130,91"/>
+<area shape="rect" id="node22" href="dir_a52cfbbc68f48ce02d695f00f654f41b.htm" title="Settings" alt="" coords="2153,64,2223,91"/>
+<area shape="rect" id="node23" href="dir_7e0d4cbb0a95e1396484151d3ae2286b.htm" title="Visualizers" alt="" coords="2247,64,2332,91"/>
+<area shape="rect" id="clust2" href="dir_373fa5ecdcee7671acb5a7de26af295f.htm" alt="" coords="27,53,2343,101"/>
+<area shape="rect" id="clust1" href="dir_0805f58632e82e8b8fca309cf4434394.htm" title="Editor" alt="" coords="16,16,2353,112"/>
+</map>

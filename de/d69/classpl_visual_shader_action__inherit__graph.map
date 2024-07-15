@@ -1,0 +1,13 @@
+<map id="plVisualShaderAction" name="plVisualShaderAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,379,151,405"/>
+<area shape="rect" id="Node000002" href="$d7/dcc/classpl_button_action.htm" title=" " alt="" coords="25,304,131,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,346,81,378,75,378,75,346"/>
+<area shape="rect" id="Node000003" href="$d8/dfa/classpl_named_action.htm" title=" " alt="" coords="23,229,133,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,272,81,304,75,304,75,272"/>
+<area shape="rect" id="Node000004" href="$d4/d17/classpl_action.htm" title=" " alt="" coords="44,155,112,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="81,197,81,229,75,229,75,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="19,80,137,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="81,122,81,154,75,154,75,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="39,5,117,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="81,48,81,80,75,80,75,48"/>
+</map>

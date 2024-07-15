@@ -1,0 +1,11 @@
+<map id="plVolumeBoxComponent" name="plVolumeBoxComponent">
+<area shape="rect" id="Node000001" title="A box implementation of the plVolumeComponent." alt="" coords="5,304,170,331"/>
+<area shape="rect" id="Node000002" href="$d7/d2b/classpl_volume_component.htm" title="A volume component can hold generic values either from a blackboard template or set directly on the c..." alt="" coords="17,229,158,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,272,90,304,85,304,85,272"/>
+<area shape="rect" id="Node000003" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="39,155,136,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,197,90,229,85,229,85,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="28,80,147,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="90,122,90,154,85,154,85,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="49,5,126,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="90,48,90,80,85,80,85,48"/>
+</map>

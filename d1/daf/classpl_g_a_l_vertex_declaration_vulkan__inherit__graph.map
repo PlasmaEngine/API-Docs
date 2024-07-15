@@ -1,0 +1,11 @@
+<map id="plGALVertexDeclarationVulkan" name="plGALVertexDeclarationVulkan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,320,211,347"/>
+<area shape="rect" id="Node000002" href="$d1/d9a/classpl_g_a_l_vertex_declaration.htm" title=" " alt="" coords="31,245,191,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,288,114,320,108,320,108,288"/>
+<area shape="rect" id="Node000003" href="$d7/d2b/classpl_g_a_l_object.htm" title=" " alt="" coords="5,155,217,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,213,114,245,108,245,108,213"/>
+<area shape="rect" id="Node000004" href="$d2/df5/classpl_ref_counted.htm" title="Base class for reference counted objects." alt="" coords="62,80,160,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,122,114,154,108,154,108,122"/>
+<area shape="rect" id="Node000005" href="$de/da6/classpl_ref_counting_impl.htm" title=" " alt="" coords="48,5,174,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="114,48,114,80,108,80,108,48"/>
+</map>
