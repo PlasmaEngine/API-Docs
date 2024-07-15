@@ -1,0 +1,31 @@
+<map id="plParticleStreamFactory" name="plParticleStreamFactory">
+<area shape="rect" id="Node000001" title="Base class for all particle stream factories." alt="" coords="297,364,458,391"/>
+<area shape="rect" id="Node000004" href="$d1/d03/classpl_particle_stream_factory___axis.htm" title=" " alt="" coords="506,5,701,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="379,348,388,285,409,202,426,159,447,116,473,77,505,42,522,30,525,35,508,46,477,80,451,119,431,161,414,204,393,286,384,349"/>
+<area shape="rect" id="Node000005" href="$d3/dc6/classpl_particle_stream_factory___color.htm" title=" " alt="" coords="523,56,684,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="382,348,396,297,420,233,456,167,478,136,505,109,521,97,524,101,508,113,483,139,460,169,425,235,402,299,388,349"/>
+<area shape="rect" id="Node000006" href="$d4/d0c/classpl_particle_stream_factory___effect_i_d.htm" title=" " alt="" coords="523,123,684,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="387,348,405,310,430,263,464,216,505,175,523,164,526,168,508,179,468,220,435,266,409,312,392,351"/>
+<area shape="rect" id="Node000007" href="$d3/d44/classpl_particle_stream_factory___last_position.htm" title=" " alt="" coords="523,189,684,232"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="396,350,442,296,472,267,505,242,527,230,529,235,508,246,475,271,445,299,400,353"/>
+<area shape="rect" id="Node000008" href="$db/d7a/classpl_particle_stream_factory___on_off.htm" title=" " alt="" coords="523,256,684,299"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="415,354,505,308,534,297,536,302,507,313,417,358"/>
+<area shape="rect" id="Node000009" href="$d2/d7b/classpl_particle_stream_factory___position.htm" title=" " alt="" coords="523,323,684,365"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="473,361,522,353,523,359,474,366"/>
+<area shape="rect" id="Node000010" href="$d1/dac/classpl_particle_stream_factory___rotation_offset.htm" title=" " alt="" coords="523,389,684,432"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="474,389,523,396,522,401,473,394"/>
+<area shape="rect" id="Node000011" href="$df/d65/classpl_particle_stream_factory___rotation_speed.htm" title=" " alt="" coords="523,456,684,499"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="417,396,507,442,536,453,534,458,505,446,415,401"/>
+<area shape="rect" id="Node000012" href="$db/dd7/classpl_particle_stream_factory___size.htm" title=" " alt="" coords="506,523,701,549"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="399,402,444,456,474,485,508,508,532,520,530,524,505,513,471,489,441,460,395,405"/>
+<area shape="rect" id="Node000013" href="$d9/d17/classpl_particle_stream_factory___trail_data.htm" title=" " alt="" coords="523,573,684,616"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="393,403,411,439,437,480,469,523,508,559,526,571,524,575,505,563,465,526,433,483,407,441,389,406"/>
+<area shape="rect" id="Node000014" href="$d6/dd7/classpl_particle_stream_factory___variation.htm" title=" " alt="" coords="523,640,684,683"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="388,405,403,452,427,512,462,573,484,601,508,626,525,637,521,642,505,630,480,605,458,576,422,514,398,454,383,406"/>
+<area shape="rect" id="Node000015" href="$d1/db0/classpl_particle_stream_factory___velocity.htm" title=" " alt="" coords="523,707,684,749"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="385,406,396,465,418,542,435,583,455,623,479,660,508,693,524,705,521,709,505,697,475,663,450,625,430,585,413,544,391,466,380,406"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,364,249,391"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,375,296,375,296,380,264,380"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,364,83,391"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,375,130,375,130,380,99,380"/>
+</map>

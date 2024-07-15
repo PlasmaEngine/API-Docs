@@ -1,0 +1,15 @@
+<map id="Code/Engine" name="Code/Engine">
+<area shape="rect" id="node2" href="dir_e62ae2b329024d6cec02491cff116055.htm" title="Core" alt="" coords="122,64,171,91"/>
+<area shape="rect" id="node3" href="dir_b4afbf48febc82b6d8264e96ce32f252.htm" title="Foundation" alt="" coords="195,64,280,91"/>
+<area shape="rect" id="node4" href="dir_9682a586b80c8c8b664b4a104301d0e0.htm" title="GameEngine" alt="" coords="304,64,400,91"/>
+<area shape="rect" id="node5" href="dir_ce0639703669ddb648d62e2a81c7d3ba.htm" title="RendererCore" alt="" coords="424,64,525,91"/>
+<area shape="rect" id="node6" href="dir_ab75fa5df8ca74e762220129432f4ee2.htm" title="RendererDX11" alt="" coords="548,64,652,91"/>
+<area shape="rect" id="node7" href="dir_beb8a8beb325d39c9093757245081fe7.htm" title="RendererFoundation" alt="" coords="675,64,813,91"/>
+<area shape="rect" id="node8" href="dir_a6b1dc1335d46a3cc35265a14a5eafd1.htm" title="RendererVulkan" alt="" coords="837,64,950,91"/>
+<area shape="rect" id="node9" href="dir_645f8bf39d7b6ab4e696fa2ceced935e.htm" title="ShaderCompilerDXC" alt="" coords="974,64,1112,91"/>
+<area shape="rect" id="node10" href="dir_ecf4c5e6bf6131cad18619e4e25a6f0c.htm" title="ShaderCompilerHLSL" alt="" coords="1135,64,1281,91"/>
+<area shape="rect" id="node11" href="dir_0095079c1efe7bbf24b8fb7c2cd4d75d.htm" title="Texture" alt="" coords="1305,64,1370,91"/>
+<area shape="rect" id="node12" href="dir_40bf2b3dc614ab71b0c8e155c9275c74.htm" title="Utilities" alt="" coords="1393,64,1458,91"/>
+<area shape="rect" id="clust2" href="dir_035128dd2074b3ffa643fb93d2ba646f.htm" alt="" coords="27,53,1468,101"/>
+<area shape="rect" id="clust1" href="dir_23fdee2f6995db16c755697cdf620cf4.htm" title="Code" alt="" coords="16,16,1479,112"/>
+</map>

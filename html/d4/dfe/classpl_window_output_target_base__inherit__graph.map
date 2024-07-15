@@ -1,0 +1,7 @@
+<map id="plWindowOutputTargetBase" name="plWindowOutputTargetBase">
+<area shape="rect" id="Node000001" title="Base class for window output targets." alt="" coords="102,5,284,32"/>
+<area shape="rect" id="Node000002" href="$d5/d9d/classpl_window_output_target_g_a_l.htm" title="Creates a swapchain and keeps it up to date with the window." alt="" coords="5,80,184,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,44,113,82,110,77,162,39"/>
+<area shape="rect" id="Node000003" href="$da/d58/classpl_window_output_target_x_r.htm" title="XR Window output target base implementation. Optionally wraps a companion window output target." alt="" coords="208,80,376,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,39,276,77,273,82,221,44"/>
+</map>

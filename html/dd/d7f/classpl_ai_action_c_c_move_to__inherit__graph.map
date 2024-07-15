@@ -1,0 +1,15 @@
+<map id="plAiActionCCMoveTo" name="plAiActionCCMoveTo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,453,148,480"/>
+<area shape="rect" id="Node000002" href="$d7/df9/classpl_ai_action.htm" title=" " alt="" coords="36,379,117,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,421,79,453,74,453,74,421"/>
+<area shape="rect" id="Node000003" href="$d7/dcc/classpl_button_action.htm" title=" " alt="" coords="23,304,130,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,346,79,378,74,378,74,346"/>
+<area shape="rect" id="Node000004" href="$d8/dfa/classpl_named_action.htm" title=" " alt="" coords="22,229,131,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="79,272,79,304,74,304,74,272"/>
+<area shape="rect" id="Node000005" href="$d4/d17/classpl_action.htm" title=" " alt="" coords="42,155,111,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="79,197,79,229,74,229,74,197"/>
+<area shape="rect" id="Node000006" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="17,80,136,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="79,122,79,154,74,154,74,122"/>
+<area shape="rect" id="Node000007" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="38,5,115,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="79,48,79,80,74,80,74,48"/>
+</map>

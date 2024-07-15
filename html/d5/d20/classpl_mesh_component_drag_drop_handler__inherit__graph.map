@@ -1,0 +1,13 @@
+<map id="plMeshComponentDragDropHandler" name="plMeshComponentDragDropHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,379,233,405"/>
+<area shape="rect" id="Node000002" href="$d8/d32/classpl_component_drag_drop_handler.htm" title=" " alt="" coords="21,304,217,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,346,122,378,116,378,116,346"/>
+<area shape="rect" id="Node000003" href="$da/d2e/classpl_asset_drag_drop_handler.htm" title=" " alt="" coords="37,229,201,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,272,122,304,116,304,116,272"/>
+<area shape="rect" id="Node000004" href="$d4/d22/classpl_drag_drop_handler.htm" title=" " alt="" coords="54,155,184,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,197,122,229,116,229,116,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="60,80,178,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="122,122,122,154,116,154,116,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="80,5,158,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="122,48,122,80,116,80,116,48"/>
+</map>

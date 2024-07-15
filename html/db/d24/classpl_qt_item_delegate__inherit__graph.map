@@ -1,0 +1,9 @@
+<map id="plQtItemDelegate" name="plQtItemDelegate">
+<area shape="rect" id="Node000001" title="In combination with plQtItemView this delegate allows for receiving the full range of mouse input." alt="" coords="100,80,222,107"/>
+<area shape="rect" id="Node000003" href="$d7/ddd/classpl_qt_icon_view_delegate.htm" title=" " alt="" coords="5,155,154,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,119,95,156,92,152,134,115"/>
+<area shape="rect" id="Node000004" href="$de/dd7/classpl_qt_layer_delegate.htm" title="Custom delegate for layers, used in plQtLayerPanel. Provides buttons to toggle the layer visible / lo..." alt="" coords="178,155,306,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,115,230,152,226,156,184,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="107,5,214,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,48,164,80,158,80,158,48"/>
+</map>

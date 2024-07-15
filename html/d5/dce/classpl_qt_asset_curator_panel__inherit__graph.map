@@ -1,0 +1,9 @@
+<map id="plQtAssetCuratorPanel" name="plQtAssetCuratorPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,155,238,181"/>
+<area shape="rect" id="Node000002" href="$d9/d3a/classpl_qt_application_panel.htm" title="Base class for all panels that are supposed to be application wide (not tied to some document)." alt="" coords="5,80,148,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,115,148,152,144,156,101,119"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="11,5,142,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,48,79,80,74,80,74,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="171,80,320,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,119,177,156,173,152,218,115"/>
+</map>

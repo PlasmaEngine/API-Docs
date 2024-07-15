@@ -1,0 +1,9 @@
+<map id="plUpdateTask" name="plUpdateTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,229,118,256"/>
+<area shape="rect" id="Node000002" href="$d9/db9/classpl_task.htm" title="Base class for custom tasks." alt="" coords="38,155,98,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,197,71,229,65,229,65,197"/>
+<area shape="rect" id="Node000003" href="$d2/df5/classpl_ref_counted.htm" title="Base class for reference counted objects." alt="" coords="19,80,117,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,122,71,154,65,154,65,122"/>
+<area shape="rect" id="Node000004" href="$de/da6/classpl_ref_counting_impl.htm" title=" " alt="" coords="5,5,131,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="71,48,71,80,65,80,65,48"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="plAbstractConstantProperty" name="plAbstractConstantProperty">
+<area shape="rect" id="Node000001" title="This is the base class for all constant properties that are stored inside the RTTI data." alt="" coords="107,80,288,107"/>
+<area shape="rect" id="Node000003" href="$df/d94/classpl_phantom_constant_property.htm" title=" " alt="" coords="5,163,190,189"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,119,114,165,111,160,168,115"/>
+<area shape="rect" id="Node000004" href="$dd/d62/classpl_typed_constant_property.htm" title="The base class for all typed member properties. Ie. once the type of a property is determined,..." alt="" coords="214,155,381,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,115,274,152,270,156,223,119"/>
+<area shape="rect" id="Node000002" href="$d4/dd7/classpl_abstract_property.htm" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="133,5,262,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,48,200,80,195,80,195,48"/>
+<area shape="rect" id="Node000005" href="$df/db0/classpl_constant_property.htm" title="[internal] An implementation of plTypedConstantProperty that accesses the property data directly." alt="" coords="231,245,364,288"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="300,213,300,245,295,245,295,213"/>
+</map>

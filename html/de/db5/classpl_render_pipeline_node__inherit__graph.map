@@ -1,0 +1,65 @@
+<map id="plRenderPipelineNode" name="plRenderPipelineNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,613,445,640"/>
+<area shape="rect" id="Node000004" href="$d8/da4/classpl_render_pipeline_pass.htm" title=" " alt="" coords="493,588,642,615"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="460,612,493,608,493,614,461,618"/>
+<area shape="rect" id="Node000032" href="$d5/d7d/classpl_view.htm" title="Encapsulates a view on the given world through the given camera and rendered with the specified Rende..." alt="" coords="538,639,597,665"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="461,636,538,646,537,651,461,641"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,613,249,640"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,624,296,624,296,629,264,629"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,613,83,640"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,624,130,624,130,629,99,629"/>
+<area shape="rect" id="Node000005" href="$d4/d27/classpl_a_o_pass.htm" title=" " alt="" coords="745,5,825,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="568,573,580,458,603,299,619,218,638,144,661,84,688,42,714,25,743,18,745,23,716,30,692,46,666,86,644,146,624,219,608,300,586,459,574,573"/>
+<area shape="rect" id="Node000006" href="$da/dab/classpl_antialiasing_pass.htm" title=" " alt="" coords="721,56,849,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="569,572,583,467,607,323,623,250,642,184,663,130,688,93,703,81,719,74,721,79,705,86,692,96,668,133,647,186,628,252,612,324,588,467,574,573"/>
+<area shape="rect" id="Node000007" href="$df/dfc/classpl_bloom_pass.htm" title=" " alt="" coords="736,107,834,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="570,572,585,476,610,348,626,283,645,225,665,176,688,143,710,129,734,121,736,126,712,133,692,147,670,179,650,226,631,285,615,349,590,477,575,573"/>
+<area shape="rect" id="Node000008" href="$d3/dcb/classpl_blur_pass.htm" title="Blurs input and writes it to an output buffer of the same format." alt="" coords="743,157,827,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="566,572,570,497,586,396,601,341,623,288,651,238,688,194,713,178,741,170,743,176,715,183,691,198,656,241,628,290,607,343,591,397,575,498,571,573"/>
+<area shape="rect" id="Node000009" href="$d1/d7b/classpl_copy_texture_pass.htm" title=" " alt="" coords="718,208,852,235"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="567,572,574,505,593,417,608,370,629,325,655,282,688,245,716,228,718,233,691,249,659,285,634,327,613,372,598,418,580,506,573,572"/>
+<area shape="rect" id="Node000010" href="$d6/d29/classpl_d_o_f_pass.htm" title=" " alt="" coords="741,259,829,285"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="569,572,579,514,600,439,615,400,635,362,659,326,688,295,713,280,740,273,741,278,715,285,691,299,663,330,639,365,620,402,605,441,584,515,574,573"/>
+<area shape="rect" id="Node000011" href="$d8/d5c/classpl_depth_only_pass.htm" title="A render pass that renders into a depth target only." alt="" coords="724,309,846,336"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="572,572,584,523,607,462,641,400,663,371,688,346,704,335,722,328,724,333,707,340,691,350,667,374,645,403,612,464,590,525,577,574"/>
+<area shape="rect" id="Node000012" href="$d5/ddc/classpl_forward_render_pass.htm" title="A standard forward render pass that renders into the color target." alt="" coords="711,360,859,387"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="575,572,591,533,615,485,647,437,688,397,709,385,711,389,691,401,651,441,619,488,596,535,580,574"/>
+<area shape="rect" id="Node000016" href="$d9/dc7/classpl_history_source_pass.htm" title="Allows to access data from a previous frame. Always comes in a pair with a plHistoryTargetPass...." alt="" coords="713,411,856,437"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="581,573,623,510,653,476,688,447,712,435,714,440,691,452,657,480,627,513,585,576"/>
+<area shape="rect" id="Node000017" href="$d9/df9/classpl_history_target_pass.htm" title="Allows to write data to be accessible in the next frame. See plHistorySourcePass for usage." alt="" coords="716,461,854,488"/>
+<area shape="poly" id="edge16_Node000004_Node000017" title=" " alt="" coords="590,575,633,535,688,498,716,486,719,491,691,502,637,539,594,579"/>
+<area shape="rect" id="Node000018" href="$d1/df2/classpl_l_s_a_o_pass.htm" title=" " alt="" coords="737,512,833,539"/>
+<area shape="poly" id="edge17_Node000004_Node000018" title=" " alt="" coords="612,579,689,548,736,534,737,539,691,553,614,584"/>
+<area shape="rect" id="Node000019" href="$d7/d76/classpl_msaa_resolve_pass.htm" title=" " alt="" coords="716,563,854,589"/>
+<area shape="poly" id="edge18_Node000004_Node000019" title=" " alt="" coords="656,588,715,581,716,587,657,594"/>
+<area shape="rect" id="Node000020" href="$d1/d31/classpl_msaa_upscale_pass.htm" title=" " alt="" coords="715,613,855,640"/>
+<area shape="poly" id="edge19_Node000004_Node000020" title=" " alt="" coords="657,609,714,616,714,621,657,614"/>
+<area shape="rect" id="Node000021" href="$d4/d4f/classpl_picking_render_pass.htm" title=" " alt="" coords="712,664,858,691"/>
+<area shape="poly" id="edge20_Node000004_Node000021" title=" " alt="" coords="628,618,643,624,667,637,691,650,725,661,723,666,689,654,664,642,641,629,626,623"/>
+<area shape="rect" id="Node000022" href="$d1/d0b/classpl_reflection_filter_pass.htm" title=" " alt="" coords="711,715,858,741"/>
+<area shape="poly" id="edge21_Node000004_Node000022" title=" " alt="" coords="637,620,643,625,660,644,668,664,675,683,691,701,712,712,709,717,688,705,671,686,663,666,656,647,640,629,634,624"/>
+<area shape="rect" id="Node000023" href="$d7/ddc/classpl_s_s_r_advanced_pass.htm" title=" " alt="" coords="713,765,857,792"/>
+<area shape="poly" id="edge22_Node000004_Node000023" title=" " alt="" coords="640,621,644,625,657,641,664,658,668,690,672,722,679,737,691,751,714,765,711,770,688,755,674,739,667,723,662,691,659,659,652,644,640,628,636,625"/>
+<area shape="rect" id="Node000024" href="$d7/dd8/classpl_s_s_r_pass.htm" title=" " alt="" coords="741,816,829,843"/>
+<area shape="poly" id="edge23_Node000004_Node000024" title=" " alt="" coords="641,622,644,625,660,648,667,671,668,716,668,760,676,781,691,802,714,817,741,824,739,829,712,822,688,806,671,784,663,761,662,716,662,672,655,650,640,628,637,626"/>
+<area shape="rect" id="Node000025" href="$df/dd1/classpl_selection_highlight_pass.htm" title=" " alt="" coords="702,867,868,893"/>
+<area shape="poly" id="edge24_Node000004_Node000025" title=" " alt="" coords="641,622,644,625,663,655,671,684,671,713,667,742,664,770,664,798,672,825,692,853,706,864,703,868,688,857,668,828,659,799,659,770,662,741,666,713,665,685,658,657,640,628,637,626"/>
+<area shape="rect" id="Node000026" href="$d7/d63/classpl_separated_bilateral_blur_pass.htm" title="Depth aware blur on input and writes it to an output buffer of the same format." alt="" coords="690,917,880,944"/>
+<area shape="poly" id="edge25_Node000004_Node000026" title=" " alt="" coords="642,623,644,625,666,661,674,697,673,733,667,768,661,802,661,836,669,870,692,904,706,915,703,919,688,907,664,872,655,836,656,801,662,767,668,732,669,698,661,663,640,628,638,626"/>
+<area shape="rect" id="Node000027" href="$d4/dff/classpl_simple_render_pass.htm" title="A very basic render pass that renders into the color target." alt="" coords="714,968,856,995"/>
+<area shape="poly" id="edge26_Node000004_Node000027" title=" " alt="" coords="642,623,644,625,659,647,669,668,678,711,675,752,667,793,659,834,657,874,666,914,676,934,692,954,715,970,712,974,688,958,672,937,661,916,651,874,654,833,662,792,670,751,672,711,664,670,654,649,640,628,638,626"/>
+<area shape="rect" id="Node000028" href="$dd/d38/classpl_source_pass.htm" title=" " alt="" coords="734,1019,836,1045"/>
+<area shape="poly" id="edge27_Node000004_Node000028" title=" " alt="" coords="642,623,644,625,661,650,672,675,679,699,681,724,677,772,667,819,656,865,653,912,656,935,662,958,674,981,692,1005,711,1019,734,1027,732,1032,708,1024,688,1009,670,984,657,960,650,936,647,912,651,865,661,818,672,771,676,724,674,700,667,677,656,653,640,628,638,626"/>
+<area shape="rect" id="Node000029" href="$de/d1d/classpl_stereo_test_pass.htm" title=" " alt="" coords="723,1069,847,1096"/>
+<area shape="poly" id="edge28_Node000004_Node000029" title=" " alt="" coords="642,623,644,625,663,653,676,682,683,709,685,737,679,791,666,844,654,897,649,950,652,976,659,1002,672,1029,692,1056,706,1067,723,1075,721,1080,703,1072,688,1059,667,1031,654,1004,646,977,643,950,648,896,661,843,674,790,680,737,677,710,671,683,658,656,640,628,638,626"/>
+<area shape="rect" id="Node000030" href="$dc/d28/classpl_target_pass.htm" title=" " alt="" coords="736,1120,834,1147"/>
+<area shape="poly" id="edge29_Node000004_Node000030" title=" " alt="" coords="642,623,644,625,665,657,679,688,686,719,688,750,681,810,666,870,651,929,645,987,648,1017,656,1046,670,1076,692,1106,712,1121,736,1129,735,1134,709,1126,688,1110,665,1079,651,1048,642,1018,640,987,646,928,661,868,676,809,683,750,681,720,674,690,660,659,640,628,638,626"/>
+<area shape="rect" id="Node000031" href="$d0/d78/classpl_tonemap_pass.htm" title=" " alt="" coords="728,1171,842,1197"/>
+<area shape="poly" id="edge30_Node000004_Node000031" title=" " alt="" coords="642,623,644,625,656,646,664,672,672,736,671,812,667,894,663,975,663,1050,671,1113,680,1138,692,1157,708,1170,728,1178,726,1183,705,1175,688,1160,675,1140,666,1114,658,1051,658,975,662,894,666,812,667,737,659,673,651,648,639,628,638,627"/>
+<area shape="rect" id="Node000013" href="$d0/d1f/classpl_opaque_forward_render_pass.htm" title="A forward render pass that renders all opaque objects into the color target." alt="" coords="940,309,1133,336"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="869,354,966,334,967,339,870,359"/>
+<area shape="rect" id="Node000014" href="$d7/dbc/classpl_sky_render_pass.htm" title="A forward render pass that renders all sky objects into the color target." alt="" coords="974,360,1099,387"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="875,371,973,371,973,376,875,376"/>
+<area shape="rect" id="Node000015" href="$df/dd9/classpl_transparent_forward_render_pass.htm" title="A forward render pass that renders all transparent objects into the color target." alt="" coords="928,411,1144,437"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="870,388,967,407,966,413,869,393"/>
+</map>

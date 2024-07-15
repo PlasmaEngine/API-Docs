@@ -1,0 +1,19 @@
+<map id="plJoltShapeComponent" name="plJoltShapeComponent">
+<area shape="rect" id="Node000001" title="Base class for all Jolt physics shapes." alt="" coords="442,107,597,133"/>
+<area shape="rect" id="Node000005" href="$d6/d3d/classpl_jolt_shape_box_component.htm" title="Adds a Jolt box shape to a Jolt actor." alt="" coords="665,5,842,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="550,95,593,67,644,42,678,30,680,35,646,46,596,72,553,100"/>
+<area shape="rect" id="Node000006" href="$d7/d7c/classpl_jolt_shape_capsule_component.htm" title="Adds a Jolt capsule shape to a Jolt actor." alt="" coords="653,56,854,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="599,100,688,81,689,86,600,105"/>
+<area shape="rect" id="Node000007" href="$d3/dca/classpl_jolt_shape_convex_hull_component.htm" title="Adds a Jolt convex hull shape to a Jolt actor." alt="" coords="645,107,863,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="612,117,644,117,644,123,612,123"/>
+<area shape="rect" id="Node000008" href="$db/d0a/classpl_jolt_shape_cylinder_component.htm" title="Adds a Jolt cylinder shape to a Jolt actor." alt="" coords="653,157,854,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="600,135,689,154,688,159,599,140"/>
+<area shape="rect" id="Node000009" href="$da/dd2/classpl_jolt_shape_sphere_component.htm" title="Adds a Jolt sphere shape to a Jolt actor." alt="" coords="656,208,852,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="553,140,596,168,646,194,680,205,678,210,644,198,593,173,550,145"/>
+<area shape="rect" id="Node000002" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="297,107,394,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="410,117,442,117,442,123,410,123"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,107,249,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,117,297,117,297,123,265,123"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,107,83,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,117,130,117,130,123,99,123"/>
+</map>

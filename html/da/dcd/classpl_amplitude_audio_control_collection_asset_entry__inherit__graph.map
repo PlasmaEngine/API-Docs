@@ -1,0 +1,17 @@
+<map id="plAmplitudeAudioControlCollectionAssetEntry" name="plAmplitudeAudioControlCollectionAssetEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,139,517,181"/>
+<area shape="rect" id="Node000004" href="$d1/d50/classpl_amplitude_audio_control_collection_asset_environment_entry.htm" title=" " alt="" coords="565,5,786,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,127,502,92,564,58,593,46,595,51,566,62,505,96,451,132"/>
+<area shape="rect" id="Node000005" href="$df/db6/classpl_amplitude_audio_control_collection_asset_rtpc_entry.htm" title=" " alt="" coords="565,72,786,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="510,132,586,113,587,118,511,137"/>
+<area shape="rect" id="Node000006" href="$d9/de6/classpl_amplitude_audio_control_collection_asset_sound_bank_entry.htm" title=" " alt="" coords="565,139,786,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="533,157,565,157,565,163,533,163"/>
+<area shape="rect" id="Node000007" href="$d1/d91/classpl_amplitude_audio_control_collection_asset_switch_entry.htm" title=" " alt="" coords="565,205,786,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="511,183,587,202,586,207,510,188"/>
+<area shape="rect" id="Node000008" href="$d5/d3c/classpl_amplitude_audio_control_collection_asset_trigger_entry.htm" title=" " alt="" coords="565,272,786,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="451,188,505,224,566,258,595,269,593,274,564,262,502,228,448,193"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,147,249,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,157,296,157,296,163,264,163"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,147,83,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,157,130,157,130,163,99,163"/>
+</map>

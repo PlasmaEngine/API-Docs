@@ -1,0 +1,9 @@
+<map id="plVolumeCollection::Shape" name="plVolumeCollection::Shape">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,5,238,48"/>
+<area shape="rect" id="Node000002" href="$d1/dc2/structpl_volume_collection_1_1_box.htm" title=" " alt="" coords="5,104,169,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,61,101,105,97,102,140,57"/>
+<area shape="rect" id="Node000004" href="$d9/d6f/structpl_volume_collection_1_1_sphere.htm" title=" " alt="" coords="193,96,325,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,57,241,94,237,98,201,61"/>
+<area shape="rect" id="Node000003" href="$d6/d2d/structpl_volume_collection_1_1_image.htm" title=" " alt="" coords="21,187,153,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,147,90,186,84,186,84,147"/>
+</map>

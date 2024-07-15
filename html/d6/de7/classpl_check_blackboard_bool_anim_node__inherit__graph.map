@@ -1,0 +1,9 @@
+<map id="plCheckBlackboardBoolAnimNode" name="plCheckBlackboardBoolAnimNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,225,256"/>
+<area shape="rect" id="Node000002" href="$db/d0b/classpl_anim_graph_node.htm" title="Base class for all nodes in an plAnimGraphInstance." alt="" coords="52,155,178,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,197,118,229,112,229,112,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="56,80,174,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,122,118,154,112,154,112,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="76,5,154,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,48,118,80,112,80,112,48"/>
+</map>

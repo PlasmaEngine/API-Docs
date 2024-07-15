@@ -1,0 +1,17 @@
+<map id="plTextureChannelModeAction" name="plTextureChannelModeAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,528,196,555"/>
+<area shape="rect" id="Node000002" href="$d8/d34/classpl_enumeration_menu_action.htm" title=" " alt="" coords="14,453,187,480"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,496,103,528,98,528,98,496"/>
+<area shape="rect" id="Node000003" href="$d2/d1e/classpl_dynamic_menu_action.htm" title=" " alt="" coords="25,379,176,405"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,421,103,453,98,453,98,421"/>
+<area shape="rect" id="Node000004" href="$d9/d7f/classpl_menu_action.htm" title=" " alt="" coords="50,304,151,331"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,346,103,378,98,378,98,346"/>
+<area shape="rect" id="Node000005" href="$d8/dfa/classpl_named_action.htm" title=" " alt="" coords="46,229,155,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="103,272,103,304,98,304,98,272"/>
+<area shape="rect" id="Node000006" href="$d4/d17/classpl_action.htm" title=" " alt="" coords="66,155,135,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="103,197,103,229,98,229,98,197"/>
+<area shape="rect" id="Node000007" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="41,80,160,107"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="103,122,103,154,98,154,98,122"/>
+<area shape="rect" id="Node000008" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="62,5,139,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="103,48,103,80,98,80,98,48"/>
+</map>

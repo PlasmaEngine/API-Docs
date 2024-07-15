@@ -1,0 +1,5 @@
+<map id="plAudioSystemRequestSetEntityTransform" name="plAudioSystemRequestSetEntityTransform">
+<area shape="rect" id="Node000001" title="Audio request to set the transform and velocity of an entity." alt="" coords="5,80,217,123"/>
+<area shape="rect" id="Node000002" href="$d4/de5/structpl_audio_system_request.htm" title="Base class for all audio system requests." alt="" coords="32,5,190,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,48,114,80,108,80,108,48"/>
+</map>

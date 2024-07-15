@@ -1,0 +1,19 @@
+<map id="plParticleEmitter" name="plParticleEmitter">
+<area shape="rect" id="Node000001" title="Base class for stream spawners that are used by plParticleEmitter&#39;s." alt="" coords="708,81,825,108"/>
+<area shape="rect" id="Node000006" href="$d2/d96/classpl_particle_emitter___burst.htm" title=" " alt="" coords="890,5,1045,32"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="805,72,872,42,908,30,909,35,874,46,807,76"/>
+<area shape="rect" id="Node000007" href="$d8/dc7/classpl_particle_emitter___continuous.htm" title=" " alt="" coords="873,56,1062,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="841,83,872,79,873,84,841,88"/>
+<area shape="rect" id="Node000008" href="$d8/db9/classpl_particle_emitter___distance.htm" title=" " alt="" coords="880,107,1055,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="841,101,880,106,879,112,840,107"/>
+<area shape="rect" id="Node000009" href="$db/d02/classpl_particle_emitter___on_event.htm" title=" " alt="" coords="881,157,1054,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="807,113,874,143,909,154,908,159,872,148,805,118"/>
+<area shape="rect" id="Node000002" href="$dc/d21/classpl_particle_module.htm" title=" " alt="" coords="542,81,660,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,92,707,92,707,97,675,97"/>
+<area shape="rect" id="Node000003" href="$d9/d4a/classpl_processing_stream_processor.htm" title="Base class for all stream processor implementations." alt="" coords="297,81,494,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,92,542,92,542,97,510,97"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,81,249,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,92,297,92,297,97,265,97"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,81,83,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="99,92,130,92,130,97,99,97"/>
+</map>

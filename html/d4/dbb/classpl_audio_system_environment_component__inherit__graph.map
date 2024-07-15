@@ -1,0 +1,17 @@
+<map id="plAudioSystemEnvironmentComponent" name="plAudioSystemEnvironmentComponent">
+<area shape="rect" id="Node000001" title="Base class for audio system environment components." alt="" coords="139,395,320,437"/>
+<area shape="rect" id="Node000007" href="$d7/d4d/classpl_audio_box_environment_component.htm" title="Component that applies environmental effects in a box shape." alt="" coords="5,493,230,520"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="193,449,135,495,132,491,190,445"/>
+<area shape="rect" id="Node000008" href="$d3/dda/classpl_audio_sphere_environment_component.htm" title="Component used to apply environment effects in a sphere shape." alt="" coords="253,485,430,528"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="269,445,317,483,314,487,266,449"/>
+<area shape="rect" id="Node000002" href="$da/d41/classpl_audio_system_proxy_dependent_component.htm" title="Base class for audio system components that depends on an audio proxy component." alt="" coords="127,304,332,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,362,232,394,227,394,227,362"/>
+<area shape="rect" id="Node000003" href="$d8/dbf/classpl_audio_system_component.htm" title="Base class for audio system components." alt="" coords="142,229,317,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="232,272,232,304,227,304,227,272"/>
+<area shape="rect" id="Node000004" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="181,155,278,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="232,197,232,229,227,229,227,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="170,80,289,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="232,122,232,154,227,154,227,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="191,5,268,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="232,48,232,80,227,80,227,48"/>
+</map>

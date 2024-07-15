@@ -1,0 +1,23 @@
+<map id="plGameObjectDocument" name="plGameObjectDocument">
+<area shape="rect" id="Node000001" title=" " alt="" coords="608,63,771,89"/>
+<area shape="rect" id="Node000006" href="$db/d4e/classpl_game_object_context_document.htm" title=" " alt="" coords="819,29,1027,56"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="786,60,825,54,826,59,787,65"/>
+<area shape="rect" id="Node000009" href="$d6/dbb/classpl_scene_document.htm" title=" " alt="" coords="860,88,987,115"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="787,84,859,92,859,97,786,89"/>
+<area shape="rect" id="Node000002" href="$dd/dca/classpl_asset_document.htm" title=" " alt="" coords="435,63,560,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="575,73,607,73,607,79,575,79"/>
+<area shape="rect" id="Node000003" href="$d1/d4e/classpl_document.htm" title=" " alt="" coords="297,63,387,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,73,435,73,435,79,403,79"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,63,249,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,73,296,73,296,79,265,79"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,63,83,89"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="99,73,130,73,130,79,99,79"/>
+<area shape="rect" id="Node000007" href="$de/d54/classpl_simple_asset_document.htm" title=" " alt="" coords="1075,5,1300,64"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1043,36,1075,35,1075,41,1043,42"/>
+<area shape="rect" id="Node000008" href="$d2/dcf/classpl_property_anim_asset_document.htm" title=" " alt="" coords="1348,21,1551,48"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1315,32,1347,32,1347,37,1315,37"/>
+<area shape="rect" id="Node000010" href="$da/da5/classpl_layer_document.htm" title=" " alt="" coords="1126,88,1249,115"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1002,99,1126,99,1126,104,1002,104"/>
+<area shape="rect" id="Node000011" href="$de/d2d/classpl_scene2_document.htm" title=" " alt="" coords="1120,139,1255,165"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1003,114,1120,137,1119,142,1002,119"/>
+</map>

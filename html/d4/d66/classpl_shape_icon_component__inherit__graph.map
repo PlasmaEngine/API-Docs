@@ -1,0 +1,9 @@
+<map id="plShapeIconComponent" name="plShapeIconComponent">
+<area shape="rect" id="Node000001" title="This is a dummy component that the editor creates on all &#39;empty&#39; nodes for the sole purpose to render..." alt="" coords="5,229,164,256"/>
+<area shape="rect" id="Node000002" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="36,155,133,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,197,87,229,82,229,82,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="25,80,144,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,122,87,154,82,154,82,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="46,5,123,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,48,87,80,82,80,82,48"/>
+</map>

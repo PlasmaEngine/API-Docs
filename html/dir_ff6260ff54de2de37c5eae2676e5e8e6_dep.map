@@ -1,0 +1,15 @@
+<map id="E:/PlasmaEngine/Code/Engine" name="E:/PlasmaEngine/Code/Engine">
+<area shape="rect" id="node2" href="dir_567e1bdd2aa3d6462f493ac6e0fa3dcd.htm" title="Core" alt="" coords="122,64,171,91"/>
+<area shape="rect" id="node3" href="dir_3c54cd56d18928fbe1f4142fdc6024c7.htm" title="Foundation" alt="" coords="195,64,280,91"/>
+<area shape="rect" id="node4" href="dir_364e32e1cef336adf3d3411ba41c1206.htm" title="GameEngine" alt="" coords="304,64,400,91"/>
+<area shape="rect" id="node5" href="dir_88c089fd1920acb9f40f6105f4f92817.htm" title="RendererCore" alt="" coords="424,64,525,91"/>
+<area shape="rect" id="node6" href="dir_117a8fd543960dc31a591c0f437d95ba.htm" title="RendererDX11" alt="" coords="548,64,652,91"/>
+<area shape="rect" id="node7" href="dir_607de964978ec3059b6c818b4a59d6e9.htm" title="RendererFoundation" alt="" coords="675,64,813,91"/>
+<area shape="rect" id="node8" href="dir_344dcdf54b6680ca3ef7a623405b904d.htm" title="RendererVulkan" alt="" coords="837,64,950,91"/>
+<area shape="rect" id="node9" href="dir_575e154f43e3048a58a666e811b83058.htm" title="ShaderCompilerDXC" alt="" coords="974,64,1112,91"/>
+<area shape="rect" id="node10" href="dir_16d3b47ee9788f662f6669eb8929b7ff.htm" title="ShaderCompilerHLSL" alt="" coords="1135,64,1281,91"/>
+<area shape="rect" id="node11" href="dir_5453f4275451b0e0a57ef6b00ad2a413.htm" title="Texture" alt="" coords="1305,64,1370,91"/>
+<area shape="rect" id="node12" href="dir_54b89d4e983c18b59d26b924131c2871.htm" title="Utilities" alt="" coords="1393,64,1458,91"/>
+<area shape="rect" id="clust2" href="dir_ff6260ff54de2de37c5eae2676e5e8e6.htm" alt="" coords="27,53,1468,101"/>
+<area shape="rect" id="clust1" href="dir_6c0ff0f9c42cf0a497c9f3c30ed710d5.htm" title="Code" alt="" coords="16,16,1479,112"/>
+</map>

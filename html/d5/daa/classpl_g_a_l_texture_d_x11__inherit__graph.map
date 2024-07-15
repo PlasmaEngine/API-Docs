@@ -1,0 +1,15 @@
+<map id="plGALTextureDX11" name="plGALTextureDX11">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,395,172,421"/>
+<area shape="rect" id="Node000007" href="$d8/d0f/classpl_g_a_l_shared_texture_d_x11.htm" title=" " alt="" coords="21,469,193,496"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="110,437,110,469,104,469,104,437"/>
+<area shape="rect" id="Node000002" href="$d8/da4/classpl_g_a_l_texture.htm" title=" " alt="" coords="57,320,157,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,362,110,394,104,394,104,362"/>
+<area shape="rect" id="Node000003" href="$da/d33/classpl_g_a_l_resource.htm" title=" " alt="" coords="5,229,209,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,288,110,319,104,319,104,288"/>
+<area shape="rect" id="Node000004" href="$d5/d2f/classpl_g_a_l_resource_base.htm" title=" " alt="" coords="36,155,178,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,197,110,229,104,229,104,197"/>
+<area shape="rect" id="Node000005" href="$d2/df5/classpl_ref_counted.htm" title="Base class for reference counted objects." alt="" coords="58,80,156,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="110,122,110,154,104,154,104,122"/>
+<area shape="rect" id="Node000006" href="$de/da6/classpl_ref_counting_impl.htm" title=" " alt="" coords="44,5,170,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="110,48,110,80,104,80,104,48"/>
+</map>

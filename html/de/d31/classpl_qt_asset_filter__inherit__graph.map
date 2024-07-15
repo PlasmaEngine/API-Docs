@@ -1,0 +1,9 @@
+<map id="plQtAssetFilter" name="plQtAssetFilter">
+<area shape="rect" id="Node000001" title="Interface class of the asset filter used to decide which items are shown in the asset browser." alt="" coords="117,80,225,107"/>
+<area shape="rect" id="Node000003" href="$d0/dc2/classpl_qt_asset_browser_filter.htm" title=" " alt="" coords="5,155,161,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,119,100,156,96,152,142,115"/>
+<area shape="rect" id="Node000004" href="$dd/d6f/classpl_qt_asset_curator_filter.htm" title=" " alt="" coords="185,155,336,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,115,247,152,243,156,197,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="136,5,206,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,48,174,80,168,80,168,48"/>
+</map>

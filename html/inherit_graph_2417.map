@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$db/d06/classpl_remote_tooling_interface.htm" title="Interface to give access to the FileServe client for additional tooling needs." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="Node000001" href="$d7/dc0/classpl_fileserve_client.htm" title="Singleton that represents the client side part of a fileserve connection." alt="" coords="220,5,335,32"/>
+<area shape="poly" id="edge3806_Node000000_Node000001" title=" " alt="" coords="187,16,219,16,219,21,187,21"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="plEditorEngineViewMsg" name="plEditorEngineViewMsg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="715,264,873,291"/>
+<area shape="rect" id="Node000006" href="$d8/ddc/classpl_activate_remote_view_msg_to_engine.htm" title=" " alt="" coords="928,5,1118,48"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="801,249,818,207,842,156,876,103,919,58,937,46,940,51,923,62,880,107,847,158,822,209,806,251"/>
+<area shape="rect" id="Node000007" href="$d1/d29/classpl_view_destroyed_msg_to_engine.htm" title=" " alt="" coords="924,72,1122,99"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="806,249,824,216,850,178,882,140,920,108,942,97,945,102,922,113,885,144,854,181,829,219,811,251"/>
+<area shape="rect" id="Node000008" href="$d7/d9a/classpl_view_destroyed_response_msg_to_editor.htm" title=" " alt="" coords="922,123,1124,165"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="818,251,863,213,920,175,945,164,947,168,922,180,866,217,821,256"/>
+<area shape="rect" id="Node000009" href="$df/dd7/classpl_view_marquee_picking_msg_to_engine.htm" title=" " alt="" coords="928,189,1119,232"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="856,257,946,230,948,235,858,262"/>
+<area shape="rect" id="Node000010" href="$d1/d39/classpl_view_marquee_picking_result_msg_to_editor.htm" title=" " alt="" coords="928,256,1118,299"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="888,275,928,275,928,280,888,280"/>
+<area shape="rect" id="Node000011" href="$d5/d33/classpl_view_picking_msg_to_engine.htm" title=" " alt="" coords="932,323,1114,349"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="862,292,922,308,966,319,965,325,920,313,861,298"/>
+<area shape="rect" id="Node000012" href="$d1/de9/classpl_view_picking_result_msg_to_editor.htm" title=" " alt="" coords="934,373,1112,416"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="826,298,870,329,922,359,949,370,947,375,920,364,868,334,823,303"/>
+<area shape="rect" id="Node000013" href="$d1/db4/classpl_view_redraw_msg_to_engine.htm" title=" " alt="" coords="932,440,1114,467"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="812,302,856,365,887,398,922,426,946,437,944,442,920,430,884,402,852,369,808,306"/>
+<area shape="rect" id="Node000014" href="$dc/dbb/classpl_view_screenshot_msg_to_engine.htm" title=" " alt="" coords="921,491,1125,517"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="807,304,824,343,848,390,881,437,923,477,943,488,940,492,919,481,877,441,844,393,819,346,802,306"/>
+<area shape="rect" id="Node000002" href="$d8/ded/classpl_editor_engine_document_msg.htm" title="Base class for all messages that are tied to some document." alt="" coords="477,264,667,291"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="682,275,714,275,714,280,682,280"/>
+<area shape="rect" id="Node000003" href="$d9/d2b/classpl_process_message.htm" title="Base class for IPC messages transmitted by plIpcChannel." alt="" coords="297,264,429,291"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,275,477,275,477,280,445,280"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,264,249,291"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,275,297,275,297,280,264,280"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,264,83,291"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="99,275,130,275,130,280,99,280"/>
+</map>

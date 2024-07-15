@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['lavender_0',['Lavender',['../d9/d1d/classpl_color.htm#a6507eae7aee9cd02e36e70ed1734d843',1,'plColor']]],
+  ['lavenderblush_1',['LavenderBlush',['../d9/d1d/classpl_color.htm#acad20d9fa1dc08b34c9d483d3688a591',1,'plColor']]],
+  ['lawngreen_2',['LawnGreen',['../d9/d1d/classpl_color.htm#af3f35ba1ffa569b93f0bb1add67c0a14',1,'plColor']]],
+  ['lemonchiffon_3',['LemonChiffon',['../d9/d1d/classpl_color.htm#aa791ab9b92558e034a52692f6b53facb',1,'plColor']]],
+  ['lightblue_4',['LightBlue',['../d9/d1d/classpl_color.htm#a84e103ac9e61c7ba867c7d9ee82fb09f',1,'plColor']]],
+  ['lightcoral_5',['LightCoral',['../d9/d1d/classpl_color.htm#ac533708fe013572c152b43781735f8cd',1,'plColor']]],
+  ['lightcyan_6',['LightCyan',['../d9/d1d/classpl_color.htm#aa2d452a87920709b4afc5f0279c6b39a',1,'plColor']]],
+  ['lightgoldenrodyellow_7',['LightGoldenRodYellow',['../d9/d1d/classpl_color.htm#af778fab7c59d6543c63ba24fd98a018e',1,'plColor']]],
+  ['lightgray_8',['LightGray',['../d9/d1d/classpl_color.htm#a6e864cc850431282c2d2b14a74853470',1,'plColor']]],
+  ['lightgreen_9',['LightGreen',['../d9/d1d/classpl_color.htm#a3d59a68fd38e81af5aceef6f0e07cbc3',1,'plColor']]],
+  ['lightgrey_10',['LightGrey',['../d9/d1d/classpl_color.htm#a51b98be479351963de2b8a1259114d0e',1,'plColor']]],
+  ['lightpink_11',['LightPink',['../d9/d1d/classpl_color.htm#a8ca81e4c65314ab86aa1c683084bf9c7',1,'plColor']]],
+  ['lightsalmon_12',['LightSalmon',['../d9/d1d/classpl_color.htm#a3e204d91ddcb0cfc451d097514ca2348',1,'plColor']]],
+  ['lightseagreen_13',['LightSeaGreen',['../d9/d1d/classpl_color.htm#a03be3befcc63e09a3c43843f4c878d88',1,'plColor']]],
+  ['lightskyblue_14',['LightSkyBlue',['../d9/d1d/classpl_color.htm#a568085e88764760d9d55c9069a44672a',1,'plColor']]],
+  ['lightslategray_15',['LightSlateGray',['../d9/d1d/classpl_color.htm#a83bac2c617c7d5f3b42cbc1f8c8d3806',1,'plColor']]],
+  ['lightslategrey_16',['LightSlateGrey',['../d9/d1d/classpl_color.htm#a871736f19bdd8092e8a252808226846d',1,'plColor']]],
+  ['lightsteelblue_17',['LightSteelBlue',['../d9/d1d/classpl_color.htm#a39511d60c515f0db691da1f50113364b',1,'plColor']]],
+  ['lightyellow_18',['LightYellow',['../d9/d1d/classpl_color.htm#aa8b04565aa391b8a3eda3c3f5329b048',1,'plColor']]],
+  ['lime_19',['Lime',['../d9/d1d/classpl_color.htm#addb3ac037dc0f450eda45520ca1f84a8',1,'plColor']]],
+  ['limegreen_20',['LimeGreen',['../d9/d1d/classpl_color.htm#ab9001672b144498e814851245cbe68a7',1,'plColor']]],
+  ['linen_21',['Linen',['../d9/d1d/classpl_color.htm#a9265bfac2d1cc415447a1940502a73fa',1,'plColor']]]
+];

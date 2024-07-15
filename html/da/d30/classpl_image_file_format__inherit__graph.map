@@ -1,0 +1,15 @@
+<map id="plImageFileFormat" name="plImageFileFormat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,171,352,197"/>
+<area shape="rect" id="Node000004" href="$d9/de3/classpl_bmp_file_format.htm" title=" " alt="" coords="5,245,126,272"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,205,105,247,104,242,234,200"/>
+<area shape="rect" id="Node000005" href="$d1/d9c/classpl_dds_file_format.htm" title=" " alt="" coords="150,245,266,272"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="265,210,224,247,220,243,261,206"/>
+<area shape="rect" id="Node000006" href="$d1/d59/classpl_stb_image_file_formats.htm" title=" " alt="" coords="290,245,446,272"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="315,206,356,243,353,247,311,210"/>
+<area shape="rect" id="Node000007" href="$da/da9/classpl_tga_file_format.htm" title=" " alt="" coords="470,245,584,272"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="345,200,486,242,484,247,344,205"/>
+<area shape="rect" id="Node000002" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="199,80,377,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,139,291,170,286,170,286,139"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="250,5,327,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,48,291,80,286,80,286,48"/>
+</map>

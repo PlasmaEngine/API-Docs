@@ -1,0 +1,7 @@
+<map id="plLongOpManager" name="plLongOpManager">
+<area shape="rect" id="Node000001" title="Base class with shared functionality for plLongOpControllerManager and plLongOpWorkerManager." alt="" coords="132,5,258,32"/>
+<area shape="rect" id="Node000002" href="$da/d81/classpl_long_op_controller_manager.htm" title="The LongOp controller is active in the editor process and manages which long ops are available,..." alt="" coords="5,80,187,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,44,115,82,111,77,164,39"/>
+<area shape="rect" id="Node000003" href="$d0/db9/classpl_long_op_worker_manager.htm" title="The LongOp worker manager is active in the engine process of the editor." alt="" coords="210,80,379,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,39,279,77,276,82,223,43"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="plQtScene2DocumentWindow" name="plQtScene2DocumentWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,379,330,405"/>
+<area shape="rect" id="Node000002" href="$d7/dd5/classpl_qt_scene_document_window_base.htm" title=" " alt="" coords="124,304,342,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,346,236,378,230,378,230,346"/>
+<area shape="rect" id="Node000003" href="$dc/d04/classpl_qt_game_object_document_window.htm" title=" " alt="" coords="5,229,229,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="152,262,214,301,211,306,149,267"/>
+<area shape="rect" id="Node000004" href="$d2/d28/classpl_qt_engine_document_window.htm" title="Base class for all document windows that need a connection to the engine process, and might want to r..." alt="" coords="22,155,212,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,197,120,229,114,229,114,197"/>
+<area shape="rect" id="Node000005" href="$dc/de7/classpl_qt_document_window.htm" title="Base class for all document windows. Handles the most basic document window management." alt="" coords="42,80,192,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="120,122,120,154,114,154,114,122"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="64,5,170,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="120,48,120,80,114,80,114,48"/>
+<area shape="rect" id="Node000007" href="$de/d82/classpl_game_object_gizmo_interface.htm" title=" " alt="" coords="253,229,445,256"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="317,267,255,306,252,301,314,262"/>
+</map>

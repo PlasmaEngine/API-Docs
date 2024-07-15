@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d1/d8e/classpl_abstract_message_handler.htm" title="The base class for all message handlers that a type provides." alt="" coords="5,96,183,123"/>
+<area shape="rect" id="Node000001" href="$d0/d30/classpl_internal_1_1_message_handler_1_1_impl.htm" title=" " alt="" coords="231,5,409,64"/>
+<area shape="poly" id="edge54_Node000000_Node000001" title=" " alt="" coords="150,88,229,62,231,67,152,93"/>
+<area shape="rect" id="Node000002" href="$d3/dca/classpl_internal_1_1_message_handler_3_01true_01_4_1_1_impl.htm" title=" " alt="" coords="231,88,409,131"/>
+<area shape="poly" id="edge55_Node000000_Node000002" title=" " alt="" coords="198,107,230,107,230,112,198,112"/>
+<area shape="rect" id="Node000003" href="$dd/d13/classpl_script_message_handler.htm" title=" " alt="" coords="239,155,401,181"/>
+<area shape="poly" id="edge56_Node000000_Node000003" title=" " alt="" coords="164,125,266,152,265,157,162,130"/>
+<area shape="rect" id="Node000004" href="$d3/d56/classpl_script_coroutine_message_handler.htm" title="A message handler that creates an instance of the given coroutine type and starts it immediately." alt="" coords="470,117,643,160"/>
+<area shape="poly" id="edge57_Node000003_Node000004" title=" " alt="" coords="416,153,469,147,469,152,417,159"/>
+<area shape="rect" id="Node000005" href="$d9/df1/classpl_visual_script_message_handler.htm" title=" " alt="" coords="457,184,655,211"/>
+<area shape="poly" id="edge58_Node000003_Node000005" title=" " alt="" coords="417,177,457,182,456,188,416,183"/>
+</map>

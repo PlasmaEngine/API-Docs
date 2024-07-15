@@ -1,0 +1,11 @@
+<map id="plSkyBoxComponent" name="plSkyBoxComponent">
+<area shape="rect" id="Node000001" title="Adds a static image of a sky to the scene." alt="" coords="5,304,149,331"/>
+<area shape="rect" id="Node000002" href="$d4/d24/classpl_render_component.htm" title="Base class for objects that should be rendered." alt="" coords="8,229,146,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,272,80,304,74,304,74,272"/>
+<area shape="rect" id="Node000003" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="28,155,126,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,197,80,229,74,229,74,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="18,80,136,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,122,80,154,74,154,74,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="38,5,116,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="80,48,80,80,74,80,74,48"/>
+</map>

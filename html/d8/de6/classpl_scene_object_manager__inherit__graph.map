@@ -1,0 +1,5 @@
+<map id="plSceneObjectManager" name="plSceneObjectManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,80,173,107"/>
+<area shape="rect" id="Node000002" href="$d3/da8/classpl_document_object_manager.htm" title="Represents to content of a document. Every document has exactly one root object under which all objec..." alt="" coords="5,5,184,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,48,97,80,92,80,92,48"/>
+</map>

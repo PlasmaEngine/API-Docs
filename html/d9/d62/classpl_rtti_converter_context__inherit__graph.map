@@ -1,0 +1,7 @@
+<map id="plRttiConverterContext" name="plRttiConverterContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="138,5,288,32"/>
+<area shape="rect" id="Node000002" href="$d2/da8/classpl_apply_native_property_changes_context.htm" title="The plApplyNativePropertyChangesContext takes care of generating guids for native pointers that match..." alt="" coords="5,80,205,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,44,134,82,131,77,182,39"/>
+<area shape="rect" id="Node000003" href="$d1/dcc/classpl_world_rtti_converter_context.htm" title="The world rtti converter context tracks created objects and is capable of also handling components / ..." alt="" coords="229,88,413,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,39,306,85,303,90,240,44"/>
+</map>

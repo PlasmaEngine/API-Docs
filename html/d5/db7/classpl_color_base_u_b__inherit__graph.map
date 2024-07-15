@@ -1,0 +1,7 @@
+<map id="plColorBaseUB" name="plColorBaseUB">
+<area shape="rect" id="Node000001" title="A 8bit per channel color storage format with undefined encoding. It is up to the user to reinterpret ..." alt="" coords="85,5,195,32"/>
+<area shape="rect" id="Node000002" href="$dd/dd8/classpl_color_gamma_u_b.htm" title="A 8bit per channel unsigned normalized (values interpreted as 0&#45;1) color storage format that represen..." alt="" coords="5,80,131,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,45,82,81,79,78,115,41"/>
+<area shape="rect" id="Node000003" href="$dc/d54/classpl_color_linear_u_b.htm" title="A 8bit per channel unsigned normalized (values interpreted as 0&#45;1) color storage format that represen..." alt="" coords="155,80,269,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,41,201,78,198,81,161,45"/>
+</map>

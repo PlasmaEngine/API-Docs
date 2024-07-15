@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/d8b/classpl_window_base.htm" title="Base class of all window classes that have a client area and a native window handle." alt="" coords="5,56,113,83"/>
+<area shape="rect" id="Node000001" href="$d1/d15/classpl_editor_process_view_window.htm" title="Represents the window inside the editor process, into which the engine process renders." alt="" coords="161,5,348,32"/>
+<area shape="poly" id="edge3993_Node000000_Node000001" title=" " alt="" coords="127,49,199,30,201,35,128,54"/>
+<area shape="rect" id="Node000002" href="$df/d28/classpl_window.htm" title="A simple abstraction for platform specific window creation." alt="" coords="216,56,293,83"/>
+<area shape="poly" id="edge3994_Node000000_Node000002" title=" " alt="" coords="128,67,215,67,215,72,128,72"/>
+<area shape="rect" id="Node000005" href="$d4/de2/classpl_window_x_r.htm" title="XR Window base implementation. Optionally wraps a companion window." alt="" coords="208,107,301,133"/>
+<area shape="poly" id="edge3997_Node000000_Node000005" title=" " alt="" coords="128,84,208,105,207,111,127,90"/>
+<area shape="rect" id="Node000003" href="$d7/d23/classpl_game_state_window.htm" title="A window class that expands a little on plWindow. Default type used by plGameState to create a window..." alt="" coords="410,31,553,57"/>
+<area shape="poly" id="edge3995_Node000002_Node000003" title=" " alt="" coords="308,61,409,49,409,55,308,66"/>
+<area shape="rect" id="Node000004" href="$d4/da7/classpl_remote_process_window.htm" title=" " alt="" coords="396,81,566,108"/>
+<area shape="poly" id="edge3996_Node000002_Node000004" title=" " alt="" coords="308,73,396,82,395,88,308,78"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="plRTTIDefaultAllocator&lt; CLASS, AllocatorWrapper &gt;" name="plRTTIDefaultAllocator&lt; CLASS, AllocatorWrapper &gt;">
+<area shape="rect" id="Node000001" title="Default implementation of plRTTIAllocator that allocates instances via the given allocator." alt="" coords="5,80,202,123"/>
+<area shape="rect" id="Node000002" href="$dc/d77/structpl_r_t_t_i_allocator.htm" title="The interface for an allocator that creates instances of reflected types." alt="" coords="49,5,158,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,48,106,80,101,80,101,48"/>
+</map>

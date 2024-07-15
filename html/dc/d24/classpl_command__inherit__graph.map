@@ -1,0 +1,43 @@
+<map id="plCommand" name="plCommand">
+<area shape="rect" id="Node000001" title="Interface for a command." alt="" coords="297,436,387,463"/>
+<area shape="rect" id="Node000004" href="$db/d4c/classpl_add_object_command.htm" title=" " alt="" coords="471,5,623,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="343,420,353,334,371,221,397,113,414,71,433,42,451,29,470,21,472,26,453,34,437,46,419,73,402,115,376,222,359,334,349,421"/>
+<area shape="rect" id="Node000005" href="$d1/dd9/classpl_command_transaction.htm" title=" " alt="" coords="468,56,626,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="344,420,356,344,375,246,401,153,416,117,433,93,449,81,467,73,469,78,452,86,437,97,421,120,406,155,380,247,361,345,350,421"/>
+<area shape="rect" id="Node000006" href="$d6/df7/classpl_connect_node_pins_command.htm" title=" " alt="" coords="450,107,644,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="341,420,344,362,357,287,369,248,385,210,406,174,434,143,450,132,453,136,437,147,411,178,390,212,374,250,363,288,350,362,346,420"/>
+<area shape="rect" id="Node000007" href="$d6/d8d/classpl_disconnect_node_pins_command.htm" title=" " alt="" coords="441,157,653,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="343,420,349,371,364,310,391,248,410,219,434,194,451,182,454,187,437,198,414,222,396,250,369,312,355,372,348,421"/>
+<area shape="rect" id="Node000008" href="$dc/de5/classpl_duplicate_objects_command.htm" title=" " alt="" coords="452,208,642,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="346,420,355,380,372,333,398,285,414,263,434,245,453,233,455,237,437,249,418,267,402,288,377,335,360,382,351,421"/>
+<area shape="rect" id="Node000009" href="$d6/d9a/classpl_insert_object_property_command.htm" title=" " alt="" coords="442,259,652,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="350,420,380,357,404,323,434,295,455,283,457,288,437,299,408,327,385,359,355,423"/>
+<area shape="rect" id="Node000010" href="$dd/db6/classpl_instantiate_prefab_command.htm" title=" " alt="" coords="453,309,641,336"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="358,421,390,382,411,362,434,346,459,334,462,339,437,350,414,366,394,386,362,425"/>
+<area shape="rect" id="Node000011" href="$d4/dc8/classpl_move_node_command.htm" title=" " alt="" coords="472,360,622,387"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="376,425,434,396,471,385,473,390,436,401,379,430"/>
+<area shape="rect" id="Node000012" href="$d7/d16/classpl_move_object_command.htm" title=" " alt="" coords="468,411,626,437"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="402,439,467,431,468,436,403,445"/>
+<area shape="rect" id="Node000013" href="$df/d6c/classpl_move_object_property_command.htm" title=" " alt="" coords="443,461,651,488"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="403,454,443,459,443,464,402,459"/>
+<area shape="rect" id="Node000014" href="$d9/de7/classpl_paste_objects_command.htm" title=" " alt="" coords="462,512,632,539"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="379,469,436,498,473,509,471,514,434,502,376,474"/>
+<area shape="rect" id="Node000015" href="$d0/dd6/classpl_remove_node_command.htm" title=" " alt="" coords="464,563,630,589"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="362,474,394,513,414,532,437,548,464,561,462,565,434,553,411,536,390,517,358,477"/>
+<area shape="rect" id="Node000016" href="$df/dbd/classpl_remove_object_command.htm" title=" " alt="" coords="460,613,634,640"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="355,476,385,539,408,572,437,599,461,612,458,617,434,603,404,575,380,542,350,478"/>
+<area shape="rect" id="Node000017" href="$dd/dea/classpl_remove_object_property_command.htm" title=" " alt="" coords="435,664,659,691"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="351,477,360,517,377,564,402,611,418,632,437,650,455,661,453,666,434,654,414,635,398,614,372,566,355,518,346,479"/>
+<area shape="rect" id="Node000018" href="$d7/ded/classpl_resize_and_set_object_property_command.htm" title=" " alt="" coords="446,715,648,757"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="348,478,356,526,371,586,397,648,415,676,437,701,452,712,449,716,434,705,411,679,392,650,366,588,350,527,343,479"/>
+<area shape="rect" id="Node000019" href="$dc/d95/classpl_set_object_property_command.htm" title=" " alt="" coords="448,781,646,808"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="345,478,348,539,360,617,372,658,388,698,410,735,437,767,453,779,450,783,434,771,405,738,383,701,367,660,355,618,343,539,340,478"/>
+<area shape="rect" id="Node000020" href="$d9/d7e/classpl_state_machine___set_initial_state_command.htm" title=" " alt="" coords="463,832,631,875"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="350,478,361,557,380,659,405,756,421,793,437,818,464,837,461,841,433,822,416,795,400,757,374,660,356,558,344,478"/>
+<area shape="rect" id="Node000021" href="$de/d09/classpl_unlink_prefab_command.htm" title=" " alt="" coords="465,899,629,925"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="348,478,357,570,374,693,386,754,400,810,418,855,437,885,451,895,466,903,464,907,448,900,433,888,413,857,395,811,381,755,369,694,352,571,343,478"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,436,249,463"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,447,296,447,296,452,265,452"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,436,83,463"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,447,130,447,130,452,99,452"/>
+</map>

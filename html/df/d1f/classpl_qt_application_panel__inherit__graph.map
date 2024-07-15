@@ -1,0 +1,15 @@
+<map id="plQtApplicationPanel" name="plQtApplicationPanel">
+<area shape="rect" id="Node000001" title="Base class for all panels that are supposed to be application wide (not tied to some document)." alt="" coords="184,107,326,133"/>
+<area shape="rect" id="Node000003" href="$dd/d6b/classpl_qt_asset_browser_panel.htm" title="The application wide panel that shows and asset browser." alt="" coords="374,5,533,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,95,326,68,373,42,402,30,404,35,375,46,329,72,288,99"/>
+<area shape="rect" id="Node000004" href="$da/da9/classpl_qt_asset_curator_panel.htm" title=" " alt="" coords="376,56,531,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="324,100,398,81,399,86,326,105"/>
+<area shape="rect" id="Node000005" href="$d6/d40/classpl_qt_c_var_panel.htm" title=" " alt="" coords="400,107,507,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="341,117,400,117,400,123,341,123"/>
+<area shape="rect" id="Node000006" href="$dd/d62/classpl_qt_log_panel.htm" title="The application wide panel that shows the engine log output and the editor log output." alt="" coords="404,157,503,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="325,135,404,156,403,161,324,140"/>
+<area shape="rect" id="Node000007" href="$d9/dfd/classpl_qt_long_ops_panel.htm" title="This panel listens to events from plLongOpControllerManager and displays all currently known long ope..." alt="" coords="388,208,519,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="288,141,329,168,375,194,404,205,402,210,373,198,326,172,285,145"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,107,136,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,117,183,117,183,123,151,123"/>
+</map>

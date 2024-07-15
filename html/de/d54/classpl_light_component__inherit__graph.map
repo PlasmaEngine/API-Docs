@@ -1,0 +1,17 @@
+<map id="plLightComponent" name="plLightComponent">
+<area shape="rect" id="Node000001" title="Base class for dynamic light components." alt="" coords="230,304,356,331"/>
+<area shape="rect" id="Node000006" href="$dc/df0/classpl_directional_light_component.htm" title="A directional lightsource shines light into one fixed direction and has infinite size...." alt="" coords="5,379,192,405"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="246,339,134,381,132,376,244,334"/>
+<area shape="rect" id="Node000007" href="$d2/df7/classpl_point_light_component.htm" title="Adds a dynamic point light to the scene, optionally casting shadows." alt="" coords="216,379,371,405"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="296,346,296,378,290,378,290,346"/>
+<area shape="rect" id="Node000008" href="$d8/dea/classpl_spot_light_component.htm" title="Adds a spotlight to the scene, optionally casting shadows." alt="" coords="394,379,547,405"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="339,335,440,376,438,380,337,339"/>
+<area shape="rect" id="Node000002" href="$d4/d24/classpl_render_component.htm" title="Base class for objects that should be rendered." alt="" coords="224,229,362,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,272,296,304,290,304,290,272"/>
+<area shape="rect" id="Node000003" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="244,155,342,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,197,296,229,290,229,290,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="234,80,352,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="296,122,296,154,290,154,290,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="254,5,332,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,48,296,80,290,80,290,48"/>
+</map>

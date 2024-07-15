@@ -1,0 +1,19 @@
+<map id="plQtProxy" name="plQtProxy">
+<area shape="rect" id="Node000001" title="Glue class that maps plActions to QActions. QActions are only created if the plAction is actually map..." alt="" coords="244,80,324,107"/>
+<area shape="rect" id="Node000003" href="$df/d20/classpl_qt_action_proxy.htm" title=" " alt="" coords="78,155,194,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,116,163,156,161,152,243,111"/>
+<area shape="rect" id="Node000006" href="$d4/d86/classpl_qt_category_proxy.htm" title=" " alt="" coords="218,155,350,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="287,122,287,154,281,154,281,122"/>
+<area shape="rect" id="Node000007" href="$db/d44/classpl_qt_menu_proxy.htm" title=" " alt="" coords="374,155,485,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="324,111,405,152,403,156,322,116"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="249,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,48,287,80,281,80,281,48"/>
+<area shape="rect" id="Node000004" href="$da/d8e/classpl_qt_button_proxy.htm" title=" " alt="" coords="5,229,123,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,194,78,231,75,227,111,191"/>
+<area shape="rect" id="Node000005" href="$d1/d6e/classpl_qt_slider_proxy.htm" title=" " alt="" coords="146,229,259,256"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="160,191,193,227,189,231,156,195"/>
+<area shape="rect" id="Node000008" href="$d3/d65/classpl_qt_dynamic_menu_proxy.htm" title=" " alt="" coords="348,229,510,256"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="432,197,432,229,427,229,427,197"/>
+<area shape="rect" id="Node000009" href="$d7/dcd/classpl_qt_dynamic_action_and_menu_proxy.htm" title=" " alt="" coords="335,304,524,347"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="432,272,432,304,427,304,427,272"/>
+</map>

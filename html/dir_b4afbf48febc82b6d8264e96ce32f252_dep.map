@@ -1,0 +1,28 @@
+<map id="Code/Engine/Foundation" name="Code/Engine/Foundation">
+<area shape="rect" id="node2" href="dir_84a7a2cba595e04d2507324f6c30e358.htm" title="Algorithm" alt="" coords="147,64,224,91"/>
+<area shape="rect" id="node3" href="dir_640add6f22af8b89d1469eb665eb8118.htm" title="Application" alt="" coords="248,64,333,91"/>
+<area shape="rect" id="node4" href="dir_03554ac79e7f05194e96b085764cc42f.htm" title="Basics" alt="" coords="357,64,419,91"/>
+<area shape="rect" id="node5" href="dir_c43644ab4dab4b1859065902eff88fa3.htm" title="CodeUtils" alt="" coords="443,64,520,91"/>
+<area shape="rect" id="node6" href="dir_7589d4d6901f80f940c7822fae1890f1.htm" title="Communication" alt="" coords="544,64,656,91"/>
+<area shape="rect" id="node7" href="dir_03e81f6b6ada1dcfe2fa5edc01d4a3a9.htm" title="Configuration" alt="" coords="680,64,776,91"/>
+<area shape="rect" id="node8" href="dir_3416883c1320ec68c4d0694befd114fc.htm" title="Containers" alt="" coords="800,64,883,91"/>
+<area shape="rect" id="node9" href="dir_3d5d4c244e2109b9950396023e2d5e01.htm" title="DataProcessing" alt="" coords="907,64,1021,91"/>
+<area shape="rect" id="node10" href="dir_53c6c6fb8a816921716f372d87aabbab.htm" title="IO" alt="" coords="1045,64,1083,91"/>
+<area shape="rect" id="node11" href="dir_ce923588a57e426e366cfb07f5fe4298.htm" title="Logging" alt="" coords="1107,64,1173,91"/>
+<area shape="rect" id="node12" href="dir_b421fc8dbee4bf114051d293564697bb.htm" title="Math" alt="" coords="1198,64,1248,91"/>
+<area shape="rect" id="node13" href="dir_4fbc68de02063aadaaa993e858caad29.htm" title="Memory" alt="" coords="1272,64,1341,91"/>
+<area shape="rect" id="node14" href="dir_cffccc0d0c847ae8ba219bd133558dc6.htm" title="Platform" alt="" coords="1365,64,1435,91"/>
+<area shape="rect" id="node15" href="dir_6539e8c35e29fcce45651ad8a27ade2d.htm" title="Profiling" alt="" coords="1458,64,1526,91"/>
+<area shape="rect" id="node16" href="dir_03dd0ffe19aabd3d1cd0d82a91256ab1.htm" title="Reflection" alt="" coords="1550,64,1628,91"/>
+<area shape="rect" id="node17" href="dir_6d55a6f8e8c104aaad4985b1a3dc7530.htm" title="Serialization" alt="" coords="1652,64,1745,91"/>
+<area shape="rect" id="node18" href="dir_e0773f6bc48aee020523ff8d30d00c02.htm" title="SimdMath" alt="" coords="1769,64,1850,91"/>
+<area shape="rect" id="node19" href="dir_93f3a51c0220f51fc2c286c08d531e1e.htm" title="Strings" alt="" coords="1874,64,1936,91"/>
+<area shape="rect" id="node20" href="dir_d4ce31af4a87e3fa37330e61b3705b2d.htm" title="System" alt="" coords="1960,64,2026,91"/>
+<area shape="rect" id="node21" href="dir_fa1ade104661ad34fb0eac087515bd03.htm" title="Threading" alt="" coords="2051,64,2128,91"/>
+<area shape="rect" id="node22" href="dir_9029fef5605009259072bed4f2175481.htm" title="Time" alt="" coords="2153,64,2202,91"/>
+<area shape="rect" id="node23" href="dir_820938b3ada3cab81b763f547df47fa4.htm" title="Tracks" alt="" coords="2226,64,2286,91"/>
+<area shape="rect" id="node24" href="dir_c32432c00eff92f753f8e1e2859d61e1.htm" title="Types" alt="" coords="2310,64,2367,91"/>
+<area shape="rect" id="node25" href="dir_5ca675941980ee92bfc0b46c56584025.htm" title="Utilities" alt="" coords="2390,64,2455,91"/>
+<area shape="rect" id="clust2" href="dir_b4afbf48febc82b6d8264e96ce32f252.htm" alt="" coords="27,53,2465,101"/>
+<area shape="rect" id="clust1" href="dir_035128dd2074b3ffa643fb93d2ba646f.htm" title="Engine" alt="" coords="16,16,2476,112"/>
+</map>

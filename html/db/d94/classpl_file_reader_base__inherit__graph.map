@@ -1,0 +1,7 @@
+<map id="plFileReaderBase" name="plFileReaderBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,129,107"/>
+<area shape="rect" id="Node000003" href="$d4/d98/classpl_file_reader.htm" title="The default class to use to read data from a file, implements the plStreamReader interface." alt="" coords="20,155,114,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="70,122,70,154,64,154,64,122"/>
+<area shape="rect" id="Node000002" href="$df/d3d/classpl_stream_reader.htm" title="Interface for binary in (read) streams." alt="" coords="10,5,124,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,48,70,80,64,80,64,48"/>
+</map>

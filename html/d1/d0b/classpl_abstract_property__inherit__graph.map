@@ -1,0 +1,99 @@
+<map id="plAbstractProperty" name="plAbstractProperty">
+<area shape="rect" id="Node000001" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="5,644,135,671"/>
+<area shape="rect" id="Node000002" href="$dc/d4a/classpl_abstract_array_property.htm" title="The base class for a property that represents an array of values." alt="" coords="193,176,354,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,628,118,505,147,426,180,347,224,263,261,202,266,204,229,266,185,349,152,427,123,506,82,630"/>
+<area shape="rect" id="Node000010" href="$d7/d64/classpl_abstract_constant_property.htm" title="This is the base class for all constant properties that are stored inside the RTTI data." alt="" coords="183,360,364,387"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="88,630,260,385,265,388,92,633"/>
+<area shape="rect" id="Node000014" href="$d7/de1/classpl_abstract_function_property.htm" title="The base class for a property that represents a function." alt="" coords="184,577,363,604"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="127,636,229,602,231,607,129,641"/>
+<area shape="rect" id="Node000026" href="$d1/dfe/classpl_abstract_map_property.htm" title="The base class for a property that represents a set of values." alt="" coords="196,769,350,796"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="108,677,251,766,248,771,105,682"/>
+<area shape="rect" id="Node000033" href="$d3/d73/classpl_abstract_member_property.htm" title="This is the base class for all properties that are members of a class. It provides more information a..." alt="" coords="185,1107,362,1133"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="86,684,268,1105,264,1107,81,686"/>
+<area shape="rect" id="Node000048" href="$de/dec/classpl_abstract_set_property.htm" title="The base class for a property that represents a set of values." alt="" coords="199,1515,348,1541"/>
+<area shape="poly" id="edge43_Node000001_Node000048" title=" " alt="" coords="80,685,185,1145,271,1513,266,1515,180,1146,75,687"/>
+<area shape="rect" id="Node000003" href="$db/d53/classpl_typed_array_property.htm" title=" " alt="" coords="415,35,611,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,165,411,103,435,92,437,96,413,108,309,169"/>
+<area shape="rect" id="Node000006" href="$d9/d22/classpl_phantom_array_property.htm" title=" " alt="" coords="432,117,595,144"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="345,169,455,142,456,147,346,174"/>
+<area shape="rect" id="Node000007" href="$db/d53/classpl_typed_array_property.htm" title="Do not cast into this class or any of its derived classes, use plTypedArrayProperty instead." alt="" coords="440,168,586,211"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="369,187,440,187,440,192,369,192"/>
+<area shape="rect" id="Node000009" href="$df/d23/classpl_typed_array_property_3_01const_01char_01_5_01_4.htm" title="Specialization of plTypedArrayProperty to retain the pointer in const char*." alt="" coords="440,235,586,277"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="340,205,440,233,439,238,338,210"/>
+<area shape="rect" id="Node000004" href="$df/dc4/classpl_member_array_property.htm" title=" " alt="" coords="681,5,859,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="626,45,680,37,681,42,627,50"/>
+<area shape="rect" id="Node000005" href="$db/d89/classpl_member_array_read_only_property.htm" title="Read only version of plMemberArrayProperty that does not call any functions that modify the array...." alt="" coords="662,72,878,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="627,74,662,78,661,84,627,80"/>
+<area shape="rect" id="Node000008" href="$d8/d97/classpl_accessor_array_property.htm" title=" " alt="" coords="687,168,853,211"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="602,187,686,187,686,192,602,192"/>
+<area shape="rect" id="Node000011" href="$df/d94/classpl_phantom_constant_property.htm" title=" " alt="" coords="421,301,605,328"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="345,353,455,326,456,331,346,358"/>
+<area shape="rect" id="Node000012" href="$dd/d62/classpl_typed_constant_property.htm" title="The base class for all typed member properties. Ie. once the type of a property is determined,..." alt="" coords="430,352,597,395"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="379,371,429,371,429,376,379,376"/>
+<area shape="rect" id="Node000013" href="$df/db0/classpl_constant_property.htm" title="[internal] An implementation of plTypedConstantProperty that accesses the property data directly." alt="" coords="704,253,836,296"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="600,343,613,338,637,322,661,306,702,289,704,294,664,310,640,326,616,342,603,348"/>
+<area shape="rect" id="Node000015" href="$de/db7/classpl_typed_function_property.htm" title=" " alt="" coords="430,419,596,461"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="296,564,346,517,377,493,411,471,435,460,437,464,413,476,380,497,350,521,300,568"/>
+<area shape="rect" id="Node000017" href="$de/db7/classpl_typed_function_property.htm" title=" " alt="" coords="430,485,596,528"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="324,569,411,537,444,526,446,531,413,543,326,574"/>
+<area shape="rect" id="Node000021" href="$d2/db1/classpl_phantom_function_property.htm" title=" " alt="" coords="422,552,604,579"/>
+<area shape="poly" id="edge20_Node000014_Node000021" title=" " alt="" coords="378,577,421,572,422,578,379,582"/>
+<area shape="rect" id="Node000022" href="$d2/d15/classpl_script_function_property.htm" title=" " alt="" coords="431,603,595,629"/>
+<area shape="poly" id="edge21_Node000014_Node000022" title=" " alt="" coords="379,599,431,605,430,610,378,604"/>
+<area shape="rect" id="Node000025" href="$de/db7/classpl_typed_function_property.htm" title=" " alt="" coords="430,653,596,696"/>
+<area shape="poly" id="edge24_Node000014_Node000025" title=" " alt="" coords="326,607,413,639,446,650,444,655,411,644,324,612"/>
+<area shape="rect" id="Node000016" href="$de/d2e/classpl_constructor_function_property.htm" title=" " alt="" coords="671,320,869,363"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="600,410,613,404,637,388,661,372,689,361,691,366,664,377,640,393,616,409,603,415"/>
+<area shape="rect" id="Node000018" href="$db/d2d/classpl_function_property_3_01_r_07_5_08_07_args_8_8_8_08_4.htm" title=" " alt="" coords="705,387,835,429"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="600,477,613,471,637,455,661,439,704,422,706,427,664,444,640,459,616,476,603,482"/>
+<area shape="rect" id="Node000019" href="$d0/d35/classpl_function_property_3_01_r_07_c_l_a_s_s_1_1_5_08_07_args_8_8_8_08_01const_01_4.htm" title=" " alt="" coords="693,453,847,512"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="611,495,693,487,693,492,612,500"/>
+<area shape="rect" id="Node000020" href="$db/dfa/classpl_function_property_3_01_r_07_c_l_a_s_s_1_1_5_08_07_args_8_8_8_08_4.htm" title=" " alt="" coords="689,536,851,579"/>
+<area shape="poly" id="edge19_Node000017_Node000020" title=" " alt="" coords="612,523,689,539,688,544,611,529"/>
+<area shape="rect" id="Node000023" href="$d4/dbe/classpl_script_coroutine_function_property.htm" title="A function property that creates an instance of the given coroutine type and starts it immediately." alt="" coords="685,603,855,645"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="611,616,685,619,685,624,611,622"/>
+<area shape="rect" id="Node000024" href="$d9/d25/classpl_visual_script_function_property.htm" title=" " alt="" coords="670,669,870,696"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="587,631,615,639,663,655,707,666,705,671,662,660,614,644,586,636"/>
+<area shape="rect" id="Node000027" href="$d5/dd2/classpl_typed_map_property.htm" title=" " alt="" coords="415,720,611,779"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="366,767,414,760,415,766,366,772"/>
+<area shape="rect" id="Node000029" href="$d3/df3/classpl_phantom_map_property.htm" title=" " alt="" coords="434,803,592,829"/>
+<area shape="poly" id="edge28_Node000026_Node000029" title=" " alt="" coords="366,793,434,802,434,808,365,798"/>
+<area shape="rect" id="Node000030" href="$d5/dd2/classpl_typed_map_property.htm" title=" " alt="" coords="443,853,583,896"/>
+<area shape="poly" id="edge29_Node000026_Node000030" title=" " alt="" coords="320,800,413,839,445,850,443,855,411,844,318,805"/>
+<area shape="rect" id="Node000028" href="$db/df3/classpl_member_map_property.htm" title=" " alt="" coords="694,720,846,779"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="626,747,693,747,693,752,626,752"/>
+<area shape="rect" id="Node000031" href="$dc/d5e/classpl_accessor_map_property.htm" title=" " alt="" coords="681,803,859,845"/>
+<area shape="poly" id="edge30_Node000030_Node000031" title=" " alt="" coords="598,855,681,839,682,844,599,860"/>
+<area shape="rect" id="Node000032" href="$d2/d2f/classpl_write_accessor_map_property.htm" title=" " alt="" coords="674,869,866,912"/>
+<area shape="poly" id="edge31_Node000030_Node000032" title=" " alt="" coords="599,877,674,882,674,887,599,883"/>
+<area shape="rect" id="Node000034" href="$dd/dd4/classpl_typed_member_property.htm" title=" " alt="" coords="415,920,611,979"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="294,1093,344,1041,376,1013,411,988,431,977,433,982,413,993,380,1018,348,1045,298,1097"/>
+<area shape="rect" id="Node000036" href="$dd/dd4/classpl_typed_member_property.htm" title=" " alt="" coords="432,1003,594,1045"/>
+<area shape="poly" id="edge35_Node000033_Node000036" title=" " alt="" coords="315,1097,411,1055,442,1043,444,1048,413,1060,317,1102"/>
+<area shape="rect" id="Node000037" href="$dd/dd4/classpl_typed_member_property.htm" title=" " alt="" coords="432,1069,594,1112"/>
+<area shape="poly" id="edge36_Node000033_Node000037" title=" " alt="" coords="377,1105,431,1098,432,1103,377,1110"/>
+<area shape="rect" id="Node000038" href="$df/d77/classpl_abstract_enumeration_property.htm" title="The base class for enum and bitflags member properties." alt="" coords="412,1136,614,1163"/>
+<area shape="poly" id="edge37_Node000033_Node000038" title=" " alt="" coords="377,1130,412,1134,411,1140,377,1135"/>
+<area shape="rect" id="Node000044" href="$df/d17/classpl_phantom_member_property.htm" title=" " alt="" coords="424,1187,603,1213"/>
+<area shape="poly" id="edge39_Node000033_Node000044" title=" " alt="" coords="321,1137,413,1172,453,1184,451,1189,411,1177,319,1142"/>
+<area shape="rect" id="Node000045" href="$dd/dd4/classpl_typed_member_property.htm" title="The base class for all typed member properties. I.e. once the type of a property is determined,..." alt="" coords="432,1237,594,1280"/>
+<area shape="poly" id="edge40_Node000033_Node000045" title=" " alt="" coords="302,1142,352,1183,413,1223,438,1234,436,1239,411,1228,349,1187,299,1146"/>
+<area shape="rect" id="Node000047" href="$db/d97/classpl_typed_member_property_3_01const_01char_01_5_01_4.htm" title="Specialization of plTypedMemberProperty for const char*." alt="" coords="432,1304,594,1347"/>
+<area shape="poly" id="edge42_Node000033_Node000047" title=" " alt="" coords="292,1146,340,1217,374,1256,414,1290,433,1301,431,1306,410,1294,371,1260,336,1221,287,1149"/>
+<area shape="rect" id="Node000035" href="$d1/d52/classpl_accessor_property.htm" title="[internal] An implementation of plTypedMemberProperty that uses custom getter / setter functions to a..." alt="" coords="702,936,838,979"/>
+<area shape="poly" id="edge34_Node000034_Node000035" title=" " alt="" coords="627,950,702,953,702,958,627,956"/>
+<area shape="rect" id="Node000039" href="$d3/db5/classpl_typed_enum_property.htm" title="[internal] Base class for enum / bitflags properties that already defines the type." alt="" coords="695,1128,845,1171"/>
+<area shape="poly" id="edge38_Node000038_Node000039" title=" " alt="" coords="630,1147,695,1147,695,1152,630,1152"/>
+<area shape="rect" id="Node000046" href="$d4/ded/classpl_member_property.htm" title="[internal] An implementation of plTypedMemberProperty that accesses the property data directly." alt="" coords="682,1237,858,1280"/>
+<area shape="poly" id="edge41_Node000045_Node000046" title=" " alt="" coords="610,1256,681,1256,681,1261,610,1261"/>
+<area shape="rect" id="Node000049" href="$d5/d14/classpl_typed_set_property.htm" title=" " alt="" coords="415,1371,611,1429"/>
+<area shape="poly" id="edge44_Node000048_Node000049" title=" " alt="" coords="305,1503,354,1472,411,1439,435,1427,437,1432,413,1444,357,1476,308,1508"/>
+<area shape="rect" id="Node000051" href="$d5/d14/classpl_typed_set_property.htm" title=" " alt="" coords="416,1453,610,1528"/>
+<area shape="poly" id="edge45_Node000048_Node000051" title=" " alt="" coords="363,1511,415,1503,416,1508,364,1517"/>
+<area shape="rect" id="Node000053" href="$d2/de2/classpl_phantom_set_property.htm" title=" " alt="" coords="437,1552,589,1579"/>
+<area shape="poly" id="edge46_Node000048_Node000053" title=" " alt="" coords="364,1539,437,1551,436,1556,363,1545"/>
+<area shape="rect" id="Node000054" href="$d5/d14/classpl_typed_set_property.htm" title="Do not cast into this class or any of its derived classes, use plAbstractSetProperty instead." alt="" coords="446,1603,581,1645"/>
+<area shape="poly" id="edge47_Node000048_Node000054" title=" " alt="" coords="317,1546,413,1588,446,1600,444,1605,411,1593,315,1551"/>
+<area shape="rect" id="Node000056" href="$d8/da4/classpl_typed_set_property_3_01const_01char_01_5_01_4.htm" title="Specialization of plTypedArrayProperty to retain the pointer in const char*." alt="" coords="446,1669,581,1712"/>
+<area shape="poly" id="edge48_Node000048_Node000056" title=" " alt="" coords="297,1551,347,1604,379,1631,413,1655,446,1670,444,1675,411,1660,376,1635,343,1607,293,1555"/>
+</map>

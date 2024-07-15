@@ -1,0 +1,9 @@
+<map id="plAccessorProperty&lt; Class, Type &gt;" name="plAccessorProperty&lt; Class, Type &gt;">
+<area shape="rect" id="Node000001" title="[internal] An implementation of plTypedMemberProperty that uses custom getter / setter functions to a..." alt="" coords="36,261,171,304"/>
+<area shape="rect" id="Node000002" href="$dd/dd4/classpl_typed_member_property.htm" title=" " alt="" coords="5,155,202,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,229,106,261,101,261,101,229"/>
+<area shape="rect" id="Node000003" href="$d3/d73/classpl_abstract_member_property.htm" title="This is the base class for all properties that are members of a class. It provides more information a..." alt="" coords="15,80,192,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,123,106,154,101,154,101,123"/>
+<area shape="rect" id="Node000004" href="$d4/dd7/classpl_abstract_property.htm" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="39,5,168,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,48,106,80,101,80,101,48"/>
+</map>

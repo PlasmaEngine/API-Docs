@@ -1,0 +1,13 @@
+<map id="plAllocatorWithPolicy&lt; AllocationPolicy, TrackingMode &gt;" name="plAllocatorWithPolicy&lt; AllocationPolicy, TrackingMode &gt;">
+<area shape="rect" id="Node000001" title="Policy based allocator implementation of the plAllocator interface." alt="" coords="687,31,871,89"/>
+<area shape="rect" id="Node000005" href="$d5/d93/classpl_audio_middleware_allocator.htm" title="An allocator that uses the heap to allocate memory for use by the audio middleware...." alt="" coords="919,5,1112,48"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="886,42,918,38,919,43,886,48"/>
+<area shape="rect" id="Node000006" href="$da/d88/classpl_audio_system_allocator.htm" title="An allocator that uses the heap to allocate memory for use by the audio system itself...." alt="" coords="919,72,1112,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="886,72,919,77,918,82,886,78"/>
+<area shape="rect" id="Node000002" href="$dc/df5/classpl_internal_1_1pl_allocator_mixin_reallocate.htm" title=" " alt="" coords="411,7,639,113"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="655,57,687,57,687,63,655,63"/>
+<area shape="rect" id="Node000003" href="$d8/dce/classpl_internal_1_1pl_allocator_impl.htm" title=" " alt="" coords="136,39,363,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,57,411,57,411,63,378,63"/>
+<area shape="rect" id="Node000004" href="$da/df3/classpl_allocator.htm" title="Base class for all memory allocators." alt="" coords="5,47,88,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,57,135,57,135,63,103,63"/>
+</map>

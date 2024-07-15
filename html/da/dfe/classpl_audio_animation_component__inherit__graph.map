@@ -1,0 +1,11 @@
+<map id="plAudioAnimationComponent" name="plAudioAnimationComponent">
+<area shape="rect" id="Node000001" title="Component that can be used to activate an audio trigger when animation events got triggered." alt="" coords="24,304,213,331"/>
+<area shape="rect" id="Node000002" href="$df/deb/classpl_event_message_handler_component.htm" title="Base class for components that want to handle &#39;event messages&#39;." alt="" coords="5,229,232,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,272,121,304,116,304,116,272"/>
+<area shape="rect" id="Node000003" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="70,155,167,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,197,121,229,116,229,116,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="59,80,178,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,122,121,154,116,154,116,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="80,5,157,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,48,121,80,116,80,116,48"/>
+</map>

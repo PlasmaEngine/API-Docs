@@ -1,0 +1,19 @@
+<map id="plAbstractArrayProperty" name="plAbstractArrayProperty">
+<area shape="rect" id="Node000001" title="The base class for a property that represents an array of values." alt="" coords="183,147,343,173"/>
+<area shape="rect" id="Node000003" href="$db/d53/classpl_typed_array_property.htm" title=" " alt="" coords="391,35,587,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,138,390,103,416,92,419,96,392,108,311,143"/>
+<area shape="rect" id="Node000006" href="$d9/d22/classpl_phantom_array_property.htm" title=" " alt="" coords="408,117,571,144"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="359,145,407,139,407,144,359,150"/>
+<area shape="rect" id="Node000007" href="$db/d53/classpl_typed_array_property.htm" title="Do not cast into this class or any of its derived classes, use plTypedArrayProperty instead." alt="" coords="416,168,562,211"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="359,170,416,177,415,183,358,175"/>
+<area shape="rect" id="Node000009" href="$df/d23/classpl_typed_array_property_3_01const_01char_01_5_01_4.htm" title="Specialization of plTypedArrayProperty to retain the pointer in const char*." alt="" coords="416,235,562,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="305,179,392,220,422,232,420,237,390,225,302,183"/>
+<area shape="rect" id="Node000002" href="$d4/dd7/classpl_abstract_property.htm" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="5,147,135,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,157,182,157,182,163,150,163"/>
+<area shape="rect" id="Node000004" href="$df/dc4/classpl_member_array_property.htm" title=" " alt="" coords="654,5,832,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="602,45,653,37,654,42,603,50"/>
+<area shape="rect" id="Node000005" href="$db/d89/classpl_member_array_read_only_property.htm" title="Read only version of plMemberArrayProperty that does not call any functions that modify the array...." alt="" coords="635,72,851,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="603,75,635,78,634,83,603,80"/>
+<area shape="rect" id="Node000008" href="$d8/d97/classpl_accessor_array_property.htm" title=" " alt="" coords="660,168,826,211"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="578,187,659,187,659,192,578,192"/>
+</map>

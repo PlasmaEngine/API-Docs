@@ -1,0 +1,17 @@
+<map id="plForwardRenderPass" name="plForwardRenderPass">
+<area shape="rect" id="Node000001" title="A standard forward render pass that renders into the color target." alt="" coords="212,304,360,331"/>
+<area shape="rect" id="Node000006" href="$d0/d1f/classpl_opaque_forward_render_pass.htm" title="A forward render pass that renders all opaque objects into the color target." alt="" coords="5,379,199,405"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="241,339,135,381,133,376,239,334"/>
+<area shape="rect" id="Node000007" href="$d7/dbc/classpl_sky_render_pass.htm" title="A forward render pass that renders all sky objects into the color target." alt="" coords="223,379,349,405"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="289,346,289,378,283,378,283,346"/>
+<area shape="rect" id="Node000008" href="$df/dd9/classpl_transparent_forward_render_pass.htm" title="A forward render pass that renders all transparent objects into the color target." alt="" coords="372,379,589,405"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="335,334,447,376,446,381,333,339"/>
+<area shape="rect" id="Node000002" href="$d8/da4/classpl_render_pipeline_pass.htm" title=" " alt="" coords="212,229,360,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,272,289,304,283,304,283,272"/>
+<area shape="rect" id="Node000003" href="$df/db6/classpl_render_pipeline_node.htm" title=" " alt="" coords="212,155,360,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="289,197,289,229,283,229,283,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="227,80,345,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="289,122,289,154,283,154,283,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="247,5,325,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="289,48,289,80,283,80,283,48"/>
+</map>

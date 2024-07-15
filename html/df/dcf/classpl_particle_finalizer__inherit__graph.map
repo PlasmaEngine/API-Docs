@@ -1,0 +1,19 @@
+<map id="plParticleFinalizer" name="plParticleFinalizer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="708,97,832,124"/>
+<area shape="rect" id="Node000006" href="$d5/d39/classpl_particle_finalizer___age.htm" title=" " alt="" coords="880,5,1034,32"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="802,86,879,42,908,30,910,35,881,46,805,90"/>
+<area shape="rect" id="Node000007" href="$dc/d01/classpl_particle_finalizer___apply_velocity.htm" title=" " alt="" coords="895,56,1019,99"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="847,94,894,86,895,91,848,100"/>
+<area shape="rect" id="Node000008" href="$de/df5/classpl_particle_finalizer___last_position.htm" title=" " alt="" coords="895,123,1019,165"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="848,122,895,130,894,136,847,127"/>
+<area shape="rect" id="Node000009" href="$d9/d00/classpl_particle_finalizer___volume.htm" title=" " alt="" coords="895,189,1019,232"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="806,131,881,175,905,186,902,191,879,180,803,135"/>
+<area shape="rect" id="Node000002" href="$dc/d21/classpl_particle_module.htm" title=" " alt="" coords="542,97,660,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,108,708,108,708,113,675,113"/>
+<area shape="rect" id="Node000003" href="$d9/d4a/classpl_processing_stream_processor.htm" title="Base class for all stream processor implementations." alt="" coords="297,97,494,124"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,108,542,108,542,113,510,113"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,97,249,124"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,108,297,108,297,113,265,113"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,97,83,124"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="99,108,130,108,130,113,99,113"/>
+</map>

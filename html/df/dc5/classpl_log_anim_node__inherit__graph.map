@@ -1,0 +1,13 @@
+<map id="plLogAnimNode" name="plLogAnimNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,229,212,256"/>
+<area shape="rect" id="Node000005" href="$db/d0e/classpl_log_error_anim_node.htm" title=" " alt="" coords="5,304,146,331"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="132,268,91,306,87,302,129,265"/>
+<area shape="rect" id="Node000006" href="$d7/d0b/classpl_log_info_anim_node.htm" title=" " alt="" coords="169,304,302,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="182,265,224,302,220,306,179,268"/>
+<area shape="rect" id="Node000002" href="$db/d0b/classpl_anim_graph_node.htm" title="Base class for all nodes in an plAnimGraphInstance." alt="" coords="92,155,219,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,197,158,229,153,229,153,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="96,80,215,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,122,158,154,153,154,153,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="117,5,194,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,48,158,80,153,80,153,48"/>
+</map>

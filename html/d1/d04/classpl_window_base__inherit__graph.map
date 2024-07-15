@@ -1,0 +1,13 @@
+<map id="plWindowBase" name="plWindowBase">
+<area shape="rect" id="Node000001" title="Base class of all window classes that have a client area and a native window handle." alt="" coords="201,5,309,32"/>
+<area shape="rect" id="Node000002" href="$d1/d15/classpl_editor_process_view_window.htm" title="Represents the window inside the editor process, into which the engine process renders." alt="" coords="5,80,193,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,41,128,82,125,77,213,36"/>
+<area shape="rect" id="Node000003" href="$df/d28/classpl_window.htm" title="A simple abstraction for platform specific window creation." alt="" coords="216,80,294,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,48,258,80,252,80,252,48"/>
+<area shape="rect" id="Node000006" href="$d4/de2/classpl_window_x_r.htm" title="XR Window base implementation. Optionally wraps a companion window." alt="" coords="318,80,411,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="288,39,347,77,344,82,285,43"/>
+<area shape="rect" id="Node000004" href="$d7/d23/classpl_game_state_window.htm" title="A window class that expands a little on plWindow. Default type used by plGameState to create a window..." alt="" coords="93,155,236,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,119,182,156,178,152,226,114"/>
+<area shape="rect" id="Node000005" href="$d4/da7/classpl_remote_process_window.htm" title=" " alt="" coords="260,155,431,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="284,114,332,152,328,156,281,119"/>
+</map>

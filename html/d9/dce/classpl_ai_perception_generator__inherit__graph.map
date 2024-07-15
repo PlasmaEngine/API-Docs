@@ -1,0 +1,9 @@
+<map id="plAiPerceptionGenerator" name="plAiPerceptionGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,5,381,32"/>
+<area shape="rect" id="Node000002" href="$d0/d07/classpl_ai_perception_gen_checkpoint.htm" title=" " alt="" coords="5,80,200,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,40,138,82,136,77,250,35"/>
+<area shape="rect" id="Node000003" href="$d0/da5/classpl_ai_perception_gen_p_o_i.htm" title=" " alt="" coords="224,80,376,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="302,48,302,80,297,80,297,48"/>
+<area shape="rect" id="Node000004" href="$d1/dae/classpl_ai_perception_gen_wander.htm" title=" " alt="" coords="399,80,574,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="347,35,455,77,453,82,345,40"/>
+</map>

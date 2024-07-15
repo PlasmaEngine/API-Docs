@@ -1,0 +1,11 @@
+<map id="plParticleEventReaction" name="plParticleEventReaction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,155,254,181"/>
+<area shape="rect" id="Node000004" href="$d8/d3d/classpl_particle_event_reaction___effect.htm" title=" " alt="" coords="5,229,164,272"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,194,109,231,106,227,148,190"/>
+<area shape="rect" id="Node000005" href="$d2/d98/classpl_particle_event_reaction___prefab.htm" title=" " alt="" coords="188,229,346,272"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="203,190,245,227,242,231,199,194"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="116,80,234,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,122,178,154,172,154,172,122"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="136,5,214,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,48,178,80,172,80,172,48"/>
+</map>

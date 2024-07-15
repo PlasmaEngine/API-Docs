@@ -1,0 +1,5 @@
+<map id="plAmplitudeAudioControlType" name="plAmplitudeAudioControlType">
+<area shape="rect" id="Node000001" title="The type of a control. This is used by control assets to determine the type of the control when the a..." alt="" coords="5,5,197,32"/>
+<area shape="rect" id="Node000002" href="$dd/d09/structpl_enum.htm" title=" " alt="" coords="12,80,190,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,48,104,80,98,80,98,48"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="plParticleInitializer" name="plParticleInitializer">
+<area shape="rect" id="Node000001" title="Base class for stream spawners that are used by plParticleEmitter&#39;s." alt="" coords="708,213,834,240"/>
+<area shape="rect" id="Node000006" href="$d2/df3/classpl_particle_initializer___box_position.htm" title=" " alt="" coords="900,5,1026,48"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="782,198,819,129,847,91,880,58,898,46,901,51,884,62,851,95,824,132,786,201"/>
+<area shape="rect" id="Node000007" href="$d5/d33/classpl_particle_initializer___cylinder_position.htm" title=" " alt="" coords="900,72,1026,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="793,200,832,162,881,124,902,113,904,117,883,129,835,166,797,204"/>
+<area shape="rect" id="Node000008" href="$dc/d0e/classpl_particle_initializer___random_color.htm" title=" " alt="" coords="900,139,1026,181"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="825,205,898,179,900,184,827,210"/>
+<area shape="rect" id="Node000009" href="$d6/d6a/classpl_particle_initializer___random_rotation_speed.htm" title=" " alt="" coords="882,205,1043,248"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="850,224,881,224,881,229,850,229"/>
+<area shape="rect" id="Node000010" href="$da/d4e/classpl_particle_initializer___random_size.htm" title=" " alt="" coords="900,272,1026,315"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="827,243,900,269,898,274,825,248"/>
+<area shape="rect" id="Node000011" href="$d3/dd3/classpl_particle_initializer___sphere_position.htm" title=" " alt="" coords="900,339,1026,381"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="797,250,835,287,883,324,904,336,902,341,881,329,832,291,793,254"/>
+<area shape="rect" id="Node000012" href="$db/d37/classpl_particle_initializer___velocity_cone.htm" title=" " alt="" coords="900,405,1026,448"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="786,253,824,321,851,359,884,391,901,403,898,407,880,395,847,362,819,324,782,255"/>
+<area shape="rect" id="Node000002" href="$dc/d21/classpl_particle_module.htm" title=" " alt="" coords="542,213,660,240"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="676,224,707,224,707,229,676,229"/>
+<area shape="rect" id="Node000003" href="$d9/d4a/classpl_processing_stream_processor.htm" title="Base class for all stream processor implementations." alt="" coords="297,213,494,240"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,224,542,224,542,229,510,229"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,213,249,240"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,224,297,224,297,229,265,229"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,213,83,240"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="99,224,130,224,130,229,99,229"/>
+</map>

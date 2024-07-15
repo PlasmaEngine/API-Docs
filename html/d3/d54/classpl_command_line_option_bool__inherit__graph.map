@@ -1,0 +1,11 @@
+<map id="plCommandLineOptionBool" name="plCommandLineOptionBool">
+<area shape="rect" id="Node000001" title="This command line option exposes simple on/off switches." alt="" coords="19,320,197,347"/>
+<area shape="rect" id="Node000002" href="$d6/dbb/classpl_command_line_option_doc.htm" title="plCommandLineOptionDoc can be used to document a command line option whose logic might be more comple..." alt="" coords="20,245,196,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,288,111,320,105,320,105,288"/>
+<area shape="rect" id="Node000003" href="$d6/da8/classpl_command_line_option.htm" title="plCommandLineOption (and derived types) are used to define options that the application supports." alt="" coords="32,171,184,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,213,111,245,105,245,105,213"/>
+<area shape="rect" id="Node000004" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="5,80,211,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,139,111,170,105,170,105,139"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="69,5,147,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="111,48,111,80,105,80,105,48"/>
+</map>

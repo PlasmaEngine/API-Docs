@@ -1,0 +1,5 @@
+<map id="plAudioSystemRequestUnloadBank" name="plAudioSystemRequestUnloadBank">
+<area shape="rect" id="Node000001" title="Audio request to unload a sound bank." alt="" coords="5,80,233,107"/>
+<area shape="rect" id="Node000002" href="$d4/de5/structpl_audio_system_request.htm" title="Base class for all audio system requests." alt="" coords="40,5,198,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,48,122,80,116,80,116,48"/>
+</map>

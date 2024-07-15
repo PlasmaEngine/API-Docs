@@ -1,0 +1,9 @@
+<map id="plTypedArrayProperty&lt; Type &gt;" name="plTypedArrayProperty&lt; Type &gt;">
+<area shape="rect" id="Node000001" title="Do not cast into this class or any of its derived classes, use plTypedArrayProperty instead." alt="" coords="15,155,162,197"/>
+<area shape="rect" id="Node000004" href="$d8/d97/classpl_accessor_array_property.htm" title=" " alt="" coords="5,245,172,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,213,91,245,86,245,86,213"/>
+<area shape="rect" id="Node000002" href="$dc/d4a/classpl_abstract_array_property.htm" title="The base class for a property that represents an array of values." alt="" coords="8,80,169,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,122,91,154,86,154,86,122"/>
+<area shape="rect" id="Node000003" href="$d4/dd7/classpl_abstract_property.htm" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="24,5,153,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,48,91,80,86,80,86,48"/>
+</map>

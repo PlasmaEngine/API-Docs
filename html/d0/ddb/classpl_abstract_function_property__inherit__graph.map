@@ -1,0 +1,27 @@
+<map id="plAbstractFunctionProperty" name="plAbstractFunctionProperty">
+<area shape="rect" id="Node000001" title="The base class for a property that represents a function." alt="" coords="183,221,362,248"/>
+<area shape="rect" id="Node000003" href="$de/db7/classpl_typed_function_property.htm" title=" " alt="" coords="418,45,584,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="302,210,469,86,472,91,306,214"/>
+<area shape="rect" id="Node000005" href="$de/db7/classpl_typed_function_property.htm" title=" " alt="" coords="418,151,584,193"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="338,214,420,191,421,197,339,219"/>
+<area shape="rect" id="Node000009" href="$d2/db1/classpl_phantom_function_property.htm" title=" " alt="" coords="410,221,592,248"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="377,232,409,232,409,237,377,237"/>
+<area shape="rect" id="Node000010" href="$d2/d15/classpl_script_function_property.htm" title=" " alt="" coords="419,280,583,307"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="343,250,447,277,446,282,341,255"/>
+<area shape="rect" id="Node000013" href="$de/db7/classpl_typed_function_property.htm" title=" " alt="" coords="418,331,584,373"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="307,255,355,286,411,316,437,328,435,332,409,321,353,290,304,259"/>
+<area shape="rect" id="Node000002" href="$d4/dd7/classpl_abstract_property.htm" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="5,221,135,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,232,182,232,182,237,150,237"/>
+<area shape="rect" id="Node000004" href="$de/d2e/classpl_constructor_function_property.htm" title=" " alt="" coords="642,5,839,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="598,48,641,41,642,46,599,53"/>
+<area shape="rect" id="Node000006" href="$db/d2d/classpl_function_property_3_01_r_07_5_08_07_args_8_8_8_08_4.htm" title=" " alt="" coords="675,72,806,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="582,143,674,112,676,117,584,148"/>
+<area shape="rect" id="Node000007" href="$d0/d35/classpl_function_property_3_01_r_07_c_l_a_s_s_1_1_5_08_07_args_8_8_8_08_01const_01_4.htm" title=" " alt="" coords="664,139,817,197"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="599,168,663,167,664,172,599,173"/>
+<area shape="rect" id="Node000008" href="$db/dfa/classpl_function_property_3_01_r_07_c_l_a_s_s_1_1_5_08_07_args_8_8_8_08_4.htm" title=" " alt="" coords="660,221,821,264"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="592,196,666,218,665,223,590,201"/>
+<area shape="rect" id="Node000011" href="$d4/dbe/classpl_script_coroutine_function_property.htm" title="A function property that creates an instance of the given coroutine type and starts it immediately." alt="" coords="655,288,826,331"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="599,297,655,301,655,306,599,303"/>
+<area shape="rect" id="Node000012" href="$d9/d25/classpl_visual_script_function_property.htm" title=" " alt="" coords="640,355,841,381"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="574,309,593,316,641,340,677,351,676,357,639,345,591,321,572,314"/>
+</map>

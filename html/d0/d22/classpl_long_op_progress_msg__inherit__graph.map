@@ -1,0 +1,11 @@
+<map id="plLongOpProgressMsg" name="plLongOpProgressMsg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,304,159,331"/>
+<area shape="rect" id="Node000002" href="$dd/d9f/classpl_editor_engine_msg.htm" title="Base class for all messages between editor and engine that are not bound to any document." alt="" coords="17,229,147,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,272,85,304,79,304,79,272"/>
+<area shape="rect" id="Node000003" href="$d9/d2b/classpl_process_message.htm" title="Base class for IPC messages transmitted by plIpcChannel." alt="" coords="16,155,148,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,197,85,229,79,229,79,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="23,80,141,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,122,85,154,79,154,79,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="43,5,121,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="85,48,85,80,79,80,79,48"/>
+</map>

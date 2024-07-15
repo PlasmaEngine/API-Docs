@@ -1,0 +1,23 @@
+<map id="plAudioSystemProxyDependentComponent" name="plAudioSystemProxyDependentComponent">
+<area shape="rect" id="Node000001" title="Base class for audio system components that depends on an audio proxy component." alt="" coords="666,77,871,120"/>
+<area shape="rect" id="Node000006" href="$d3/d4a/classpl_audio_rtpc_component.htm" title="Component used to set the value of a real&#45;time parameter in the audio middleware." alt="" coords="940,5,1098,32"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="839,69,918,41,959,30,960,35,920,47,841,74"/>
+<area shape="rect" id="Node000007" href="$d4/dc2/classpl_audio_switch_state_component.htm" title="Component used to set the current state of a switch in the audio middleware." alt="" coords="919,56,1119,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="886,82,918,78,919,84,887,88"/>
+<area shape="rect" id="Node000008" href="$dd/d3a/classpl_audio_system_environment_component.htm" title="Base class for audio system environment components." alt="" coords="929,107,1109,149"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="886,110,929,115,928,120,886,115"/>
+<area shape="rect" id="Node000011" href="$d1/dad/classpl_audio_trigger_component.htm" title="Audio System Component that triggers an audio event." alt="" coords="934,173,1104,200"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="832,124,920,159,959,170,957,175,918,164,830,129"/>
+<area shape="rect" id="Node000002" href="$d8/dbf/classpl_audio_system_component.htm" title="Base class for audio system components." alt="" coords="442,85,618,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="633,96,665,96,665,101,633,101"/>
+<area shape="rect" id="Node000003" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="297,85,394,112"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,96,442,96,442,101,410,101"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,85,249,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,96,297,96,297,101,265,101"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,85,83,112"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="99,96,130,96,130,101,99,101"/>
+<area shape="rect" id="Node000009" href="$d7/d4d/classpl_audio_box_environment_component.htm" title="Component that applies environmental effects in a box shape." alt="" coords="1167,85,1392,112"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1124,113,1166,109,1167,114,1125,119"/>
+<area shape="rect" id="Node000010" href="$d3/dda/classpl_audio_sphere_environment_component.htm" title="Component used to apply environment effects in a sphere shape." alt="" coords="1191,136,1368,179"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1125,137,1191,145,1190,150,1125,143"/>
+</map>

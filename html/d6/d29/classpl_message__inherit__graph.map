@@ -1,0 +1,99 @@
+<map id="plMessage" name="plMessage">
+<area shape="rect" id="Node000001" title="Base class for all message types. Each message type has it&#39;s own id which is used to dispatch message..." alt="" coords="297,1184,381,1211"/>
+<area shape="rect" id="Node000004" href="$dd/da1/structpl_event_message.htm" title="Base class for all messages that are sent as &#39;events&#39;." alt="" coords="484,240,600,267"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,1168,346,976,362,693,374,551,388,425,406,330,416,297,427,277,453,259,483,251,484,256,455,264,431,280,421,299,411,331,393,426,379,551,367,693,351,976,344,1168"/>
+<area shape="rect" id="Node000019" href="$d3/d31/structpl_jolt_msg_disconnect_constraints.htm" title="This message can be sent to a constraint component to break the constraint." alt="" coords="438,291,646,317"/>
+<area shape="poly" id="edge13_Node000001_Node000019" title=" " alt="" coords="339,1168,347,986,363,719,375,585,390,467,407,377,417,347,427,328,441,316,444,320,431,331,421,349,412,379,395,468,381,586,369,719,352,986,344,1169"/>
+<area shape="rect" id="Node000020" href="$dd/de9/structpl_msg_animation_pose_generation.htm" title=" " alt="" coords="438,341,646,368"/>
+<area shape="poly" id="edge14_Node000001_Node000020" title=" " alt="" coords="339,1168,348,995,365,745,377,619,391,509,408,425,417,396,427,378,441,367,445,371,431,382,422,398,413,426,396,510,382,620,370,745,353,996,344,1169"/>
+<area shape="rect" id="Node000021" href="$d2/d02/structpl_msg_animation_pose_preparing.htm" title="Used by components that skin a mesh to inform children whenever a new pose is being prepared." alt="" coords="442,392,642,419"/>
+<area shape="poly" id="edge15_Node000001_Node000021" title=" " alt="" coords="339,1168,349,1005,367,771,379,654,393,551,409,472,418,446,427,429,442,417,445,421,431,432,423,448,414,474,398,551,384,654,372,771,354,1005,345,1169"/>
+<area shape="rect" id="Node000022" href="$d5/d7e/structpl_msg_animation_pose_updated.htm" title="Used by components that skin a mesh to inform children whenever a new pose has been computed." alt="" coords="446,443,638,469"/>
+<area shape="poly" id="edge16_Node000001_Node000022" title=" " alt="" coords="337,1168,337,1024,346,818,357,712,373,615,396,535,411,503,427,480,444,466,447,471,431,483,415,506,401,536,378,616,362,713,351,818,342,1025,343,1168"/>
+<area shape="rect" id="Node000023" href="$df/d1a/structpl_msg_apply_root_motion.htm" title="This message is sent when animation root motion data is available." alt="" coords="464,493,620,520"/>
+<area shape="poly" id="edge17_Node000001_Node000023" title=" " alt="" coords="337,1168,339,1033,349,842,360,744,376,655,398,581,412,552,427,530,444,517,463,509,465,514,447,522,431,534,416,555,403,583,381,656,365,745,355,843,344,1033,343,1168"/>
+<area shape="rect" id="Node000024" href="$d0/dad/structpl_msg_audio_system_set_environment_amount.htm" title=" " alt="" coords="429,544,655,587"/>
+<area shape="poly" id="edge18_Node000001_Node000024" title=" " alt="" coords="338,1168,342,1046,355,876,366,788,381,709,402,643,414,617,427,597,441,585,444,589,431,600,418,620,406,645,387,710,371,789,360,876,347,1047,343,1169"/>
+<area shape="rect" id="Node000025" href="$d5/d1a/structpl_msg_audio_system_set_rtpc_value.htm" title=" " alt="" coords="435,611,649,637"/>
+<area shape="poly" id="edge19_Node000001_Node000025" title=" " alt="" coords="338,1168,343,1055,357,899,368,820,383,748,403,688,414,665,427,647,442,636,445,640,431,651,419,668,408,690,388,749,373,821,362,899,349,1055,344,1168"/>
+<area shape="rect" id="Node000026" href="$dc/d22/structpl_msg_audio_system_set_switch_state.htm" title=" " alt="" coords="445,661,639,704"/>
+<area shape="poly" id="edge20_Node000001_Node000026" title=" " alt="" coords="339,1168,347,1068,362,932,374,864,388,801,406,750,427,714,443,701,447,705,431,718,411,752,393,803,379,865,368,933,352,1068,345,1169"/>
+<area shape="rect" id="Node000027" href="$d2/dd8/structpl_msg_build_static_mesh.htm" title=" " alt="" coords="466,728,618,755"/>
+<area shape="poly" id="edge21_Node000001_Node000027" title=" " alt="" coords="340,1168,348,1077,364,956,376,896,390,841,407,796,427,765,445,752,465,744,467,749,447,756,431,768,412,798,395,842,381,897,370,957,353,1077,345,1169"/>
+<area shape="rect" id="Node000028" href="$d6/d15/structpl_msg_children_changed.htm" title=" " alt="" coords="465,779,619,805"/>
+<area shape="poly" id="edge22_Node000001_Node000028" title=" " alt="" coords="341,1168,351,1086,368,981,393,881,409,842,427,815,444,803,463,795,465,800,447,808,431,819,414,845,398,883,373,982,356,1087,346,1169"/>
+<area shape="rect" id="Node000029" href="$d7/d47/structpl_msg_collision.htm" title=" " alt="" coords="489,829,595,856"/>
+<area shape="poly" id="edge23_Node000001_Node000029" title=" " alt="" coords="342,1168,353,1096,372,1006,397,922,411,889,428,866,456,849,488,841,489,846,458,853,431,870,416,891,402,923,377,1007,359,1097,347,1169"/>
+<area shape="rect" id="Node000030" href="$d5/d6b/structpl_msg_component_internal_trigger.htm" title="For internal use by components to trigger some known behavior. Usually components will post this mess..." alt="" coords="440,880,644,907"/>
+<area shape="poly" id="edge24_Node000001_Node000030" title=" " alt="" coords="338,1168,343,1115,356,1047,367,1011,383,977,403,945,428,917,444,905,447,909,431,921,407,948,387,979,372,1013,361,1048,348,1116,343,1169"/>
+<area shape="rect" id="Node000031" href="$d8/d9c/structpl_msg_components_changed.htm" title=" " alt="" coords="452,931,632,957"/>
+<area shape="poly" id="edge25_Node000001_Node000031" title=" " alt="" coords="341,1168,348,1124,363,1069,389,1014,406,989,428,967,450,953,453,958,431,971,411,993,394,1017,368,1071,353,1125,346,1169"/>
+<area shape="rect" id="Node000032" href="$db/d84/structpl_msg_delete_game_object.htm" title=" " alt="" coords="459,981,625,1008"/>
+<area shape="poly" id="edge26_Node000001_Node000032" title=" " alt="" coords="344,1168,355,1133,371,1093,395,1052,428,1018,457,1002,460,1007,431,1022,400,1055,376,1095,360,1135,349,1170"/>
+<area shape="rect" id="Node000033" href="$de/de8/structpl_msg_extract_geometry.htm" title="Sent by plWorldGeoExtractionUtil to gather geometry information about objects in a world." alt="" coords="464,1032,620,1059"/>
+<area shape="poly" id="edge27_Node000001_Node000033" title=" " alt="" coords="350,1168,380,1117,402,1091,428,1068,463,1053,465,1057,431,1073,406,1094,385,1120,355,1171"/>
+<area shape="rect" id="Node000034" href="$dc/d3e/structpl_msg_extract_occluder_data.htm" title=" " alt="" coords="453,1083,631,1109"/>
+<area shape="poly" id="edge28_Node000001_Node000034" title=" " alt="" coords="361,1171,391,1144,428,1119,457,1108,459,1112,431,1124,394,1148,364,1175"/>
+<area shape="rect" id="Node000035" href="$d1/de3/structpl_msg_extract_render_data.htm" title=" " alt="" coords="459,1133,625,1160"/>
+<area shape="poly" id="edge29_Node000001_Node000035" title=" " alt="" coords="396,1178,429,1169,476,1158,478,1163,430,1175,397,1183"/>
+<area shape="rect" id="Node000036" href="$de/d8c/structpl_msg_extract_volumes.htm" title=" " alt="" coords="467,1184,617,1211"/>
+<area shape="poly" id="edge30_Node000001_Node000036" title=" " alt="" coords="397,1195,467,1195,467,1200,397,1200"/>
+<area shape="rect" id="Node000037" href="$d5/daa/structpl_msg_move_character_controller.htm" title=" " alt="" coords="443,1235,641,1261"/>
+<area shape="poly" id="edge31_Node000001_Node000037" title=" " alt="" coords="397,1211,430,1220,478,1232,476,1237,429,1225,396,1216"/>
+<area shape="rect" id="Node000038" href="$d1/da1/structpl_msg_object_grabbed.htm" title="Sent by components such as plJoltGrabObjectComponent to indicate that the object has been grabbed or ..." alt="" coords="470,1285,614,1312"/>
+<area shape="poly" id="edge32_Node000001_Node000038" title=" " alt="" coords="364,1220,394,1247,431,1271,471,1285,469,1291,428,1276,391,1251,361,1224"/>
+<area shape="rect" id="Node000039" href="$d9/d31/structpl_msg_only_apply_to_object.htm" title=" " alt="" coords="458,1336,626,1363"/>
+<area shape="poly" id="edge33_Node000001_Node000039" title=" " alt="" coords="355,1224,385,1275,406,1300,431,1322,459,1335,456,1340,428,1326,402,1304,380,1278,350,1226"/>
+<area shape="rect" id="Node000040" href="$dd/d7a/structpl_msg_parent_changed.htm" title=" " alt="" coords="469,1387,615,1413"/>
+<area shape="poly" id="edge34_Node000001_Node000040" title=" " alt="" coords="349,1225,360,1260,376,1300,400,1339,431,1373,449,1384,470,1391,468,1396,447,1388,428,1377,395,1343,371,1302,355,1261,344,1227"/>
+<area shape="rect" id="Node000041" href="$df/d14/structpl_msg_physics_add_force.htm" title="Used to apply a physical force on the object." alt="" coords="462,1437,622,1464"/>
+<area shape="poly" id="edge35_Node000001_Node000041" title=" " alt="" coords="346,1226,353,1270,368,1324,394,1378,411,1402,431,1423,463,1441,461,1445,428,1427,406,1406,389,1380,363,1325,348,1271,341,1227"/>
+<area shape="rect" id="Node000042" href="$d1/d24/structpl_msg_physics_add_impulse.htm" title="Used to apply a physical impulse on the object." alt="" coords="456,1488,628,1515"/>
+<area shape="poly" id="edge36_Node000001_Node000042" title=" " alt="" coords="343,1226,348,1279,361,1346,372,1381,387,1415,407,1447,431,1474,457,1490,454,1494,428,1478,403,1450,383,1418,367,1383,356,1348,343,1280,338,1226"/>
+<area shape="rect" id="Node000043" href="$df/d68/structpl_msg_query_animation_skeleton.htm" title="The animated mesh component listens to this message and &#39;answers&#39; by filling out the skeleton resourc..." alt="" coords="442,1539,642,1565"/>
+<area shape="poly" id="edge37_Node000001_Node000043" title=" " alt="" coords="347,1226,359,1297,377,1387,402,1471,416,1503,431,1525,447,1536,444,1540,427,1529,411,1506,397,1473,372,1388,353,1298,342,1227"/>
+<area shape="rect" id="Node000044" href="$d4/d7a/structpl_msg_release_object_grab.htm" title="Send this to components such as plJoltGrabObjectComponent to demand that m_hGrabbedObjectToRelease sh..." alt="" coords="457,1589,627,1616"/>
+<area shape="poly" id="edge38_Node000001_Node000044" title=" " alt="" coords="346,1226,356,1308,373,1413,398,1512,414,1550,431,1575,458,1592,455,1597,427,1579,409,1552,393,1514,368,1414,351,1308,341,1227"/>
+<area shape="rect" id="Node000045" href="$dc/d7d/structpl_msg_retrieve_bone_state.htm" title="Queries the local transforms of each bone in an object with a skeleton." alt="" coords="460,1640,624,1667"/>
+<area shape="poly" id="edge39_Node000001_Node000045" title=" " alt="" coords="345,1226,353,1317,370,1438,381,1498,395,1552,412,1597,431,1626,445,1637,461,1644,459,1649,442,1641,427,1630,407,1599,390,1554,376,1499,364,1438,348,1318,340,1226"/>
+<area shape="rect" id="Node000046" href="$d3/d39/structpl_msg_rml_ui_reload.htm" title=" " alt="" coords="476,1691,608,1717"/>
+<area shape="poly" id="edge40_Node000001_Node000046" title=" " alt="" coords="344,1226,351,1327,366,1463,378,1531,392,1593,410,1643,431,1677,452,1691,477,1699,475,1705,450,1696,427,1681,405,1645,387,1594,373,1532,361,1464,346,1328,339,1227"/>
+<area shape="rect" id="Node000047" href="$d8/d63/structpl_msg_rope_pose_updated.htm" title="Used by components that do rope simulation and rendering." alt="" coords="460,1741,624,1768"/>
+<area shape="poly" id="edge41_Node000001_Node000047" title=" " alt="" coords="344,1226,349,1336,363,1487,374,1564,389,1633,408,1690,431,1728,445,1738,461,1746,459,1751,442,1743,427,1731,403,1692,384,1634,369,1565,358,1488,344,1337,339,1226"/>
+<area shape="rect" id="Node000048" href="$d6/d92/structpl_msg_set_color.htm" title="A message to modify the main color of some thing." alt="" coords="489,1792,595,1819"/>
+<area shape="poly" id="edge42_Node000001_Node000048" title=" " alt="" coords="343,1226,347,1346,360,1512,371,1596,386,1673,406,1736,418,1760,431,1778,458,1795,489,1803,488,1808,455,1800,427,1782,414,1763,401,1738,381,1675,366,1597,354,1512,342,1346,338,1226"/>
+<area shape="rect" id="Node000049" href="$d3/d6a/structpl_msg_set_float_parameter.htm" title="Basic message to set some generic parameter to a float value." alt="" coords="459,1843,625,1869"/>
+<area shape="poly" id="edge43_Node000001_Node000049" title=" " alt="" coords="343,1226,345,1355,357,1536,368,1629,383,1713,404,1782,417,1809,431,1829,444,1840,460,1847,458,1852,442,1844,427,1832,412,1812,399,1784,378,1715,362,1630,351,1537,340,1355,338,1226"/>
+<area shape="rect" id="Node000050" href="$d6/dc0/structpl_msg_set_mesh_material.htm" title="This message is used to replace the material on a mesh." alt="" coords="465,1893,619,1920"/>
+<area shape="poly" id="edge44_Node000001_Node000050" title=" " alt="" coords="343,1226,344,1364,353,1561,364,1661,380,1753,402,1829,416,1858,431,1879,447,1892,466,1900,463,1905,444,1896,427,1883,411,1860,397,1831,375,1755,359,1662,348,1561,338,1364,337,1226"/>
+<area shape="rect" id="Node000051" href="$dd/d25/structpl_msg_set_playing.htm" title="Common message for components that can be toggled between playing and paused states." alt="" coords="482,1944,602,1971"/>
+<area shape="poly" id="edge45_Node000001_Node000051" title=" " alt="" coords="345,1226,355,1383,373,1607,399,1817,415,1891,423,1916,431,1930,454,1946,483,1954,481,1960,452,1951,427,1934,418,1918,409,1892,394,1818,368,1608,349,1384,339,1226"/>
+<area shape="rect" id="Node000052" href="$d6/d96/structpl_msg_transform_changed.htm" title=" " alt="" coords="460,1995,624,2021"/>
+<area shape="poly" id="edge46_Node000001_Node000052" title=" " alt="" coords="344,1226,354,1393,371,1633,383,1753,397,1859,414,1939,422,1965,431,1981,445,1992,460,2000,458,2004,442,1996,427,1984,417,1967,408,1940,392,1860,378,1754,366,1634,348,1394,339,1226"/>
+<area shape="rect" id="Node000053" href="$df/de0/structpl_msg_type_script_msg_proxy.htm" title=" " alt="" coords="453,2045,631,2072"/>
+<area shape="poly" id="edge47_Node000001_Node000053" title=" " alt="" coords="344,1226,353,1403,370,1659,382,1788,396,1901,413,1986,422,2015,431,2032,455,2048,452,2052,427,2035,417,2017,407,1987,391,1901,376,1788,364,1660,347,1403,339,1227"/>
+<area shape="rect" id="Node000054" href="$d1/d06/structpl_msg_update_local_bounds.htm" title=" " alt="" coords="456,2096,628,2123"/>
+<area shape="poly" id="edge48_Node000001_Node000054" title=" " alt="" coords="344,1226,352,1412,368,1684,380,1821,394,1942,412,2033,421,2064,431,2082,457,2100,454,2104,427,2086,416,2066,406,2035,389,1943,375,1822,363,1685,346,1412,339,1226"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,1184,249,1211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,1195,296,1195,296,1200,265,1200"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,1184,83,1211"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,1195,130,1195,130,1200,99,1200"/>
+<area shape="rect" id="Node000005" href="$da/d81/classpl_event_msg_set_power_input.htm" title="This event is posted by plPowerConnectorComponent whenever the power input on a connector changes." alt="" coords="719,5,891,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="554,225,577,184,609,134,651,84,701,42,724,30,726,35,704,46,655,88,614,137,581,187,559,227"/>
+<area shape="rect" id="Node000006" href="$d4/db3/structpl_msg_animation_reached_end.htm" title="Sent when an animation reached its end (either forwards or backwards playing)" alt="" coords="711,56,899,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="560,226,618,159,657,123,701,92,727,81,730,86,704,97,661,127,622,162,564,229"/>
+<area shape="rect" id="Node000007" href="$da/d8b/structpl_msg_audio_system_rtpc_value_changed.htm" title=" " alt="" coords="708,107,902,149"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="576,229,633,194,702,159,730,147,732,152,704,164,636,199,578,233"/>
+<area shape="rect" id="Node000008" href="$dd/d41/structpl_msg_audio_system_switch_state_changed.htm" title=" " alt="" coords="703,173,907,216"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="615,235,706,214,707,219,616,240"/>
+<area shape="rect" id="Node000009" href="$d1/db7/structpl_msg_blackboard_entry_changed.htm" title=" " alt="" coords="703,240,906,267"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="616,251,703,251,703,256,616,256"/>
+<area shape="rect" id="Node000010" href="$d1/d24/structpl_msg_damage.htm" title=" " alt="" coords="753,291,857,317"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="616,265,753,291,752,297,615,270"/>
+<area shape="rect" id="Node000011" href="$df/dc7/structpl_msg_fmod_sound_finished.htm" title="Sent when a plFmodEventComponent finishes playing a sound. Not sent for one&#45;shot sound events." alt="" coords="717,341,892,368"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="616,261,656,276,672,289,681,302,690,315,704,327,729,338,727,343,701,332,686,319,677,305,668,293,653,281,614,266"/>
+<area shape="rect" id="Node000012" href="$d4/d35/structpl_msg_generic_event.htm" title="For use in scripts to signal a custom event that some game event has occurred." alt="" coords="738,392,872,419"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="616,257,637,265,656,277,668,289,676,302,681,329,687,354,693,366,704,378,720,388,739,395,737,400,718,393,701,382,689,369,682,356,676,330,671,304,664,292,653,281,635,270,614,262"/>
+<area shape="rect" id="Node000013" href="$d0/d15/structpl_msg_input_action_triggered.htm" title="plInputComponent raises this event when it detects input" alt="" coords="718,443,892,469"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="617,256,638,264,656,277,672,296,680,315,682,354,683,393,690,411,704,429,721,440,718,444,701,433,686,413,678,394,676,355,674,316,667,298,653,281,635,269,615,261"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="E:/PlasmaEngine/Code/EnginePlugins" name="E:/PlasmaEngine/Code/EnginePlugins">
+<area shape="rect" id="node2" href="dir_3114eddba48cc83cf36d51cccbf6fe7f.htm" title="AiPlugin" alt="" coords="165,64,235,91"/>
+<area shape="rect" id="node3" href="dir_486ac49eeb39280ac5b9059696d33715.htm" title="AudioSystem" alt="" coords="258,64,358,91"/>
+<area shape="rect" id="node4" href="dir_e14c57d82cee90dc43c29fe8d4dc3219.htm" title="BakingPlugin" alt="" coords="382,64,479,91"/>
+<area shape="rect" id="node5" href="dir_fb7487ea1319d87f18dd152cfd9251e6.htm" title="FileservePlugin" alt="" coords="503,64,612,91"/>
+<area shape="rect" id="node6" href="dir_08b4cb5d21e1d0df362543ad863a0673.htm" title="FmodPlugin" alt="" coords="636,64,726,91"/>
+<area shape="rect" id="node7" href="dir_c68d81372b9a5a82e8430523eb11e03c.htm" title="GameComponentsPlugin" alt="" coords="751,64,916,91"/>
+<area shape="rect" id="node8" href="dir_e8e45ee2d13517a80edaee4ca1698b4a.htm" title="InspectorPlugin" alt="" coords="940,64,1050,91"/>
+<area shape="rect" id="node9" href="dir_b4a971bcd9a452b909285fab0c776654.htm" title="JoltCooking" alt="" coords="1074,64,1163,91"/>
+<area shape="rect" id="node10" href="dir_1a57c685ecb0a7093cadf0753ebfc891.htm" title="JoltPlugin" alt="" coords="1187,64,1264,91"/>
+<area shape="rect" id="node11" href="dir_90f1895cd511898b61a644c6c6f49324.htm" title="KrautPlugin" alt="" coords="1288,64,1376,91"/>
+<area shape="rect" id="node12" href="dir_213c550a4d625ba2d88c191a5666e8f1.htm" title="OpenVRPlugin" alt="" coords="1400,64,1506,91"/>
+<area shape="rect" id="node13" href="dir_682b69dad226e7d7c65391bb822b2c72.htm" title="OpenXRPlugin" alt="" coords="1530,64,1635,91"/>
+<area shape="rect" id="node14" href="dir_1bdeffedfbbe2502e594052eba0d6b16.htm" title="ParticlePlugin" alt="" coords="1659,64,1760,91"/>
+<area shape="rect" id="node15" href="dir_272f147e4b793a5d7e6f9f17bc266ff3.htm" title="ProcGenPlugin" alt="" coords="1784,64,1893,91"/>
+<area shape="rect" id="node16" href="dir_ebb81308031ccddbab642c0d8594453e.htm" title="RecastPlugin" alt="" coords="1918,64,2016,91"/>
+<area shape="rect" id="node17" href="dir_41f99c19dcfa7e7632fc66358be55a9e.htm" title="RenderDocPlugin" alt="" coords="2039,64,2161,91"/>
+<area shape="rect" id="node18" href="dir_8e54744c9846e7d91cdab11e8560dd32.htm" title="RmlUiPlugin" alt="" coords="2184,64,2277,91"/>
+<area shape="rect" id="node19" href="dir_db88226fa6fff7045d8bacd5af040f6b.htm" title="TypeScriptPlugin" alt="" coords="2300,64,2420,91"/>
+<area shape="rect" id="node20" href="dir_5d1f03cddb7ab6794fc20d1375aff567.htm" title="VisualScriptPlugin" alt="" coords="2444,64,2572,91"/>
+<area shape="rect" id="node21" href="dir_670f23119314214d85697fbe3b3606b7.htm" title="XBoxControllerPlugin" alt="" coords="2596,64,2738,91"/>
+<area shape="rect" id="clust2" href="dir_31a2e2f0e4a2541db40e6653c32f51fa.htm" alt="" coords="27,53,2748,101"/>
+<area shape="rect" id="clust1" href="dir_6c0ff0f9c42cf0a497c9f3c30ed710d5.htm" title="Code" alt="" coords="16,16,2759,112"/>
+</map>

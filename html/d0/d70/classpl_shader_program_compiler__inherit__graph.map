@@ -1,0 +1,11 @@
+<map id="plShaderProgramCompiler" name="plShaderProgramCompiler">
+<area shape="rect" id="Node000001" title="Shader compiler interface. Custom shader compiles need to derive from this class and implement the pu..." alt="" coords="81,155,254,181"/>
+<area shape="rect" id="Node000004" href="$d7/de1/classpl_shader_compiler_d_x_c.htm" title=" " alt="" coords="5,229,154,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,194,96,231,93,227,139,189"/>
+<area shape="rect" id="Node000005" href="$d6/d5c/classpl_shader_compiler_h_l_s_l.htm" title=" " alt="" coords="178,229,333,256"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="196,189,242,227,239,231,193,194"/>
+<area shape="rect" id="Node000002" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="108,80,227,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,122,170,154,165,154,165,122"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="129,5,206,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,48,170,80,165,80,165,48"/>
+</map>

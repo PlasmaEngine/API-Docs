@@ -1,0 +1,9 @@
+<map id="plQtParticleEffectAssetDocumentWindow" name="plQtParticleEffectAssetDocumentWindow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,221,272"/>
+<area shape="rect" id="Node000002" href="$d2/d28/classpl_qt_engine_document_window.htm" title="Base class for all document windows that need a connection to the engine process, and might want to r..." alt="" coords="18,155,208,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,197,116,229,110,229,110,197"/>
+<area shape="rect" id="Node000003" href="$dc/de7/classpl_qt_document_window.htm" title="Base class for all document windows. Handles the most basic document window management." alt="" coords="38,80,188,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,122,116,154,110,154,110,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="60,5,166,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,48,116,80,110,80,110,48"/>
+</map>

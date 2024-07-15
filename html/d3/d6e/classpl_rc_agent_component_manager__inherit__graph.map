@@ -1,0 +1,13 @@
+<map id="plRcAgentComponentManager" name="plRcAgentComponentManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,411,208,437"/>
+<area shape="rect" id="Node000002" href="$db/d70/classpl_component_manager.htm" title=" " alt="" coords="5,304,214,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,378,112,410,107,410,107,378"/>
+<area shape="rect" id="Node000003" href="$d2/db6/classpl_component_manager_base.htm" title="Base class for all component managers. Do not derive directly from this class, but derive from plComp..." alt="" coords="21,229,198,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,272,112,303,107,303,107,272"/>
+<area shape="rect" id="Node000004" href="$df/df2/classpl_world_module.htm" title=" " alt="" coords="56,155,163,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,197,112,229,107,229,107,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="50,80,169,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="112,122,112,154,107,154,107,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="71,5,148,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="112,48,112,80,107,80,107,48"/>
+</map>

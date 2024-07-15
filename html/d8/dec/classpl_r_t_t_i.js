@@ -1,0 +1,26 @@
+var classpl_r_t_t_i =
+[
+    [ "ForEachOptions", "df/dce/structpl_r_t_t_i_1_1_for_each_options.htm", "df/dce/structpl_r_t_t_i_1_1_for_each_options" ],
+    [ "plRTTI", "d8/dec/classpl_r_t_t_i.htm#a9627616e670a0984fe1e3bef8ff9b969", null ],
+    [ "CanHandleMessage", "d8/dec/classpl_r_t_t_i.htm#a2ef07f1ba5eb1fbf2968949758b66c5b", null ],
+    [ "CanHandleMessage", "d8/dec/classpl_r_t_t_i.htm#a9e466fe5d1934f4dda0f49591d8a3cf9", null ],
+    [ "DispatchMessage", "d8/dec/classpl_r_t_t_i.htm#a3648efc379fce033fc5cf18ff2f0ecdf", null ],
+    [ "DispatchMessage", "d8/dec/classpl_r_t_t_i.htm#a02d2515cee15ba92494fb306f0bfa761", null ],
+    [ "FindPropertyByName", "d8/dec/classpl_r_t_t_i.htm#aefc053265706c725e6e8985a4877a297", null ],
+    [ "GetAllocator", "d8/dec/classpl_r_t_t_i.htm#a662762e594a3db472de268ee304d9415", null ],
+    [ "GetAllProperties", "d8/dec/classpl_r_t_t_i.htm#a48297770a3586bb915cb1253e6bbf263", null ],
+    [ "GetAttributeByType", "d8/dec/classpl_r_t_t_i.htm#af2941559889c3cb75ba67ada06f107e8", null ],
+    [ "GetMessageHandlers", "d8/dec/classpl_r_t_t_i.htm#aec5372c35213a617791b0961d899cb2a", null ],
+    [ "GetParentType", "d8/dec/classpl_r_t_t_i.htm#a1062521031d49a355447ef0973f545b0", null ],
+    [ "GetPluginName", "d8/dec/classpl_r_t_t_i.htm#a2fd532c13aab99286bfafff27fa70de4", null ],
+    [ "GetProperties", "d8/dec/classpl_r_t_t_i.htm#a81f24fef6d86a7e004153eae372f8619", null ],
+    [ "GetTypeFlags", "d8/dec/classpl_r_t_t_i.htm#a2de39d8af71de51528b2fb40ae7569d8", null ],
+    [ "GetTypeName", "d8/dec/classpl_r_t_t_i.htm#a7a906257607936b6ebbb0849fb1caa5c", null ],
+    [ "GetTypeNameHash", "d8/dec/classpl_r_t_t_i.htm#a9ad78d4368a6a627a9cff4c27f43c95d", null ],
+    [ "GetTypeSize", "d8/dec/classpl_r_t_t_i.htm#a5732a8c077f2c9b0896477bb12ec701d", null ],
+    [ "GetTypeVersion", "d8/dec/classpl_r_t_t_i.htm#a37c5908b1c868c0cae2310d0520ae8c5", null ],
+    [ "GetVariantType", "d8/dec/classpl_r_t_t_i.htm#aad51fe5f43dc33629176b21b3fdebd17", null ],
+    [ "IsDerivedFrom", "d8/dec/classpl_r_t_t_i.htm#a165e505d6c1ec9914bec8a71812a86cb", null ],
+    [ "IsDerivedFrom", "d8/dec/classpl_r_t_t_i.htm#af421e6a16baa5f5864c4eca9408831ef", null ],
+    [ "VerifyCorrectness", "d8/dec/classpl_r_t_t_i.htm#afab379c9086667792fbcd24da09cf93d", null ]
+];

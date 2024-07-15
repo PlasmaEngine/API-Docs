@@ -1,0 +1,9 @@
+<map id="plNoTemporaryTransactionsAttribute" name="plNoTemporaryTransactionsAttribute">
+<area shape="rect" id="Node000001" title="This attribute indicates that a widget should not use temporary transactions when changing the value." alt="" coords="5,229,188,272"/>
+<area shape="rect" id="Node000002" href="$d3/d74/classpl_property_attribute.htm" title="Base class of all attributes can be used to decorate a RTTI property." alt="" coords="32,155,161,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,197,99,229,94,229,94,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="37,80,156,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,122,99,154,94,154,94,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="58,5,135,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,48,99,80,94,80,94,48"/>
+</map>

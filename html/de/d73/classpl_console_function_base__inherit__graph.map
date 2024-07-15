@@ -1,0 +1,15 @@
+<map id="plConsoleFunctionBase" name="plConsoleFunctionBase">
+<area shape="rect" id="Node000001" title="Base class for all types of plConsoleFunction, represents functions to be exposed to plConsole." alt="" coords="398,97,556,124"/>
+<area shape="rect" id="Node000004" href="$d2/dac/classpl_console_function.htm" title=" " alt="" coords="638,5,774,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="524,89,603,58,637,46,638,51,605,62,526,94"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="650,72,762,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="572,98,650,89,650,94,572,103"/>
+<area shape="rect" id="Node000006" href="$d2/dac/classpl_console_function.htm" title="Implements the functionality of plConsoleFunctionBase for functions with different parameter types...." alt="" coords="625,123,787,149"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="572,119,625,124,625,130,572,124"/>
+<area shape="rect" id="Node000007" href="$d3/d83/classpl_console_function_3_01_r_07_p_l___l_i_s_t_07_p_00_01_a_r_g___c_o_u_n_t_08_08_4.htm" title=" " alt="" coords="604,173,808,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="526,128,605,159,638,170,636,175,603,164,524,133"/>
+<area shape="rect" id="Node000002" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="131,89,350,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,108,398,108,398,113,366,113"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,97,83,124"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,108,130,108,130,113,98,113"/>
+</map>

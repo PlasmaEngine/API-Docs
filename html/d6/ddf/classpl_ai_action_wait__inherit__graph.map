@@ -1,0 +1,15 @@
+<map id="plAiActionWait" name="plAiActionWait">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,453,118,480"/>
+<area shape="rect" id="Node000002" href="$d7/df9/classpl_ai_action.htm" title=" " alt="" coords="24,379,105,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,421,67,453,62,453,62,421"/>
+<area shape="rect" id="Node000003" href="$d7/dcc/classpl_button_action.htm" title=" " alt="" coords="11,304,118,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,346,67,378,62,378,62,346"/>
+<area shape="rect" id="Node000004" href="$d8/dfa/classpl_named_action.htm" title=" " alt="" coords="10,229,119,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="67,272,67,304,62,304,62,272"/>
+<area shape="rect" id="Node000005" href="$d4/d17/classpl_action.htm" title=" " alt="" coords="30,155,99,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="67,197,67,229,62,229,62,197"/>
+<area shape="rect" id="Node000006" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="5,80,124,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="67,122,67,154,62,154,62,122"/>
+<area shape="rect" id="Node000007" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="26,5,103,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="67,48,67,80,62,80,62,48"/>
+</map>

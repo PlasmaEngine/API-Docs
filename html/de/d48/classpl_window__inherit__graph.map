@@ -1,0 +1,9 @@
+<map id="plWindow" name="plWindow">
+<area shape="rect" id="Node000001" title="A simple abstraction for platform specific window creation." alt="" coords="129,80,206,107"/>
+<area shape="rect" id="Node000003" href="$d7/d23/classpl_game_state_window.htm" title="A window class that expands a little on plWindow. Default type used by plGameState to create a window..." alt="" coords="5,155,149,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,119,94,156,91,152,139,114"/>
+<area shape="rect" id="Node000004" href="$d4/da7/classpl_remote_process_window.htm" title=" " alt="" coords="173,155,344,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,114,244,152,241,156,193,119"/>
+<area shape="rect" id="Node000002" href="$d8/d8b/classpl_window_base.htm" title="Base class of all window classes that have a client area and a native window handle." alt="" coords="114,5,221,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,48,170,80,165,80,165,48"/>
+</map>

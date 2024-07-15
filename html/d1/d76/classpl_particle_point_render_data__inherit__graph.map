@@ -1,0 +1,9 @@
+<map id="plParticlePointRenderData" name="plParticlePointRenderData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,179,256"/>
+<area shape="rect" id="Node000002" href="$df/df1/classpl_render_data.htm" title="Base class for all render data. Render data must contain all information that is needed to render the..." alt="" coords="42,155,142,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,197,95,229,89,229,89,197"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="33,80,151,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,122,95,154,89,154,89,122"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="53,5,131,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,48,95,80,89,80,89,48"/>
+</map>

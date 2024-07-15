@@ -1,0 +1,11 @@
+<map id="plMsgInputActionTriggered" name="plMsgInputActionTriggered">
+<area shape="rect" id="Node000001" title="plInputComponent raises this event when it detects input" alt="" coords="5,304,180,331"/>
+<area shape="rect" id="Node000002" href="$dd/da1/structpl_event_message.htm" title="Base class for all messages that are sent as &#39;events&#39;." alt="" coords="34,229,151,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,272,95,304,90,304,90,272"/>
+<area shape="rect" id="Node000003" href="$d0/dde/classpl_message.htm" title="Base class for all message types. Each message type has it&#39;s own id which is used to dispatch message..." alt="" coords="50,155,135,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,197,95,229,90,229,90,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="33,80,152,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,122,95,154,90,154,90,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="54,5,131,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="95,48,95,80,90,80,90,48"/>
+</map>

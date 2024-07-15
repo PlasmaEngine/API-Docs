@@ -1,0 +1,17 @@
+<map id="plInternal::plAllocatorImpl&lt; AllocationPolicy, TrackingMode &gt;" name="plInternal::plAllocatorImpl&lt; AllocationPolicy, TrackingMode &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,145,363,188"/>
+<area shape="rect" id="Node000003" href="$dc/df5/classpl_internal_1_1pl_allocator_mixin_reallocate.htm" title=" " alt="" coords="411,7,639,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,137,409,102,411,107,322,142"/>
+<area shape="rect" id="Node000007" href="$dc/df5/classpl_internal_1_1pl_allocator_mixin_reallocate.htm" title=" " alt="" coords="420,137,630,196"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="378,164,420,164,420,169,378,169"/>
+<area shape="rect" id="Node000008" href="$dd/dac/classpl_internal_1_1pl_allocator_mixin_reallocate_3_01_allocation_policy_00_01_tracking_mode_00_01true_01_4.htm" title=" " alt="" coords="430,220,621,279"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="338,190,430,218,428,223,337,196"/>
+<area shape="rect" id="Node000002" href="$da/df3/classpl_allocator.htm" title="Base class for all memory allocators." alt="" coords="5,153,88,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,164,135,164,135,169,103,169"/>
+<area shape="rect" id="Node000004" href="$d0/d29/classpl_allocator_with_policy.htm" title="Policy based allocator implementation of the plAllocator interface." alt="" coords="687,31,871,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="655,57,687,57,687,63,655,63"/>
+<area shape="rect" id="Node000005" href="$d5/d93/classpl_audio_middleware_allocator.htm" title="An allocator that uses the heap to allocate memory for use by the audio middleware...." alt="" coords="919,5,1112,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="886,42,918,38,919,43,886,48"/>
+<area shape="rect" id="Node000006" href="$da/d88/classpl_audio_system_allocator.htm" title="An allocator that uses the heap to allocate memory for use by the audio system itself...." alt="" coords="919,72,1112,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="886,72,919,77,918,82,886,78"/>
+</map>

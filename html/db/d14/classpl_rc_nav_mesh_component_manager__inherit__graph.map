@@ -1,0 +1,13 @@
+<map id="plRcNavMeshComponentManager" name="plRcNavMeshComponentManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,411,222,437"/>
+<area shape="rect" id="Node000002" href="$db/d70/classpl_component_manager.htm" title=" " alt="" coords="5,304,223,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,378,117,410,111,410,111,378"/>
+<area shape="rect" id="Node000003" href="$d2/db6/classpl_component_manager_base.htm" title="Base class for all component managers. Do not derive directly from this class, but derive from plComp..." alt="" coords="25,229,203,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,272,117,303,111,303,111,272"/>
+<area shape="rect" id="Node000004" href="$df/df2/classpl_world_module.htm" title=" " alt="" coords="60,155,168,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,197,117,229,111,229,111,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="55,80,173,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,122,117,154,111,154,111,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="75,5,153,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="117,48,117,80,111,80,111,48"/>
+</map>

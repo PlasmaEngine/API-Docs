@@ -1,0 +1,5 @@
+<map id="plAudioSystemSoundObstructionType" name="plAudioSystemSoundObstructionType">
+<area shape="rect" id="Node000001" title="The obstruction type applied to a sound. This affects the way that ray casting works for an audio sou..." alt="" coords="5,5,247,32"/>
+<area shape="rect" id="Node000002" href="$dd/d09/structpl_enum.htm" title=" " alt="" coords="25,80,227,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,48,129,80,123,80,123,48"/>
+</map>

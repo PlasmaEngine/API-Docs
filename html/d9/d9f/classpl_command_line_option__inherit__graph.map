@@ -1,0 +1,21 @@
+<map id="plCommandLineOption" name="plCommandLineOption">
+<area shape="rect" id="Node000001" title="plCommandLineOption (and derived types) are used to define options that the application supports." alt="" coords="384,132,536,159"/>
+<area shape="rect" id="Node000004" href="$d6/dbb/classpl_command_line_option_doc.htm" title="plCommandLineOptionDoc can be used to document a command line option whose logic might be more comple..." alt="" coords="584,132,760,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="551,143,584,143,584,148,551,148"/>
+<area shape="rect" id="Node000002" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="131,124,336,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,143,384,143,384,148,351,148"/>
+<area shape="rect" id="Node000003" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,132,83,159"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,143,130,143,130,148,98,148"/>
+<area shape="rect" id="Node000005" href="$d9/d86/classpl_command_line_option_bool.htm" title="This command line option exposes simple on/off switches." alt="" coords="812,5,990,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="697,119,746,79,806,42,836,30,838,35,809,46,749,84,701,123"/>
+<area shape="rect" id="Node000006" href="$d3/d3e/classpl_command_line_option_enum.htm" title="An &#39;enum&#39; option is a string option that only allows certain phrases (&#39;keys&#39;)." alt="" coords="808,56,994,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="721,123,807,92,845,81,847,86,809,97,722,128"/>
+<area shape="rect" id="Node000007" href="$d7/d9c/classpl_command_line_option_float.htm" title="This command line option exposes float values, optionally with a min/max range." alt="" coords="810,107,992,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="775,131,809,127,810,133,775,137"/>
+<area shape="rect" id="Node000008" href="$d5/d84/classpl_command_line_option_int.htm" title="This command line option exposes integer values, optionally with a min/max range." alt="" coords="818,157,984,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="775,154,817,159,817,164,775,159"/>
+<area shape="rect" id="Node000009" href="$dc/d95/classpl_command_line_option_path.htm" title="This command line option exposes absolute paths. If the user provides a relative path,..." alt="" coords="811,208,990,235"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="722,162,809,193,847,205,845,210,807,199,721,167"/>
+<area shape="rect" id="Node000010" href="$d6/d34/classpl_command_line_option_string.htm" title="This command line option exposes simple string values." alt="" coords="808,259,994,285"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="701,167,749,207,809,244,838,256,836,261,806,249,746,211,697,172"/>
+</map>

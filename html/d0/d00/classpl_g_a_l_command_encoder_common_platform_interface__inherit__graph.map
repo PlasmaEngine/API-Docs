@@ -1,0 +1,7 @@
+<map id="plGALCommandEncoderCommonPlatformInterface" name="plGALCommandEncoderCommonPlatformInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,5,347,48"/>
+<area shape="rect" id="Node000002" href="$d0/dcd/classpl_g_a_l_command_encoder_impl_d_x11.htm" title=" " alt="" coords="5,96,224,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,59,135,98,132,93,193,54"/>
+<area shape="rect" id="Node000003" href="$d3/d92/classpl_g_a_l_command_encoder_impl_vulkan.htm" title=" " alt="" coords="248,96,477,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,54,345,93,342,98,281,59"/>
+</map>

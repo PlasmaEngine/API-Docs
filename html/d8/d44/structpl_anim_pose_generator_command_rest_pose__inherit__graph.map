@@ -1,0 +1,5 @@
+<map id="plAnimPoseGeneratorCommandRestPose" name="plAnimPoseGeneratorCommandRestPose">
+<area shape="rect" id="Node000001" title="Returns the rest pose (also often called &#39;bind pose&#39;)." alt="" coords="5,80,213,123"/>
+<area shape="rect" id="Node000002" href="$d7/d46/structpl_anim_pose_generator_command.htm" title="Base class for all pose generator commands." alt="" coords="5,5,213,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,48,112,80,106,80,106,48"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="plGlobalLog" name="plGlobalLog">
+<area shape="rect" id="Node000001" title="This is the standard log system that plLog sends all messages to." alt="" coords="11,80,101,107"/>
+<area shape="rect" id="Node000002" href="$d5/d6c/classpl_log_interface.htm" title="Base class for all logging classes." alt="" coords="5,5,107,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,48,59,80,53,80,53,48"/>
+</map>

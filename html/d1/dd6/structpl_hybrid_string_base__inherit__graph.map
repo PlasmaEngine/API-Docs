@@ -1,0 +1,19 @@
+<map id="plHybridStringBase&lt; Size &gt;" name="plHybridStringBase&lt; Size &gt;">
+<area shape="rect" id="Node000001" title="A string class for storing and passing around strings." alt="" coords="398,156,530,199"/>
+<area shape="rect" id="Node000004" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="579,5,766,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="489,142,528,98,577,58,598,46,601,51,580,62,531,102,493,145"/>
+<area shape="rect" id="Node000005" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="578,72,767,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="525,147,577,124,607,113,609,118,579,129,527,152"/>
+<area shape="rect" id="Node000006" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="599,139,746,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="545,165,598,158,599,164,546,170"/>
+<area shape="rect" id="Node000007" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="602,189,743,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="546,185,602,191,602,197,545,190"/>
+<area shape="rect" id="Node000008" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="602,240,743,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="524,203,579,225,616,237,614,242,577,231,522,208"/>
+<area shape="rect" id="Node000009" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="600,291,745,333"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="497,208,535,243,580,276,602,288,600,292,577,281,531,247,493,212"/>
+<area shape="rect" id="Node000002" href="$de/d73/structpl_string_base.htm" title=" " alt="" coords="162,156,350,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,175,398,175,398,180,365,180"/>
+<area shape="rect" id="Node000003" href="$da/d54/structpl_this_is_a_string.htm" title="Base class which marks a class as containing string data." alt="" coords="5,164,114,191"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,175,161,175,161,180,129,180"/>
+</map>

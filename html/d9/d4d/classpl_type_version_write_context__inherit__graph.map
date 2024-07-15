@@ -1,0 +1,5 @@
+<map id="plTypeVersionWriteContext" name="plTypeVersionWriteContext">
+<area shape="rect" id="Node000001" title="This class allows for writing type versions to a stream in a centralized place so that each object do..." alt="" coords="17,96,197,123"/>
+<area shape="rect" id="Node000002" href="$d4/d86/classpl_serialization_context.htm" title=" " alt="" coords="5,5,209,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,64,110,95,104,95,104,64"/>
+</map>

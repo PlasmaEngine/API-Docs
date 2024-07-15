@@ -1,0 +1,15 @@
+<map id="plXRInputDevice" name="plXRInputDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,320,200,347"/>
+<area shape="rect" id="Node000006" href="$d7/d2f/classpl_dummy_x_r_input.htm" title=" " alt="" coords="5,395,126,421"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="120,359,81,396,77,392,116,356"/>
+<area shape="rect" id="Node000007" href="$dc/dd5/classpl_open_x_r_input_device.htm" title=" " alt="" coords="149,395,294,421"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="170,356,210,392,206,396,166,360"/>
+<area shape="rect" id="Node000002" href="$d8/d58/classpl_input_device.htm" title="The base class for all input device types." alt="" coords="94,245,192,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,288,146,320,140,320,140,288"/>
+<area shape="rect" id="Node000003" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="47,155,239,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,213,146,245,140,245,140,213"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="84,80,202,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="146,122,146,154,140,154,140,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="104,5,182,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="146,48,146,80,140,80,140,48"/>
+</map>

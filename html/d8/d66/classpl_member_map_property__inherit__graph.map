@@ -1,0 +1,9 @@
+<map id="plMemberMapProperty&lt; Class, Container, Type &gt;" name="plMemberMapProperty&lt; Class, Container, Type &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,261,180,320"/>
+<area shape="rect" id="Node000002" href="$d5/dd2/classpl_typed_map_property.htm" title=" " alt="" coords="5,155,202,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,229,106,261,101,261,101,229"/>
+<area shape="rect" id="Node000003" href="$d1/dfe/classpl_abstract_map_property.htm" title="The base class for a property that represents a set of values." alt="" coords="26,80,181,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,123,106,154,101,154,101,123"/>
+<area shape="rect" id="Node000004" href="$d4/dd7/classpl_abstract_property.htm" title="This is the base interface for all properties in the reflection system. It provides enough informatio..." alt="" coords="39,5,168,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,48,106,80,101,80,101,48"/>
+</map>

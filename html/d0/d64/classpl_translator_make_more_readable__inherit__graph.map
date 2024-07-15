@@ -1,0 +1,7 @@
+<map id="plTranslatorMakeMoreReadable" name="plTranslatorMakeMoreReadable">
+<area shape="rect" id="Node000001" title="Returns the same string that is passed into it, but strips off class names and separates the text at ..." alt="" coords="5,155,209,181"/>
+<area shape="rect" id="Node000002" href="$d8/dbe/classpl_translator_storage.htm" title="Can store translated strings and all translation requests will come from that storage...." alt="" coords="40,80,174,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,122,110,154,104,154,104,122"/>
+<area shape="rect" id="Node000003" href="$db/db5/classpl_translator.htm" title="Base class to translate one string into another." alt="" coords="63,5,151,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,48,110,80,104,80,104,48"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="plMeshComponentBase" name="plMeshComponentBase">
+<area shape="rect" id="Node000001" title="Base class for components that render static or animated meshes." alt="" coords="227,304,386,331"/>
+<area shape="rect" id="Node000006" href="$d4/d35/classpl_animated_mesh_component.htm" title="Instantiates a mesh that can be animated through skeletal animation." alt="" coords="5,379,190,405"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="257,339,135,381,133,376,255,334"/>
+<area shape="rect" id="Node000007" href="$de/dfa/classpl_instanced_mesh_component.htm" title="Renders multiple instances of the same mesh." alt="" coords="214,379,400,405"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="310,346,310,378,304,378,304,346"/>
+<area shape="rect" id="Node000008" href="$de/d75/classpl_mesh_component.htm" title="Renders a single instance of a static mesh." alt="" coords="424,379,553,405"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="353,334,457,376,455,381,352,339"/>
+<area shape="rect" id="Node000002" href="$d4/d24/classpl_render_component.htm" title="Base class for objects that should be rendered." alt="" coords="238,229,376,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,272,310,304,304,304,304,272"/>
+<area shape="rect" id="Node000003" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="258,155,356,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,197,310,229,304,229,304,197"/>
+<area shape="rect" id="Node000004" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="248,80,366,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="310,122,310,154,304,154,304,122"/>
+<area shape="rect" id="Node000005" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="268,5,346,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="310,48,310,80,304,80,304,48"/>
+<area shape="rect" id="Node000009" href="$de/d49/classpl_gizmo_component.htm" title="Used by the editor to render gizmo meshes." alt="" coords="326,453,461,480"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="461,417,411,455,408,451,458,413"/>
+<area shape="rect" id="Node000010" href="$d1/dab/classpl_proc_vertex_color_component.htm" title=" " alt="" coords="485,453,678,480"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="518,413,567,451,564,455,515,417"/>
+</map>

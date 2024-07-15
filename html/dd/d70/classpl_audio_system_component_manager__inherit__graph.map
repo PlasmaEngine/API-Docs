@@ -1,0 +1,13 @@
+<map id="plAudioSystemComponentManager&lt; T &gt;" name="plAudioSystemComponentManager&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Base class for audio system component manager which need to update their states (eg...." alt="" coords="5,411,262,437"/>
+<area shape="rect" id="Node000002" href="$db/d70/classpl_component_manager.htm" title=" " alt="" coords="51,304,216,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,378,136,410,131,410,131,378"/>
+<area shape="rect" id="Node000003" href="$d2/db6/classpl_component_manager_base.htm" title="Base class for all component managers. Do not derive directly from this class, but derive from plComp..." alt="" coords="45,229,222,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,272,136,303,131,303,131,272"/>
+<area shape="rect" id="Node000004" href="$df/df2/classpl_world_module.htm" title=" " alt="" coords="80,155,187,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="136,197,136,229,131,229,131,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="74,80,193,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="136,122,136,154,131,154,131,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="95,5,172,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="136,48,136,80,131,80,131,48"/>
+</map>

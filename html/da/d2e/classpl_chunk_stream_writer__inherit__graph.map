@@ -1,0 +1,5 @@
+<map id="plChunkStreamWriter" name="plChunkStreamWriter">
+<area shape="rect" id="Node000001" title="A stream writer that separates data into &#39;chunks&#39;, which act like sub&#45;streams." alt="" coords="5,80,151,107"/>
+<area shape="rect" id="Node000002" href="$d6/d90/classpl_stream_writer.htm" title="Interface for binary out (write) streams." alt="" coords="24,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,48,81,80,75,80,75,48"/>
+</map>

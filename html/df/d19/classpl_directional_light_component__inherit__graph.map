@@ -1,0 +1,13 @@
+<map id="plDirectionalLightComponent" name="plDirectionalLightComponent">
+<area shape="rect" id="Node000001" title="A directional lightsource shines light into one fixed direction and has infinite size...." alt="" coords="5,379,192,405"/>
+<area shape="rect" id="Node000002" href="$da/d5b/classpl_light_component.htm" title="Base class for dynamic light components." alt="" coords="36,304,161,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,346,101,378,96,378,96,346"/>
+<area shape="rect" id="Node000003" href="$d4/d24/classpl_render_component.htm" title="Base class for objects that should be rendered." alt="" coords="29,229,168,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,272,101,304,96,304,96,272"/>
+<area shape="rect" id="Node000004" href="$d1/d81/classpl_component.htm" title="Base class of all component types." alt="" coords="50,155,147,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="101,197,101,229,96,229,96,197"/>
+<area shape="rect" id="Node000005" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="39,80,158,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="101,122,101,154,96,154,96,122"/>
+<area shape="rect" id="Node000006" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="60,5,137,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="101,48,101,80,96,80,96,48"/>
+</map>

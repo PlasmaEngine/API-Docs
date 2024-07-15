@@ -1,0 +1,5 @@
+<map id="plAudioSystemRequestSetEnvironmentAmount" name="plAudioSystemRequestSetEnvironmentAmount">
+<area shape="rect" id="Node000001" title="Audio request to set the current amount of an environment on the specified entity." alt="" coords="5,80,254,123"/>
+<area shape="rect" id="Node000002" href="$d4/de5/structpl_audio_system_request.htm" title="Base class for all audio system requests." alt="" coords="51,5,208,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,48,132,80,127,80,127,48"/>
+</map>

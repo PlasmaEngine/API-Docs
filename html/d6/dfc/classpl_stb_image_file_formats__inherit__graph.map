@@ -1,0 +1,9 @@
+<map id="plStbImageFileFormats" name="plStbImageFileFormats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,245,172,272"/>
+<area shape="rect" id="Node000002" href="$df/dd6/classpl_image_file_format.htm" title=" " alt="" coords="30,171,159,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,213,97,245,92,245,92,213"/>
+<area shape="rect" id="Node000003" href="$db/d85/classpl_enumerable.htm" title=" " alt="" coords="5,80,184,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,139,97,170,92,170,92,139"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="56,5,133,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,48,97,80,92,80,92,48"/>
+</map>

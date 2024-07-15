@@ -1,0 +1,13 @@
+<map id="plGALBufferDX11" name="plGALBufferDX11">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,395,162,421"/>
+<area shape="rect" id="Node000002" href="$df/d14/classpl_g_a_l_buffer.htm" title=" " alt="" coords="57,320,147,347"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,362,105,394,99,394,99,362"/>
+<area shape="rect" id="Node000003" href="$da/d33/classpl_g_a_l_resource.htm" title=" " alt="" coords="5,229,199,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,288,105,319,99,319,99,288"/>
+<area shape="rect" id="Node000004" href="$d5/d2f/classpl_g_a_l_resource_base.htm" title=" " alt="" coords="31,155,173,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,197,105,229,99,229,99,197"/>
+<area shape="rect" id="Node000005" href="$d2/df5/classpl_ref_counted.htm" title="Base class for reference counted objects." alt="" coords="53,80,151,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,122,105,154,99,154,99,122"/>
+<area shape="rect" id="Node000006" href="$de/da6/classpl_ref_counting_impl.htm" title=" " alt="" coords="39,5,165,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="105,48,105,80,99,80,99,48"/>
+</map>

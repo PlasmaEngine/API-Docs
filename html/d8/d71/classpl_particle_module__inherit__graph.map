@@ -1,0 +1,79 @@
+<map id="plParticleModule" name="plParticleModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="542,900,660,927"/>
+<area shape="rect" id="Node000005" href="$d6/d47/classpl_particle_behavior.htm" title=" " alt="" coords="709,313,833,340"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="608,884,763,339,768,341,613,886"/>
+<area shape="rect" id="Node000015" href="$da/d8a/classpl_particle_emitter.htm" title="Base class for stream spawners that are used by plParticleEmitter&#39;s." alt="" coords="712,707,830,733"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="622,886,756,732,760,736,626,890"/>
+<area shape="rect" id="Node000020" href="$d8/d8f/classpl_particle_finalizer.htm" title=" " alt="" coords="709,900,833,927"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="676,911,708,911,708,916,676,916"/>
+<area shape="rect" id="Node000025" href="$dc/dba/classpl_particle_initializer.htm" title="Base class for stream spawners that are used by plParticleEmitter&#39;s." alt="" coords="708,1233,834,1260"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="618,939,765,1232,760,1234,614,942"/>
+<area shape="rect" id="Node000033" href="$db/dcf/classpl_particle_type.htm" title=" " alt="" coords="719,1627,822,1653"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="612,941,769,1626,764,1627,606,943"/>
+<area shape="rect" id="Node000002" href="$d9/d4a/classpl_processing_stream_processor.htm" title="Base class for all stream processor implementations." alt="" coords="297,900,494,927"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,911,542,911,542,916,510,916"/>
+<area shape="rect" id="Node000003" href="$d4/d91/classpl_reflected_class.htm" title="All classes that should be dynamically reflectable, need to be derived from this base class." alt="" coords="131,900,249,927"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,911,297,911,297,916,265,916"/>
+<area shape="rect" id="Node000004" href="$de/dc4/classpl_no_base.htm" title="Dummy type to pass to templates and macros that expect a base type for a class that has no base." alt="" coords="5,900,83,927"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,911,130,911,130,916,99,916"/>
+<area shape="rect" id="Node000006" href="$de/dba/classpl_particle_behavior___bounds.htm" title=" " alt="" coords="914,5,1039,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="774,297,784,247,804,183,835,116,856,85,880,58,912,38,915,43,884,62,860,89,840,119,809,185,789,248,779,299"/>
+<area shape="rect" id="Node000007" href="$d4/da4/classpl_particle_behavior___color_gradient.htm" title=" " alt="" coords="914,72,1039,115"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="778,297,792,259,814,213,843,166,880,125,913,106,915,110,884,129,847,169,818,215,797,261,783,299"/>
+<area shape="rect" id="Node000008" href="$db/dda/classpl_particle_behavior___fade_out.htm" title=" " alt="" coords="914,139,1039,181"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="786,298,825,244,851,216,881,191,913,174,915,179,883,196,855,220,829,248,790,301"/>
+<area shape="rect" id="Node000009" href="$d7/d67/classpl_particle_behavior___flies.htm" title=" " alt="" coords="914,205,1039,248"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="803,302,881,258,913,244,915,249,883,262,806,307"/>
+<area shape="rect" id="Node000010" href="$db/d9e/classpl_particle_behavior___gravity.htm" title=" " alt="" coords="914,272,1039,315"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="847,312,914,301,915,306,848,317"/>
+<area shape="rect" id="Node000011" href="$de/d07/classpl_particle_behavior___pull_along.htm" title=" " alt="" coords="914,339,1039,381"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="848,336,915,347,914,353,847,342"/>
+<area shape="rect" id="Node000012" href="$db/d72/classpl_particle_behavior___raycast.htm" title=" " alt="" coords="914,405,1039,448"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="806,346,883,391,915,404,913,409,881,396,803,351"/>
+<area shape="rect" id="Node000013" href="$d4/def/classpl_particle_behavior___size_curve.htm" title=" " alt="" coords="914,472,1039,515"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="790,352,829,406,855,434,883,458,915,475,913,479,881,462,851,437,825,409,786,355"/>
+<area shape="rect" id="Node000014" href="$da/db1/classpl_particle_behavior___velocity.htm" title=" " alt="" coords="914,539,1039,581"/>
+<area shape="poly" id="edge13_Node000005_Node000014" title=" " alt="" coords="783,354,797,392,818,438,847,484,884,525,915,543,913,548,880,529,843,488,814,441,792,394,778,356"/>
+<area shape="rect" id="Node000016" href="$d2/d96/classpl_particle_emitter___burst.htm" title=" " alt="" coords="899,605,1054,632"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="799,694,836,667,881,642,912,630,913,635,883,646,839,671,802,699"/>
+<area shape="rect" id="Node000017" href="$d8/dc7/classpl_particle_emitter___continuous.htm" title=" " alt="" coords="882,656,1071,683"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="842,700,919,681,920,686,844,705"/>
+<area shape="rect" id="Node000018" href="$d8/db9/classpl_particle_emitter___distance.htm" title=" " alt="" coords="889,707,1064,733"/>
+<area shape="poly" id="edge17_Node000015_Node000018" title=" " alt="" coords="845,717,889,717,889,723,845,723"/>
+<area shape="rect" id="Node000019" href="$db/d02/classpl_particle_emitter___on_event.htm" title=" " alt="" coords="890,757,1063,784"/>
+<area shape="poly" id="edge18_Node000015_Node000019" title=" " alt="" coords="844,735,920,754,919,759,842,740"/>
+<area shape="rect" id="Node000021" href="$d5/d39/classpl_particle_finalizer___age.htm" title=" " alt="" coords="900,808,1054,835"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="802,889,839,866,881,844,913,833,915,838,883,849,841,870,805,893"/>
+<area shape="rect" id="Node000022" href="$dc/d01/classpl_particle_finalizer___apply_velocity.htm" title=" " alt="" coords="914,859,1039,901"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="847,898,914,887,915,893,848,904"/>
+<area shape="rect" id="Node000023" href="$de/df5/classpl_particle_finalizer___last_position.htm" title=" " alt="" coords="914,925,1039,968"/>
+<area shape="poly" id="edge22_Node000020_Node000023" title=" " alt="" coords="848,923,915,934,914,939,847,928"/>
+<area shape="rect" id="Node000024" href="$d9/d00/classpl_particle_finalizer___volume.htm" title=" " alt="" coords="914,992,1039,1035"/>
+<area shape="poly" id="edge23_Node000020_Node000024" title=" " alt="" coords="806,933,883,978,915,991,913,996,881,982,803,938"/>
+<area shape="rect" id="Node000026" href="$d2/df3/classpl_particle_initializer___box_position.htm" title=" " alt="" coords="914,1059,1040,1101"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="786,1218,825,1164,851,1136,881,1111,912,1094,915,1099,883,1116,855,1140,829,1168,790,1221"/>
+<area shape="rect" id="Node000027" href="$d5/d33/classpl_particle_initializer___cylinder_position.htm" title=" " alt="" coords="914,1125,1040,1168"/>
+<area shape="poly" id="edge26_Node000025_Node000027" title=" " alt="" coords="803,1222,881,1178,912,1165,914,1169,883,1182,806,1227"/>
+<area shape="rect" id="Node000028" href="$dc/d0e/classpl_particle_initializer___random_color.htm" title=" " alt="" coords="914,1192,1040,1235"/>
+<area shape="poly" id="edge27_Node000025_Node000028" title=" " alt="" coords="849,1231,913,1221,913,1226,850,1237"/>
+<area shape="rect" id="Node000029" href="$d6/d6a/classpl_particle_initializer___random_rotation_speed.htm" title=" " alt="" coords="896,1259,1057,1301"/>
+<area shape="poly" id="edge28_Node000025_Node000029" title=" " alt="" coords="850,1257,896,1264,895,1270,849,1262"/>
+<area shape="rect" id="Node000030" href="$da/d4e/classpl_particle_initializer___random_size.htm" title=" " alt="" coords="914,1325,1040,1368"/>
+<area shape="poly" id="edge29_Node000025_Node000030" title=" " alt="" coords="806,1266,883,1311,914,1324,912,1329,881,1316,803,1271"/>
+<area shape="rect" id="Node000031" href="$d3/dd3/classpl_particle_initializer___sphere_position.htm" title=" " alt="" coords="914,1392,1040,1435"/>
+<area shape="poly" id="edge30_Node000025_Node000031" title=" " alt="" coords="790,1272,829,1326,855,1354,883,1378,915,1394,912,1399,881,1382,851,1357,825,1329,786,1275"/>
+<area shape="rect" id="Node000032" href="$db/d37/classpl_particle_initializer___velocity_cone.htm" title=" " alt="" coords="914,1459,1040,1501"/>
+<area shape="poly" id="edge31_Node000025_Node000032" title=" " alt="" coords="783,1274,797,1312,818,1358,847,1404,884,1445,915,1463,912,1467,880,1449,843,1408,814,1361,792,1314,778,1276"/>
+<area shape="rect" id="Node000034" href="$de/df2/classpl_particle_type_effect.htm" title=" " alt="" coords="908,1525,1045,1552"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="799,1614,836,1587,881,1562,912,1550,913,1555,883,1566,839,1591,802,1619"/>
+<area shape="rect" id="Node000035" href="$d4/d8f/classpl_particle_type_light.htm" title=" " alt="" coords="911,1576,1042,1603"/>
+<area shape="poly" id="edge34_Node000033_Node000035" title=" " alt="" coords="837,1621,919,1601,920,1606,838,1626"/>
+<area shape="rect" id="Node000036" href="$d7/d7e/classpl_particle_type_mesh.htm" title=" " alt="" coords="909,1627,1044,1653"/>
+<area shape="poly" id="edge35_Node000033_Node000036" title=" " alt="" coords="838,1637,908,1637,908,1643,838,1643"/>
+<area shape="rect" id="Node000037" href="$d0/d5f/classpl_particle_type_point.htm" title=" " alt="" coords="910,1677,1043,1704"/>
+<area shape="poly" id="edge36_Node000033_Node000037" title=" " alt="" coords="838,1654,920,1674,919,1679,837,1659"/>
+<area shape="rect" id="Node000038" href="$d1/dbd/classpl_particle_type_quad.htm" title=" " alt="" coords="910,1728,1044,1755"/>
+<area shape="poly" id="edge37_Node000033_Node000038" title=" " alt="" coords="802,1661,839,1689,883,1714,913,1725,912,1730,881,1718,836,1693,799,1666"/>
+<area shape="rect" id="Node000039" href="$dd/db3/classpl_particle_type_trail.htm" title=" " alt="" coords="913,1779,1040,1805"/>
+<area shape="poly" id="edge38_Node000033_Node000039" title=" " alt="" coords="790,1665,829,1716,855,1742,883,1764,914,1778,911,1783,881,1769,851,1746,825,1720,786,1668"/>
+</map>

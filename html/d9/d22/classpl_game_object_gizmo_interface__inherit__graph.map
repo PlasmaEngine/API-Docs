@@ -1,0 +1,11 @@
+<map id="plGameObjectGizmoInterface" name="plGameObjectGizmoInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="138,5,330,32"/>
+<area shape="rect" id="Node000002" href="$dc/d19/classpl_qt_property_anim_asset_document_window.htm" title=" " alt="" coords="5,80,223,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,43,146,82,143,77,201,39"/>
+<area shape="rect" id="Node000003" href="$d7/dd5/classpl_qt_scene_document_window_base.htm" title=" " alt="" coords="247,88,464,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,38,338,85,335,90,264,43"/>
+<area shape="rect" id="Node000004" href="$d0/dd6/classpl_qt_scene2_document_window.htm" title=" " alt="" coords="150,171,344,197"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="328,126,266,172,263,168,325,122"/>
+<area shape="rect" id="Node000005" href="$dd/d4a/classpl_qt_scene_document_window.htm" title=" " alt="" coords="368,171,556,197"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="386,122,447,168,444,172,382,126"/>
+</map>
