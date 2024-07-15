@@ -1,7 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,115,57"/>
-<area shape="rect" id="Node000001" href="$dc/ddc/classpl_qt_searchable_menu.htm" title="Implements an item for insertion into a QMenu that shows a search bar and a hierarchical list of opti..." alt="" coords="170,5,312,32"/>
-<area shape="poly" id="edge4248_Node000000_Node000001" title=" " alt="" coords="130,32,169,26,170,31,131,37"/>
-<area shape="rect" id="Node000002" href="$d9/d65/classpl_qt_slider_widget_action.htm" title=" " alt="" coords="163,56,319,83"/>
-<area shape="poly" id="edge4249_Node000000_Node000002" title=" " alt="" coords="131,51,162,56,162,61,130,56"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,5,103,32"/>
+<area shape="rect" id="Node000001" href="$d4/d1a/classpl_rml_ui_context.htm" title=" " alt="" coords="151,5,262,32"/>
+<area shape="poly" id="edge4250_Node000000_Node000001" title=" " alt="" coords="118,16,150,16,150,21,118,21"/>
 </map>

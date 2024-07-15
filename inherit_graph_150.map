@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d7/d1f/structpl_arg_f.htm" title=" " alt="" coords="5,5,65,32"/>
+<area shape="rect" id="Node000000" href="$df/daf/structpl_arg_human_readable.htm" title="Formats a given number such that it will be in format [0, base){suffix} with suffix representing a po..." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="Node000001" href="$df/dca/structpl_arg_file_size.htm" title=" " alt="" coords="200,5,298,32"/>
+<area shape="poly" id="edge167_Node000000_Node000001" title=" " alt="" coords="167,16,199,16,199,21,167,21"/>
 </map>

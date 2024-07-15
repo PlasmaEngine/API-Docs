@@ -1,7 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d8/d3d/classpl_window_output_target_base.htm" title="Base class for window output targets." alt="" coords="5,31,188,57"/>
-<area shape="rect" id="Node000001" href="$d5/d9d/classpl_window_output_target_g_a_l.htm" title="Creates a swapchain and keeps it up to date with the window." alt="" coords="236,5,414,32"/>
-<area shape="poly" id="edge3999_Node000000_Node000001" title=" " alt="" coords="203,30,235,26,235,31,204,35"/>
-<area shape="rect" id="Node000002" href="$da/d58/classpl_window_output_target_x_r.htm" title="XR Window output target base implementation. Optionally wraps a companion window output target." alt="" coords="241,56,409,83"/>
-<area shape="poly" id="edge4000_Node000000_Node000002" title=" " alt="" coords="204,53,241,57,240,63,203,58"/>
+<area shape="rect" id="Node000000" href="$de/d6b/structpl_wind_strength.htm" title="Defines the strength / speed of wind. Inspired by the Beaufort Scale." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="Node000001" href="$dd/d09/structpl_enum.htm" title=" " alt="" coords="164,5,342,32"/>
+<area shape="poly" id="edge4001_Node000000_Node000001" title=" " alt="" coords="131,16,163,16,163,21,131,21"/>
 </map>

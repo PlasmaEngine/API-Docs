@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.11.0"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>plEngine: Code/Engine/RendererCore/Rasterizer/RasterizerObject.h Source File</title>
+<title>Plasma Engine: Code/Engine/RendererCore/Rasterizer/RasterizerObject.h Source File</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -21,8 +21,6 @@
 <link href="../../doxygen.css" rel="stylesheet" type="text/css" />
 <link href="../../doxygen-awesome.css" rel="stylesheet" type="text/css"/>
 <link href="../../custom.css" rel="stylesheet" type="text/css"/>
-<link href="../../doxygen-awesome-sidebar-only.css" rel="stylesheet" type="text/css"/>
-<link href="../../doxygen-awesome-sidebar-only-darkmode-toggle.css" rel="stylesheet" type="text/css"/>
 <link href="../../custom-alternative.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
@@ -33,7 +31,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="../../pl-logo-64.png"/></td>
   <td id="projectalign">
-   <div id="projectname">plEngine<span id="projectnumber">&#160;Release 2.0</span>
+   <div id="projectname">Plasma Engine<span id="projectnumber">&#160;2.0</span>
    </div>
   </td>
  </tr>
@@ -135,7 +133,7 @@ $(function(){initNavTree('d4/d5f/_rasterizer_object_8h_source.htm','../../'); in
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>  <span class="keywordtype">void</span> CreateMesh(<span class="keyword">const</span> <a class="code hl_class" href="../../d6/dbc/classpl_geometry.htm">plGeometry</a>&amp; geometry);</div>
 <div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span> </div>
 <div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>  <span class="keyword">friend</span> <span class="keyword">class </span><a class="code hl_class" href="../../d7/d80/classpl_rasterizer_view.htm">plRasterizerView</a>;</div>
-<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>  <a class="code hl_struct" href="../../d5/d6f/struct_occluder.htm">Occluder</a> m_Occluder;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>  Occluder m_Occluder;</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span> </div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>  <span class="keyword">static</span> <a class="code hl_class" href="../../d1/df4/classpl_mutex.htm">plMutex</a> s_Mutex;</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>  <span class="keyword">static</span> <a class="code hl_class" href="../../d9/d50/classpl_map.htm">plMap&lt;plString, plSharedPtr&lt;plRasterizerObject&gt;</a>&gt; s_Objects;</div>
@@ -150,7 +148,6 @@ $(function(){initNavTree('d4/d5f/_rasterizer_object_8h_source.htm','../../'); in
 <div class="ttc" id="aclasspl_shared_ptr_htm"><div class="ttname"><a href="../../d6/d8f/classpl_shared_ptr.htm">plSharedPtr</a></div><div class="ttdoc">A Shared ptr manages a shared object and destroys that object when no one references it anymore....</div><div class="ttdef"><b>Definition</b> SharedPtr.h:10</div></div>
 <div class="ttc" id="aclasspl_string_view_htm"><div class="ttname"><a href="../../d6/d79/classpl_string_view.htm">plStringView</a></div><div class="ttdoc">plStringView represent a read-only sub-string of a larger string, as it can store a dedicated string ...</div><div class="ttdef"><b>Definition</b> StringView.h:34</div></div>
 <div class="ttc" id="aclasspl_vec3_template_htm"><div class="ttname"><a href="../../df/d1f/classpl_vec3_template.htm">plVec3Template&lt; float &gt;</a></div></div>
-<div class="ttc" id="astruct_occluder_htm"><div class="ttname"><a href="../../d5/d6f/struct_occluder.htm">Occluder</a></div><div class="ttdef"><b>Definition</b> Occluder.h:36</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

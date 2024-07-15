@@ -1,3 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$dd/d49/structpl_generic_id.htm" title=" " alt="" coords="5,5,152,32"/>
+<area shape="rect" id="Node000000" href="$dd/d49/structpl_generic_id.htm" title=" " alt="" coords="5,56,145,83"/>
+<area shape="rect" id="Node000001" href="$de/d52/structpl_rml_ui_internal_1_1_file_id.htm" title=" " alt="" coords="211,5,358,32"/>
+<area shape="poly" id="edge3308_Node000000_Node000001" title=" " alt="" coords="147,49,226,30,227,35,149,54"/>
+<area shape="rect" id="Node000002" href="$d0/dc4/structpl_rml_ui_internal_1_1_geometry_id.htm" title=" " alt="" coords="193,56,376,83"/>
+<area shape="poly" id="edge3309_Node000000_Node000002" title=" " alt="" coords="160,67,192,67,192,72,160,72"/>
+<area shape="rect" id="Node000003" href="$df/dcd/structpl_rml_ui_internal_1_1_texture_id.htm" title=" " alt="" coords="200,107,369,133"/>
+<area shape="poly" id="edge3310_Node000000_Node000003" title=" " alt="" coords="149,84,227,103,226,109,147,89"/>
 </map>

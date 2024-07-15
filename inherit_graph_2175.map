@@ -1,3 +1,15 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$da/d3c/structpl_null_allocator_wrapper.htm" title=" " alt="" coords="5,5,159,32"/>
+<area shape="rect" id="Node000000" href="$d6/d5a/classpl_object_accessor_base.htm" title=" " alt="" coords="5,60,160,87"/>
+<area shape="rect" id="Node000001" href="$d4/dd1/classpl_object_direct_accessor.htm" title=" " alt="" coords="208,33,366,60"/>
+<area shape="poly" id="edge3759_Node000000_Node000001" title=" " alt="" coords="175,59,207,54,207,60,175,64"/>
+<area shape="rect" id="Node000005" href="$df/d70/classpl_object_proxy_accessor.htm" title=" " alt="" coords="208,85,366,112"/>
+<area shape="poly" id="edge3763_Node000000_Node000005" title=" " alt="" coords="175,82,207,86,207,91,175,87"/>
+<area shape="rect" id="Node000002" href="$db/db3/classpl_object_command_accessor.htm" title=" " alt="" coords="423,31,606,57"/>
+<area shape="poly" id="edge3760_Node000001_Node000002" title=" " alt="" coords="381,43,423,42,423,48,381,48"/>
+<area shape="rect" id="Node000003" href="$dc/da4/classpl_node_command_accessor.htm" title=" " alt="" coords="677,5,853,32"/>
+<area shape="poly" id="edge3761_Node000002_Node000003" title=" " alt="" coords="622,30,677,25,677,30,622,36"/>
+<area shape="rect" id="Node000004" href="$d6/d14/classpl_property_anim_object_accessor.htm" title=" " alt="" coords="663,56,867,83"/>
+<area shape="poly" id="edge3762_Node000002_Node000004" title=" " alt="" coords="622,52,663,56,663,62,622,57"/>
+<area shape="rect" id="Node000006" href="$db/d9f/classpl_exposed_parameter_command_accessor.htm" title=" " alt="" coords="414,81,615,124"/>
+<area shape="poly" id="edge3764_Node000005_Node000006" title=" " alt="" coords="382,98,414,98,413,104,382,103"/>
 </map>

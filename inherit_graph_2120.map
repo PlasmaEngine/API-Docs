@@ -1,13 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d7/d28/classpl_memory_stream_storage_interface.htm" title="Instances of this class act as storage for memory streams." alt="" coords="5,101,220,128"/>
-<area shape="rect" id="Node000001" href="$d1/dac/classpl_memory_stream_container_storage.htm" title=" " alt="" coords="270,5,490,48"/>
-<area shape="poly" id="edge3732_Node000000_Node000001" title=" " alt="" coords="164,93,267,57,303,46,305,51,269,63,166,98"/>
-<area shape="rect" id="Node000003" href="$db/dc4/classpl_default_memory_stream_storage.htm" title="The default implementation for memory stream storage." alt="" coords="277,72,482,99"/>
-<area shape="poly" id="edge3734_Node000000_Node000003" title=" " alt="" coords="235,99,276,94,277,99,235,104"/>
-<area shape="rect" id="Node000004" href="$d1/dac/classpl_memory_stream_container_storage.htm" title="Templated implementation of plMemoryStreamStorageInterface that adapts most standard pl containers to..." alt="" coords="270,123,490,165"/>
-<area shape="poly" id="edge3735_Node000000_Node000004" title=" " alt="" coords="235,125,270,129,269,135,235,131"/>
-<area shape="rect" id="Node000005" href="$db/dea/classpl_memory_stream_container_wrapper_storage.htm" title="Wrapper around an existing container to implement plMemoryStreamStorageInterface." alt="" coords="268,189,492,232"/>
-<area shape="poly" id="edge3736_Node000000_Node000005" title=" " alt="" coords="160,132,269,175,303,186,302,191,267,180,158,137"/>
-<area shape="rect" id="Node000002" href="$d2/d69/classpl_contiguous_memory_stream_storage.htm" title=" " alt="" coords="540,5,725,48"/>
-<area shape="poly" id="edge3733_Node000001_Node000002" title=" " alt="" coords="506,24,539,24,539,29,506,29"/>
+<area shape="rect" id="Node000000" href="$d8/de9/classpl_memory_tracker.htm" title="Memory tracker which keeps track of all allocations and constructions." alt="" coords="5,5,127,32"/>
 </map>
