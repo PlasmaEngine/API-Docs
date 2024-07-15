@@ -1,5 +1,21 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d6/d04/structpl_expression_a_s_t_1_1_data_type.htm" title=" " alt="" coords="5,13,190,40"/>
-<area shape="rect" id="Node000001" href="$dd/d09/structpl_enum.htm" title=" " alt="" coords="238,5,415,48"/>
-<area shape="poly" id="edge1881_Node000000_Node000001" title=" " alt="" coords="205,24,237,24,237,29,205,29"/>
+<area shape="rect" id="Node000000" href="$d0/dcb/structpl_expression_a_s_t_1_1_node.htm" title=" " alt="" coords="5,208,165,235"/>
+<area shape="rect" id="Node000001" href="$da/d46/structpl_expression_a_s_t_1_1_binary_operator.htm" title=" " alt="" coords="214,5,430,32"/>
+<area shape="poly" id="edge1882_Node000000_Node000001" title=" " alt="" coords="96,193,114,158,139,117,172,76,211,42,234,30,236,35,214,46,175,80,143,120,118,160,101,195"/>
+<area shape="rect" id="Node000002" href="$d9/d7b/structpl_expression_a_s_t_1_1_constant.htm" title=" " alt="" coords="231,56,412,83"/>
+<area shape="poly" id="edge1883_Node000000_Node000002" title=" " alt="" coords="103,194,148,142,178,115,211,92,238,81,240,86,214,97,181,119,152,146,107,197"/>
+<area shape="rect" id="Node000003" href="$dd/dd3/structpl_expression_a_s_t_1_1_constructor_call.htm" title=" " alt="" coords="213,107,431,133"/>
+<area shape="poly" id="edge1884_Node000000_Node000003" title=" " alt="" coords="116,197,160,169,212,143,247,131,248,136,214,148,163,173,119,201"/>
+<area shape="rect" id="Node000004" href="$d2/dad/structpl_expression_a_s_t_1_1_function_call.htm" title=" " alt="" coords="221,157,422,184"/>
+<area shape="poly" id="edge1885_Node000000_Node000004" title=" " alt="" coords="165,202,256,182,257,187,167,207"/>
+<area shape="rect" id="Node000005" href="$d3/d4b/structpl_expression_a_s_t_1_1_input.htm" title=" " alt="" coords="243,208,400,235"/>
+<area shape="poly" id="edge1886_Node000000_Node000005" title=" " alt="" coords="180,219,243,219,243,224,180,224"/>
+<area shape="rect" id="Node000006" href="$df/df0/structpl_expression_a_s_t_1_1_output.htm" title=" " alt="" coords="238,259,406,285"/>
+<area shape="poly" id="edge1887_Node000000_Node000006" title=" " alt="" coords="167,236,257,255,256,261,165,241"/>
+<area shape="rect" id="Node000007" href="$d6/da4/structpl_expression_a_s_t_1_1_swizzle.htm" title=" " alt="" coords="235,309,409,336"/>
+<area shape="poly" id="edge1888_Node000000_Node000007" title=" " alt="" coords="119,242,163,269,214,295,248,306,247,311,212,300,160,274,116,246"/>
+<area shape="rect" id="Node000008" href="$da/ddd/structpl_expression_a_s_t_1_1_ternary_operator.htm" title=" " alt="" coords="236,360,408,403"/>
+<area shape="poly" id="edge1889_Node000000_Node000008" title=" " alt="" coords="107,245,153,296,182,323,214,346,237,357,235,362,211,350,179,327,149,300,103,248"/>
+<area shape="rect" id="Node000009" href="$d7/d6b/structpl_expression_a_s_t_1_1_unary_operator.htm" title=" " alt="" coords="215,427,428,453"/>
+<area shape="poly" id="edge1890_Node000000_Node000009" title=" " alt="" coords="99,248,116,286,141,330,173,375,214,412,236,424,233,429,211,417,170,379,136,333,111,288,94,250"/>
 </map>

@@ -1,7 +1,17 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d4/dc8/classpl_array_base.htm" title=" " alt="" coords="5,5,263,64"/>
-<area shape="rect" id="Node000001" href="$d7/d89/classpl_dynamic_array_base.htm" title=" " alt="" coords="311,13,526,56"/>
-<area shape="poly" id="edge1308_Node000000_Node000001" title=" " alt="" coords="278,32,310,32,310,37,278,37"/>
-<area shape="rect" id="Node000002" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="574,13,749,56"/>
-<area shape="poly" id="edge1309_Node000001_Node000002" title=" " alt="" coords="542,32,574,32,574,37,542,37"/>
+<area shape="rect" id="Node000000" href="$d4/dc8/classpl_array_base.htm" title=" " alt="" coords="5,123,153,181"/>
+<area shape="rect" id="Node000001" href="$d7/d89/classpl_dynamic_array_base.htm" title=" " alt="" coords="201,131,344,173"/>
+<area shape="poly" id="edge1310_Node000000_Node000001" title=" " alt="" coords="168,149,200,149,200,155,168,155"/>
+<area shape="rect" id="Node000002" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="392,101,579,144"/>
+<area shape="poly" id="edge1311_Node000001_Node000002" title=" " alt="" coords="359,137,391,133,392,138,360,143"/>
+<area shape="rect" id="Node000007" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="399,168,572,195"/>
+<area shape="poly" id="edge1316_Node000001_Node000007" title=" " alt="" coords="360,161,399,167,398,172,359,167"/>
+<area shape="rect" id="Node000003" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="639,5,790,48"/>
+<area shape="poly" id="edge1312_Node000002_Node000003" title=" " alt="" coords="547,92,626,58,655,46,657,51,628,62,549,97"/>
+<area shape="rect" id="Node000004" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="639,72,790,115"/>
+<area shape="poly" id="edge1313_Node000002_Node000004" title=" " alt="" coords="595,106,638,100,639,106,595,111"/>
+<area shape="rect" id="Node000005" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="627,139,802,165"/>
+<area shape="poly" id="edge1314_Node000002_Node000005" title=" " alt="" coords="595,134,627,138,627,143,594,139"/>
+<area shape="rect" id="Node000006" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="627,189,802,216"/>
+<area shape="poly" id="edge1315_Node000002_Node000006" title=" " alt="" coords="565,147,580,154,628,175,663,186,661,191,626,180,578,158,563,152"/>
 </map>

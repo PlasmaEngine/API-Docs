@@ -385,7 +385,6 @@ var hierarchy =
     [ "JPH::ObjectVsBroadPhaseLayerFilter", null, [
       [ "plJoltObjectVsBroadPhaseLayerFilter", "d1/d30/classpl_jolt_object_vs_broad_phase_layer_filter.htm", null ]
     ] ],
-    [ "Occluder", "d5/d6f/struct_occluder.htm", null ],
     [ "plVisualScriptDataDescription::OffsetAndCount", "dd/ded/structpl_visual_script_data_description_1_1_offset_and_count.htm", null ],
     [ "ogt_mesh", "d1/dd7/structogt__mesh.htm", null ],
     [ "ogt_mesh_rgba", "d6/dea/structogt__mesh__rgba.htm", null ],
@@ -9609,7 +9608,6 @@ var hierarchy =
       [ "plQtSearchableMenu", "dc/ddc/classpl_qt_searchable_menu.htm", null ],
       [ "plQtSliderWidgetAction", "d9/d65/classpl_qt_slider_widget_action.htm", null ]
     ] ],
-    [ "Rasterizer", "d7/d18/class_rasterizer.htm", null ],
     [ "plTracerInterface::Ray", "d0/dd2/structpl_tracer_interface_1_1_ray.htm", null ],
     [ "plInternal::WorldData::ReadMarker", "d0/d8f/classpl_internal_1_1_world_data_1_1_read_marker.htm", null ],
     [ "plRecentFilesList::RecentFile", "df/dfa/structpl_recent_files_list_1_1_recent_file.htm", null ],

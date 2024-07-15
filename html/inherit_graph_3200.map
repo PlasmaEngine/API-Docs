@@ -1,5 +1,49 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,5,89,32"/>
-<area shape="rect" id="Node000001" href="$dd/dad/classpl_qt_menu_bar_action_map_view.htm" title=" " alt="" coords="137,5,324,32"/>
-<area shape="poly" id="edge4129_Node000000_Node000001" title=" " alt="" coords="105,16,136,16,136,21,105,21"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,208,75,235"/>
+<area shape="rect" id="Node000001" href="$df/d86/class_page_downloader.htm" title=" " alt="" coords="168,17,286,44"/>
+<area shape="poly" id="edge4130_Node000000_Node000001" title=" " alt="" coords="45,193,54,160,70,123,92,86,121,54,143,41,167,33,169,38,145,46,124,58,96,89,74,125,59,162,50,194"/>
+<area shape="rect" id="Node000002" href="$d2/dc3/classpl_qt_asset_filter.htm" title="Interface class of the asset filter used to decide which items are shown in the asset browser." alt="" coords="173,68,282,95"/>
+<area shape="poly" id="edge4131_Node000000_Node000002" title=" " alt="" coords="55,193,83,155,121,118,146,103,172,93,174,98,148,108,124,122,87,158,59,196"/>
+<area shape="rect" id="Node000005" href="$db/d61/classpl_qt_document_tree_model_adapter.htm" title="Adapter that defines data for specific type in the plQtDocumentTreeModel." alt="" coords="123,132,332,159"/>
+<area shape="poly" id="edge4134_Node000000_Node000005" title=" " alt="" coords="71,197,122,168,155,157,157,162,124,173,73,201"/>
+<area shape="rect" id="Node000012" href="$d2/d91/classpl_qt_editor_app.htm" title=" " alt="" coords="176,183,278,209"/>
+<area shape="poly" id="edge4141_Node000000_Node000012" title=" " alt="" coords="90,212,175,200,176,206,91,217"/>
+<area shape="rect" id="Node000013" href="$d8/dd8/classpl_qt_image_cache.htm" title="A singleton class that caches Qt images that are typically used for thumbnails." alt="" coords="169,233,286,260"/>
+<area shape="poly" id="edge4142_Node000000_Node000013" title=" " alt="" coords="90,225,168,236,168,241,90,231"/>
+<area shape="rect" id="Node000014" href="$d8/db2/classpl_qt_proxy.htm" title="Glue class that maps plActions to QActions. QActions are only created if the plAction is actually map..." alt="" coords="188,284,267,311"/>
+<area shape="poly" id="edge4143_Node000000_Node000014" title=" " alt="" coords="73,241,124,270,188,288,187,293,122,274,71,246"/>
+<area shape="rect" id="Node000022" href="$da/d74/classpl_qt_ui_services.htm" title=" " alt="" coords="174,335,280,361"/>
+<area shape="poly" id="edge4151_Node000000_Node000022" title=" " alt="" coords="58,247,86,286,104,304,124,320,148,332,175,340,173,345,147,337,121,325,100,308,82,289,54,250"/>
+<area shape="rect" id="Node000023" href="$d7/df5/classpl_qt_version_checker.htm" title="Downloads a web page and checks whether the latest version online is newer than the current one." alt="" coords="159,385,296,412"/>
+<area shape="poly" id="edge4152_Node000000_Node000023" title=" " alt="" coords="51,249,77,311,98,344,124,371,141,381,159,388,157,393,138,386,121,375,93,347,72,314,46,251"/>
+<area shape="rect" id="Node000003" href="$d0/dc2/classpl_qt_asset_browser_filter.htm" title=" " alt="" coords="380,5,535,32"/>
+<area shape="poly" id="edge4132_Node000002_Node000003" title=" " alt="" coords="296,63,331,53,411,30,413,35,333,59,297,68"/>
+<area shape="rect" id="Node000004" href="$dd/d6f/classpl_qt_asset_curator_filter.htm" title=" " alt="" coords="382,56,533,83"/>
+<area shape="poly" id="edge4133_Node000002_Node000004" title=" " alt="" coords="297,75,382,71,382,76,297,80"/>
+<area shape="rect" id="Node000006" href="$d5/d8e/classpl_qt_dummy_adapter.htm" title="Convenience class that returns the typename as Qt::DisplayRole. Use this for testing or for the docum..." alt="" coords="390,107,525,133"/>
+<area shape="poly" id="edge4135_Node000005_Node000006" title=" " alt="" coords="347,129,389,125,390,130,348,135"/>
+<area shape="rect" id="Node000007" href="$d9/d98/classpl_qt_layer_adapter.htm" title="Custom adapter for layers, used in plQtLayerPanel." alt="" coords="396,157,519,184"/>
+<area shape="poly" id="edge4136_Node000005_Node000007" title=" " alt="" coords="348,156,396,161,396,167,347,161"/>
+<area shape="rect" id="Node000008" href="$dd/d4c/classpl_qt_named_adapter.htm" title="Convenience class that implements getting the name via a property on the object." alt="" coords="392,208,523,235"/>
+<area shape="poly" id="edge4137_Node000005_Node000008" title=" " alt="" coords="311,161,333,168,357,181,381,194,411,205,409,210,379,198,355,185,331,173,309,166"/>
+<area shape="rect" id="Node000009" href="$dd/d94/classpl_qt_joint_adapter.htm" title=" " alt="" coords="606,157,723,184"/>
+<area shape="poly" id="edge4138_Node000008_Node000009" title=" " alt="" coords="530,201,606,182,608,187,531,206"/>
+<area shape="rect" id="Node000010" href="$d4/db9/classpl_qt_nameable_adapter.htm" title="Convenience class that implements setting the name via a property on the object." alt="" coords="590,208,739,235"/>
+<area shape="poly" id="edge4139_Node000008_Node000010" title=" " alt="" coords="539,219,590,219,590,224,539,224"/>
+<area shape="rect" id="Node000011" href="$da/de7/classpl_qt_game_object_adapter.htm" title=" " alt="" coords="806,208,970,235"/>
+<area shape="poly" id="edge4140_Node000010_Node000011" title=" " alt="" coords="755,219,806,219,806,224,755,224"/>
+<area shape="rect" id="Node000015" href="$df/d20/classpl_qt_action_proxy.htm" title=" " alt="" coords="400,259,516,285"/>
+<area shape="poly" id="edge4144_Node000014_Node000015" title=" " alt="" coords="282,289,399,276,399,281,282,294"/>
+<area shape="rect" id="Node000018" href="$d4/d86/classpl_qt_category_proxy.htm" title=" " alt="" coords="392,309,523,336"/>
+<area shape="poly" id="edge4147_Node000014_Node000018" title=" " alt="" coords="283,301,392,313,391,318,282,306"/>
+<area shape="rect" id="Node000019" href="$db/d44/classpl_qt_menu_proxy.htm" title=" " alt="" coords="402,360,513,387"/>
+<area shape="poly" id="edge4148_Node000014_Node000019" title=" " alt="" coords="283,305,333,320,357,333,381,346,411,357,409,362,379,350,355,337,331,325,282,310"/>
+<area shape="rect" id="Node000016" href="$da/d8e/classpl_qt_button_proxy.htm" title=" " alt="" coords="606,259,723,285"/>
+<area shape="poly" id="edge4145_Node000015_Node000016" title=" " alt="" coords="532,269,605,269,605,275,532,275"/>
+<area shape="rect" id="Node000017" href="$d1/d6e/classpl_qt_slider_proxy.htm" title=" " alt="" coords="608,309,721,336"/>
+<area shape="poly" id="edge4146_Node000015_Node000017" title=" " alt="" coords="531,287,608,306,607,311,529,292"/>
+<area shape="rect" id="Node000020" href="$d3/d65/classpl_qt_dynamic_menu_proxy.htm" title=" " alt="" coords="583,360,746,387"/>
+<area shape="poly" id="edge4149_Node000019_Node000020" title=" " alt="" coords="529,371,583,371,583,376,529,376"/>
+<area shape="rect" id="Node000021" href="$d7/dcd/classpl_qt_dynamic_action_and_menu_proxy.htm" title=" " alt="" coords="794,352,982,395"/>
+<area shape="poly" id="edge4150_Node000020_Node000021" title=" " alt="" coords="761,371,793,371,793,376,761,376"/>
 </map>

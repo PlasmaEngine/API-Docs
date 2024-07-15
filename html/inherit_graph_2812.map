@@ -1,3 +1,27 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d6/d57/structpl_texture_utils.htm" title=" " alt="" coords="5,5,106,32"/>
+<area shape="rect" id="Node000000" href="$da/d54/structpl_this_is_a_string.htm" title="Base class which marks a class as containing string data." alt="" coords="5,248,114,275"/>
+<area shape="rect" id="Node000001" href="$de/d73/structpl_string_base.htm" title=" " alt="" coords="169,156,358,199"/>
+<area shape="poly" id="edge3940_Node000000_Node000001" title=" " alt="" coords="98,238,161,208,191,197,193,202,163,213,100,243"/>
+<area shape="rect" id="Node000009" href="$de/d73/structpl_string_base.htm" title=" " alt="" coords="162,223,365,249"/>
+<area shape="poly" id="edge3948_Node000000_Node000009" title=" " alt="" coords="129,250,161,246,162,251,130,255"/>
+<area shape="rect" id="Node000011" href="$de/d73/structpl_string_base.htm" title="Base class for strings, which implements all read&#45;only string functions." alt="" coords="183,273,344,300"/>
+<area shape="poly" id="edge3950_Node000000_Node000011" title=" " alt="" coords="130,267,183,274,182,279,129,273"/>
+<area shape="rect" id="Node000012" href="$d6/d79/classpl_string_view.htm" title="plStringView represent a read&#45;only sub&#45;string of a larger string, as it can store a dedicated string ..." alt="" coords="217,324,310,351"/>
+<area shape="poly" id="edge3951_Node000000_Node000012" title=" " alt="" coords="99,280,163,310,217,325,216,331,161,314,97,285"/>
+<area shape="rect" id="Node000002" href="$d1/db3/structpl_hybrid_string_base.htm" title="A string class for storing and passing around strings." alt="" coords="413,156,545,199"/>
+<area shape="poly" id="edge3941_Node000001_Node000002" title=" " alt="" coords="373,175,413,175,413,180,373,180"/>
+<area shape="rect" id="Node000003" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="594,5,781,48"/>
+<area shape="poly" id="edge3942_Node000002_Node000003" title=" " alt="" coords="504,142,543,98,592,58,613,46,616,51,595,62,546,102,508,145"/>
+<area shape="rect" id="Node000004" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="593,72,782,115"/>
+<area shape="poly" id="edge3943_Node000002_Node000004" title=" " alt="" coords="540,147,592,124,622,113,624,118,594,129,542,152"/>
+<area shape="rect" id="Node000005" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="614,139,761,165"/>
+<area shape="poly" id="edge3944_Node000002_Node000005" title=" " alt="" coords="560,165,613,158,614,164,561,170"/>
+<area shape="rect" id="Node000006" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="617,189,758,216"/>
+<area shape="poly" id="edge3945_Node000002_Node000006" title=" " alt="" coords="561,185,617,191,617,197,560,190"/>
+<area shape="rect" id="Node000007" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="617,240,758,267"/>
+<area shape="poly" id="edge3946_Node000002_Node000007" title=" " alt="" coords="539,203,594,225,631,237,629,242,592,231,537,208"/>
+<area shape="rect" id="Node000008" href="$d2/dea/structpl_hybrid_string.htm" title=" " alt="" coords="615,291,760,333"/>
+<area shape="poly" id="edge3947_Node000002_Node000008" title=" " alt="" coords="544,206,547,209,563,227,571,244,580,260,595,277,616,289,613,294,592,281,575,264,566,247,558,230,543,213,540,210"/>
+<area shape="rect" id="Node000010" href="$d3/d2d/classpl_string_builder.htm" title="plStringBuilder is a class that is meant for creating and modifying strings." alt="" coords="426,223,532,249"/>
+<area shape="poly" id="edge3949_Node000009_Node000010" title=" " alt="" coords="381,233,426,233,426,239,381,239"/>
 </map>

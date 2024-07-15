@@ -142,7 +142,6 @@ var annotated_dup =
     [ "JSEdit", "d6/d81/struct_j_s_edit.htm", null ],
     [ "JSHighlighter", "d5/d4a/class_j_s_highlighter.htm", null ],
     [ "ObjectData", "d5/d39/struct_object_data.htm", null ],
-    [ "Occluder", "d5/d6f/struct_occluder.htm", null ],
     [ "ogt_mesh", "d1/dd7/structogt__mesh.htm", null ],
     [ "ogt_mesh_rgba", "d6/dea/structogt__mesh__rgba.htm", null ],
     [ "ogt_mesh_vec3", "d8/db5/structogt__mesh__vec3.htm", null ],
@@ -3176,7 +3175,6 @@ var annotated_dup =
     [ "plXRStageSpace", "df/da3/structpl_x_r_stage_space.htm", "df/da3/structpl_x_r_stage_space" ],
     [ "plXRTransformSpace", "d4/d67/structpl_x_r_transform_space.htm", "d4/d67/structpl_x_r_transform_space" ],
     [ "QList", "db/daa/class_q_list.htm", null ],
-    [ "Rasterizer", "d7/d18/class_rasterizer.htm", null ],
     [ "reverse_pointer_iterator", "d3/df2/structreverse__pointer__iterator.htm", null ],
     [ "TransformationChanges", "dc/d47/struct_transformation_changes.htm", null ]
 ];

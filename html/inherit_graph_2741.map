@@ -1,13 +1,19 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$df/d3d/classpl_stream_reader.htm" title="Interface for binary in (read) streams." alt="" coords="5,81,120,108"/>
-<area shape="rect" id="Node000001" href="$d7/d1f/classpl_chunk_stream_reader.htm" title="Reader for the chunk format that plChunkStreamWriter writes." alt="" coords="185,5,336,32"/>
-<area shape="poly" id="edge3912_Node000000_Node000001" title=" " alt="" coords="101,72,167,42,202,30,203,35,169,46,103,76"/>
-<area shape="rect" id="Node000002" href="$db/dad/classpl_file_reader_base.htm" title=" " alt="" coords="199,56,322,83"/>
-<area shape="poly" id="edge3913_Node000000_Node000002" title=" " alt="" coords="134,83,198,75,199,80,135,88"/>
-<area shape="rect" id="Node000004" href="$da/d8f/classpl_memory_stream_reader.htm" title="A reader which can access a memory stream." alt="" coords="180,107,342,133"/>
-<area shape="poly" id="edge3915_Node000000_Node000004" title=" " alt="" coords="135,101,180,107,179,112,134,106"/>
-<area shape="rect" id="Node000005" href="$dd/d54/classpl_raw_memory_stream_reader.htm" title="Maps a raw chunk of memory to the plStreamReader interface." alt="" coords="168,157,354,184"/>
-<area shape="poly" id="edge3916_Node000000_Node000005" title=" " alt="" coords="103,113,169,143,203,154,202,159,167,148,101,118"/>
-<area shape="rect" id="Node000003" href="$d4/d98/classpl_file_reader.htm" title="The default class to use to read data from a file, implements the plStreamReader interface." alt="" coords="402,56,495,83"/>
-<area shape="poly" id="edge3914_Node000002_Node000003" title=" " alt="" coords="338,67,402,67,402,72,338,72"/>
+<area shape="rect" id="Node000000" href="$d6/d90/classpl_stream_writer.htm" title="Interface for binary out (write) streams." alt="" coords="5,157,114,184"/>
+<area shape="rect" id="Node000001" href="$d5/d2b/classpl_chunk_stream_writer.htm" title="A stream writer that separates data into &#39;chunks&#39;, which act like sub&#45;streams." alt="" coords="179,5,324,32"/>
+<area shape="poly" id="edge3917_Node000000_Node000001" title=" " alt="" coords="73,142,108,91,132,64,160,42,183,30,185,35,163,46,136,68,112,94,78,145"/>
+<area shape="rect" id="Node000002" href="$dc/d06/classpl_deferred_file_writer.htm" title="A file writer that caches all written data and only opens and writes to the output file when everythi..." alt="" coords="184,56,320,83"/>
+<area shape="poly" id="edge3918_Node000000_Node000002" title=" " alt="" coords="85,145,120,117,160,92,189,81,191,86,163,97,123,122,88,149"/>
+<area shape="rect" id="Node000003" href="$dc/d02/classpl_file_writer_base.htm" title=" " alt="" coords="193,107,310,133"/>
+<area shape="poly" id="edge3919_Node000000_Node000003" title=" " alt="" coords="127,150,198,131,199,137,129,155"/>
+<area shape="rect" id="Node000005" href="$d0/d66/classpl_hash_stream_writer32.htm" title="A stream writer that hashes the data written to it." alt="" coords="176,157,328,184"/>
+<area shape="poly" id="edge3921_Node000000_Node000005" title=" " alt="" coords="129,168,175,168,175,173,129,173"/>
+<area shape="rect" id="Node000006" href="$d0/d2f/classpl_hash_stream_writer64.htm" title="A stream writer that hashes the data written to it." alt="" coords="176,208,328,235"/>
+<area shape="poly" id="edge3922_Node000000_Node000006" title=" " alt="" coords="129,186,199,205,198,210,127,191"/>
+<area shape="rect" id="Node000007" href="$d2/d79/classpl_memory_stream_writer.htm" title="A writer which can access a memory stream." alt="" coords="174,259,330,285"/>
+<area shape="poly" id="edge3923_Node000000_Node000007" title=" " alt="" coords="88,192,123,219,163,244,191,256,189,261,160,249,120,224,85,197"/>
+<area shape="rect" id="Node000008" href="$db/df9/classpl_raw_memory_stream_writer.htm" title="Maps a raw chunk of memory to the plStreamReader interface." alt="" coords="162,309,342,336"/>
+<area shape="poly" id="edge3924_Node000000_Node000008" title=" " alt="" coords="78,196,112,247,136,273,163,295,185,306,183,311,160,300,132,277,108,250,73,199"/>
+<area shape="rect" id="Node000004" href="$d9/dee/classpl_file_writer.htm" title="The default class to use to write data to a file, implements the plStreamWriter interface." alt="" coords="390,107,477,133"/>
+<area shape="poly" id="edge3920_Node000003_Node000004" title=" " alt="" coords="326,117,390,117,390,123,326,123"/>
 </map>

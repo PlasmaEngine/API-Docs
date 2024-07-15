@@ -1,19 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,107,146,133"/>
-<area shape="rect" id="Node000001" href="$d4/d82/classpl_qt_asset_browser_model.htm" title="Model of the item view in the asset browser." alt="" coords="195,5,356,32"/>
-<area shape="poly" id="edge4014_Node000000_Node000001" title=" " alt="" coords="105,95,146,68,193,42,222,30,224,35,195,46,148,72,108,99"/>
-<area shape="rect" id="Node000002" href="$dd/de7/classpl_qt_c_var_model.htm" title=" " alt="" coords="221,56,330,83"/>
-<area shape="poly" id="edge4015_Node000000_Node000002" title=" " alt="" coords="146,100,220,81,221,86,147,105"/>
-<area shape="rect" id="Node000003" href="$dd/d24/classpl_qt_document_tree_model.htm" title="Model that maps a document to a qt tree model." alt="" coords="194,107,358,133"/>
-<area shape="poly" id="edge4016_Node000000_Node000003" title=" " alt="" coords="161,117,193,117,193,123,161,123"/>
-<area shape="rect" id="Node000007" href="$da/d9b/classpl_qt_log_model.htm" title="The Qt model that represents log output for a view." alt="" coords="225,157,326,184"/>
-<area shape="poly" id="edge4020_Node000000_Node000007" title=" " alt="" coords="147,135,225,155,224,160,146,140"/>
-<area shape="rect" id="Node000008" href="$db/de1/classpl_qt_property_anim_model.htm" title=" " alt="" coords="196,208,356,235"/>
-<area shape="poly" id="edge4021_Node000000_Node000008" title=" " alt="" coords="108,141,148,168,195,194,224,205,222,210,193,198,146,172,105,145"/>
-<area shape="rect" id="Node000004" href="$dc/d34/classpl_qt_game_object_model.htm" title=" " alt="" coords="406,81,559,108"/>
-<area shape="poly" id="edge4017_Node000003_Node000004" title=" " alt="" coords="373,105,405,101,406,107,374,111"/>
-<area shape="rect" id="Node000006" href="$d2/de5/classpl_qt_layer_model.htm" title="Custom model for layers, used in plQtLayerPanel." alt="" coords="426,132,539,159"/>
-<area shape="poly" id="edge4019_Node000003_Node000006" title=" " alt="" coords="374,129,426,136,426,141,373,135"/>
-<area shape="rect" id="Node000005" href="$de/d71/classpl_qt_scenegraph_model.htm" title=" " alt="" coords="607,81,757,108"/>
-<area shape="poly" id="edge4018_Node000004_Node000005" title=" " alt="" coords="575,92,607,92,607,97,575,97"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,142,57"/>
+<area shape="rect" id="Node000001" href="$db/db6/classpl_qt_fileserve_activity_model.htm" title=" " alt="" coords="190,5,364,32"/>
+<area shape="poly" id="edge4022_Node000000_Node000001" title=" " alt="" coords="157,31,189,27,190,32,158,36"/>
+<area shape="rect" id="Node000002" href="$dd/d38/classpl_qt_fileserve_all_files_model.htm" title=" " alt="" coords="190,56,364,83"/>
+<area shape="poly" id="edge4023_Node000000_Node000002" title=" " alt="" coords="158,52,189,56,189,61,157,57"/>
 </map>

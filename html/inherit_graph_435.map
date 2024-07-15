@@ -1,9 +1,11 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d4/dc8/classpl_array_base.htm" title=" " alt="" coords="5,5,230,64"/>
-<area shape="rect" id="Node000001" href="$d7/d89/classpl_dynamic_array_base.htm" title=" " alt="" coords="278,13,490,56"/>
-<area shape="poly" id="edge885_Node000000_Node000001" title=" " alt="" coords="245,32,277,32,277,37,245,37"/>
-<area shape="rect" id="Node000002" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="538,5,781,64"/>
-<area shape="poly" id="edge886_Node000001_Node000002" title=" " alt="" coords="505,32,538,32,538,37,505,37"/>
-<area shape="rect" id="Node000003" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="829,13,995,56"/>
-<area shape="poly" id="edge887_Node000002_Node000003" title=" " alt="" coords="797,32,829,32,829,37,797,37"/>
+<area shape="rect" id="Node000000" href="$d4/dc8/classpl_array_base.htm" title=" " alt="" coords="5,43,220,101"/>
+<area shape="rect" id="Node000001" href="$d7/d89/classpl_dynamic_array_base.htm" title=" " alt="" coords="268,51,470,93"/>
+<area shape="poly" id="edge888_Node000000_Node000001" title=" " alt="" coords="235,69,267,69,267,75,235,75"/>
+<area shape="rect" id="Node000002" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="518,5,751,64"/>
+<area shape="poly" id="edge889_Node000001_Node000002" title=" " alt="" coords="485,53,517,48,518,54,486,58"/>
+<area shape="rect" id="Node000004" href="$d0/d4e/classpl_dynamic_array.htm" title=" " alt="" coords="545,88,724,131"/>
+<area shape="poly" id="edge891_Node000001_Node000004" title=" " alt="" coords="486,86,545,94,544,99,485,91"/>
+<area shape="rect" id="Node000003" href="$d8/dcc/classpl_hybrid_array.htm" title=" " alt="" coords="799,13,965,56"/>
+<area shape="poly" id="edge890_Node000002_Node000003" title=" " alt="" coords="767,32,799,32,799,37,767,37"/>
 </map>

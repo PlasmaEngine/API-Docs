@@ -1,3 +1,19 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$d4/d13/structpl_data_directory_info.htm" title=" " alt="" coords="5,5,136,32"/>
+<area shape="rect" id="Node000000" href="$d6/df0/classpl_data_directory_reader_writer_base.htm" title="This is the base class for all data directory readers/writers." alt="" coords="5,109,222,136"/>
+<area shape="rect" id="Node000001" href="$d0/d59/classpl_data_directory_reader.htm" title="A base class for readers that handle reading from a (virtual) file inside a data directory." alt="" coords="270,80,421,107"/>
+<area shape="poly" id="edge1607_Node000000_Node000001" title=" " alt="" coords="237,104,269,100,270,106,237,110"/>
+<area shape="rect" id="Node000006" href="$dc/ded/classpl_data_directory_writer.htm" title="A base class for writers that handle writing to a (virtual) file inside a data directory." alt="" coords="273,135,418,161"/>
+<area shape="poly" id="edge1612_Node000000_Node000006" title=" " alt="" coords="237,134,272,137,272,143,237,139"/>
+<area shape="rect" id="Node000002" href="$d3/d82/classpl_data_directory_1_1_archive_reader_common.htm" title=" " alt="" coords="486,9,647,52"/>
+<area shape="poly" id="edge1608_Node000001_Node000002" title=" " alt="" coords="409,73,488,50,489,55,411,78"/>
+<area shape="rect" id="Node000004" href="$de/d90/classpl_data_directory_1_1_folder_reader.htm" title="Handles reading from ordinary files." alt="" coords="469,80,664,107"/>
+<area shape="poly" id="edge1610_Node000001_Node000004" title=" " alt="" coords="437,91,469,91,469,96,437,96"/>
+<area shape="rect" id="Node000003" href="$d5/d7c/classpl_data_directory_1_1_archive_reader_uncompressed.htm" title=" " alt="" coords="717,5,877,48"/>
+<area shape="poly" id="edge1609_Node000002_Node000003" title=" " alt="" coords="662,26,716,25,716,31,662,32"/>
+<area shape="rect" id="Node000005" href="$d7/dd4/classpl_data_directory_1_1_fileserve_data_directory_reader.htm" title=" " alt="" coords="712,72,882,115"/>
+<area shape="poly" id="edge1611_Node000004_Node000005" title=" " alt="" coords="680,91,712,91,712,96,680,96"/>
+<area shape="rect" id="Node000007" href="$d9/d3f/classpl_data_directory_1_1_folder_writer.htm" title="Handles writing to ordinary files." alt="" coords="472,143,661,169"/>
+<area shape="poly" id="edge1613_Node000006_Node000007" title=" " alt="" coords="433,149,472,150,472,155,433,154"/>
+<area shape="rect" id="Node000008" href="$de/ddc/classpl_data_directory_1_1_fileserve_data_directory_writer.htm" title=" " alt="" coords="712,139,882,181"/>
+<area shape="poly" id="edge1614_Node000007_Node000008" title=" " alt="" coords="677,155,712,156,712,161,677,161"/>
 </map>

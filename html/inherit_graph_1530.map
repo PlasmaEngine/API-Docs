@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$dc/df0/classpl_hashable_struct.htm" title=" " alt="" coords="5,5,215,48"/>
-<area shape="rect" id="Node000001" href="$d4/d4a/structpl_g_a_l_shader_creation_description.htm" title=" " alt="" coords="263,13,474,40"/>
-<area shape="poly" id="edge3323_Node000000_Node000001" title=" " alt="" coords="230,24,262,24,262,29,230,29"/>
+<area shape="rect" id="Node000000" href="$dc/df0/classpl_hashable_struct.htm" title=" " alt="" coords="5,5,260,48"/>
+<area shape="rect" id="Node000001" href="$d3/da0/structpl_g_a_l_shared_texture_swap_chain_creation_description.htm" title="Description of a shared texture swap chain. Use plGALSharedTextureSwapChain::Create to create instanc..." alt="" coords="308,5,514,48"/>
+<area shape="poly" id="edge3324_Node000000_Node000001" title=" " alt="" coords="275,24,307,24,307,29,275,29"/>
 </map>

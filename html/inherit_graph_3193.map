@@ -1,13 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,56,113,83"/>
-<area shape="rect" id="Node000001" href="$d1/dc1/classpl_folder_name_delegate.htm" title="Custom delegate for the eqQtAssetBrowserFolderView to enable renaming folders. Does not do any model ..." alt="" coords="161,5,313,32"/>
-<area shape="poly" id="edge4117_Node000000_Node000001" title=" " alt="" coords="122,49,187,30,188,35,124,54"/>
-<area shape="rect" id="Node000002" href="$d4/d9f/classpl_qt_c_var_item_delegate.htm" title=" " alt="" coords="162,56,312,83"/>
-<area shape="poly" id="edge4118_Node000000_Node000002" title=" " alt="" coords="128,67,162,67,162,72,128,72"/>
-<area shape="rect" id="Node000003" href="$d7/da2/classpl_qt_item_delegate.htm" title="In combination with plQtItemView this delegate allows for receiving the full range of mouse input." alt="" coords="176,107,298,133"/>
-<area shape="poly" id="edge4119_Node000000_Node000003" title=" " alt="" coords="124,85,188,104,187,109,122,90"/>
-<area shape="rect" id="Node000004" href="$d7/ddd/classpl_qt_icon_view_delegate.htm" title=" " alt="" coords="361,81,509,108"/>
-<area shape="poly" id="edge4120_Node000003_Node000004" title=" " alt="" coords="312,108,360,102,361,107,313,113"/>
-<area shape="rect" id="Node000005" href="$de/dd7/classpl_qt_layer_delegate.htm" title="Custom delegate for layers, used in plQtLayerPanel. Provides buttons to toggle the layer visible / lo..." alt="" coords="371,132,499,159"/>
-<area shape="poly" id="edge4121_Node000003_Node000005" title=" " alt="" coords="313,127,371,134,370,140,312,132"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,68,57"/>
+<area shape="rect" id="Node000001" href="$de/d2d/classpl_qt_curve1_d_button_widget.htm" title="*** CURVE1D ***" alt="" coords="116,5,288,32"/>
+<area shape="poly" id="edge4122_Node000000_Node000001" title=" " alt="" coords="83,34,115,29,116,35,83,40"/>
+<area shape="rect" id="Node000002" href="$d4/db3/classpl_qt_manipulator_label.htm" title=" " alt="" coords="130,56,274,83"/>
+<area shape="poly" id="edge4123_Node000000_Node000002" title=" " alt="" coords="83,48,130,56,129,61,82,54"/>
 </map>
